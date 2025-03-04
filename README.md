@@ -24,7 +24,7 @@ Download Quiz Caccia from the Google Play Store:
 
 https://play.google.com/store/apps/details?id=org.android.myapp&hl=it
  
-  
+ ![App Screenshot](screenshot/AppStore.png) 
  
 🛠️ Technologies Used
 
@@ -35,8 +35,8 @@ Kivy (for UI development)
 Buildzer (to compile AAB)
 
 Figma (for UI/UX design)
- 
- 
+
+![App Screenshot](screenshot/python.jpeg) ![App Screenshot](screenshot/kivy.png) ![App Screenshot](screenshot/figma.jpeg) 
  
 📬 Contact
 

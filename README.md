@@ -14,6 +14,7 @@ Quiz Caccia is an app designed to help users prepare for the hunting license exa
 
 🎨 User-friendly interface for an intuitive learning experience
 
+![App Screenshot](screenshot/Subject.webp)
 
 
 

@@ -17,11 +17,13 @@ Quiz Caccia is an app designed to help users prepare for the hunting license exa
 
 
 
+
 🚀 Installation
 
 Download Quiz Caccia from the Google Play Store:
 
 https://play.google.com/store/apps/details?id=org.android.myapp&hl=it
+
 
 
 🛠️ Technologies Used
@@ -33,6 +35,7 @@ Kivy (for UI development)
 Buildzer (to compile AAB)
 
 Figma (for UI/UX design)
+
 
 📬 Contact
 

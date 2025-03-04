@@ -1,0 +1,91 @@
+<ChoosePage>:
+    name: 'choose'
+    canvas:
+        Color:
+            rgba: .95,.92,.85,1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+        Color:
+            rgba: .5,.52,.42,1
+        RoundedRectangle:
+            size : self.width,self.height/7
+            pos : 0,self.height-self.height/7
+            radius: [(0), (0), (self.height/10, self.height/25), (self.height/10, self.height/25)]
+
+
+
+
+    MDLabel:
+        text: "Quiz Caccia"
+        font_name: 'font/myriadpro-bold.otf'
+        font_size: self.width/12
+        size_hint: 1,.12
+        halign: 'center'
+        pos_hint: {'center_x':.5,'center_y':.93}
+        color: (1, 1, 1, 1)
+        bold: True
+
+    SmallIcon:
+        image: 'icone/round_account.png'
+        size_hint:.28,.28
+        pos_hint:{'right':.98,'center_y':.93}
+        on_release:
+            app.root.current='personale'
+            app.root.transition.direction= 'up'
+    SmallIcon:
+        id: image
+        size_hint:.3,.3
+        pos_hint:{'x':.00,'center_y':.93}
+        on_release:
+            app.root.transition.direction= 'right'
+            app.root.current='home'
+    MDLabel:
+        text: "Seleziona un quiz da\nsvolgere"
+        font_name: 'font/myriadpro-bold.otf'
+        font_size: self.width/14
+        size_hint: .95,.1
+        halign: 'center'
+        pos_hint: {'center_x':.5,'top':root.pos_label}
+        color: (.99,.43,.23,root.opacity_comlpeto)
+        bold: True
+
+    ChooseMDCard:
+        id: completo
+        text: 'COMPLETO'
+        image: 'icone/completo.png'
+        opacity: root.opacity_comlpeto
+        index: 0
+        pos_hint: {'center_x':.5,'top':root.pos_completo}
+        on_release:
+            app.root.current='domande'
+            app.root.transition.direction= 'left'
+
+    ChooseMDCardNoImage:
+        id: argomento
+        text: 'PER ARGOMENTO'
+        index: 99
+        pos_hint:{'center_x':.5,'top': root.pos_argomento}
+        on_release: root.animate_it()
+
+    GridLayout:
+        id:grid
+        cols:2
+        size_hint: 0.8,0.55
+        pos_hint:{'center_x':0.5,'top':root.pos_grid}
+        paddding:[20,20,20,20]
+        spacing: 15
+        opacity: root.opacity_grid
+        ElementCard:
+            id: uno
+            index:1
+        ElementCard:
+            id: due
+            index:2
+        ElementCard:
+            id: tre
+            index:3
+        ElementCard:
+            id:  quattro
+            index:4
+

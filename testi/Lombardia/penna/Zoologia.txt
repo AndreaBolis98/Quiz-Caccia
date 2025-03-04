@@ -1,0 +1,141 @@
+1;Cosa sono i Fringillidi?;Famiglia di uccelli dell’ordine Passeriformi;Famiglia di uccelli dell’ordine Anseriformi;Famiglia di uccelli dell’ordine Gruiformi;a
+2;Perché taluni uccelli sono insettivori?;Per istinto;Perché necessitano di proteine;Per proteggere l’agricoltura;b
+3;Quale di questi Corvidi ha il piumaggio totalmente nero?;La cornacchia grigia;La gazza;Il corvo;c
+4;Perché solitamente la lepre si alimenta di notte?;Per diminuire il rischio di predazione;Perché è infastidita dalla luce del sole;Perché con la rugiada notturna l’erba è più digeribile;a
+5;Quale di questi uccelli non è migratore?;Il tordo bottaccio;La rondine;La pernice rossa;c
+6;I ripopolamenti con fauna selvatica di provenienza dall’estero quali conseguenze possono portare?;Miglioramento genetico;Inquinamento genetico e introduzione di malattie;Non portano particolari conseguenze;b
+7;Quale di questi uccelli è un tetraonide?;L’aquila reale;La coturnice;Il gallo cedrone;c
+8;Quale di questi mammiferi è un cervide?;Il camoscio;Il capriolo;Il muflone;b
+9;Quale di questi Caradriformi presenta un lungo ciuffo di piume sulla nuca?;La beccaccia;La pavoncella;Il beccaccino;b
+10;Quale di queste specie è strettamente legata all’ambiente acquatico?;L’allodola;La peppola;La folaga;c
+11;Quale delle seguenti specie di uccelli è sedentaria?;La marzaiola;La coturnice;La beccaccia;b
+12;Che cosa si intende per “doppio passo” di una specie migratrice?;Una rincorsa veloce del migratore prima di levarsi in volo;Il modo di camminare del migratore quando si allontana senza usare le ali;Il duplice passaggio migratorio in primavera e in autunno sui nostri territori;c
+13;Quale di questi animali è un ungulato?;Il cinghiale;La marmotta;La volpe;a
+14;Normalmente quante volte in un anno partorisce la lepre comune in pianura?;Una raramente due;Sei;Tre raramente quattro;c
+15;Di cosa si nutrono in prevalenza i rapaci notturni?;Di piccoli uccelli;Di topi ratti e altri piccoli mammiferi;Di lepri e conigli adulti;b
+16;Quale specie di passero vive più facilmente a contatto con l’uomo?;La passera mattugia;La passera d’Italia;La passera oltremontana;b
+17;In natura quali animali sono più facilmente predati dai rapaci?;Quelli giovani e debilitati;Giovani e adulti indifferentemente;Quelli adulti;a
+18;Di cosa si nutre prevalentemente la volpe?;Fagiani e lepri;Galline e pollame domestico;Roditori piccoli mammiferi e uccelli;c
+19;Quale di queste anatre di superficie presenta marcati sopraccigli bianchi?;La marzaiola;Il germano reale;L’alzavola;a
+20;Quale dei seguenti mammiferi è un bovide?;Il camoscio;Il cervo;Il cinghiale;a
+21;Da che cosa si stabilisce l’età nel camoscio?;Dall’esame delle corna;Dalla lunghezza del pelo;Dal colore del mantello;a
+22;Il cinghiale può ibridarsi col maiale?;Sì;No mai;Sì ma produce ibridi non fecondi;a
+23;Perché i piccoli di taluni mammiferi come cervidi e cinghiale hanno il mantello a strisce o a macchie?;Per farsi riconoscere dagli adulti del branco;Per mimetizzarsi nell’ambiente;Per farsi riconoscere dalla madre;b
+24;Fino a quale età i cinghiali mantengono il mantello a strisce?;Fino a quattro settimane;Fino a diciotto mesi circa;Fino a sei mesi circa;c
+25;Le femmine di cervo hanno i palchi?;Sì ma solo dal secondo anno di vita;Sì e le perdono annualmente;No mai;c
+26;Le femmine del camoscio e dello stambecco hanno le corna e le perdono ogni anno?;Le hanno e non le perdono mai;Le hanno e le perdono ogni autunno;Le hanno ma le perde solo la femmina di stambecco;a
+27;Come si chiama il fenomeno per cui un volatile presenta il piumaggio parzialmente o totalmente bianco?;Melanismo;Isabellismo;Albinismo;c
+28;Le femmine di muflone hanno le corna?;Si molto evidenti;No;Raramente;c
+29;Cos’è la muta degli uccelli?;Il cambio stagionale delle penne;Una fase stagionale in cui non cantano;La fase della cova delle uova;a
+30;Cosa sono gli ungulati?;Sono mammiferi con grande e solida unghia;Sono uccelli con lunghe unghie;Sono mammiferi privi di unghie sviluppate;a
+31;Perché alcune specie animali si dicono monogame?;Perché maschio e femmina formano coppia fissa;Perché entrambi i sessi covano;Perché ogni maschio dispone di più femmine;a
+32;L’usignolo è un insettivoro?;Sì;No;Dipende dalla stagione dell’anno;a
+33;Che tipo di cane è il setter inglese?;Cane da seguita;Cane da ferma;Cane da tana;b
+34;Che tipo di cane è il pointer?;Cane da ferma;Cane da seguita;Cane da pista di sangue;a
+35;Che tipo di cane è il segugio italiano?;Cane da cerca e riporto;Cane da seguita;Cane da ferma;b
+36;La caccia alla lepre con l’uso di quale cane di solito si effettua?;Del bracco italiano;Dello springer spaniel;Del segugio;c
+37;Dove vivono i Tetraonidi?;Nelle zone umide;Nei terreni forestali collinari;Nelle zone montane alpine;c
+38;Il cinghiale è:;Un bovide;Un fasianide;Un suide;c
+39;Il coniglio selvatico è:;Un mustelide;Un leporide;Un rallide;b
+40;Quale di questi ungulati è caducicorna?;Il cervo;Il camoscio;Il muflone;a
+41;Quali denti hanno particolarmente sviluppati i roditori?;Gli incisivi;I premolari;I canini;a
+42;Dove vive la lepre bianca?;In zona di pianura;In zona di montagna;In zona di media collina;b
+43;In che mese avviene maggiormente il ripasso o migrazione primaverile del fischione?;In marzo;In maggio;In gennaio;a
+44;Il fagiano di monte è:;Un caradriforme;Un anseriforme;Un galliforme;c
+45;In quale periodo è solitamente più abbondante il passo o migrazione autunnale della peppola?;Agosto/settembre;Gennaio/febbraio;Ottobre/novembre;c
+46;Cosa può distinguere a prima vista il maschio dalla femmina di cervo?;Il colore del mantello;Il colore della coda;La presenza di palchi;c
+47;In quale mese solitamente è più abbondante il passo o migrazione autunnale del tordo bottaccio?;In agosto;In settembre;In ottobre;c
+48;In quale mese è solitamente più abbondante il passo o migrazione autunnale della beccaccia?;In settembre;In novembre;In gennaio;b
+49;In quale mese è solitamente più abbondante il passo o migrazione autunnale dell’allodola?;In settembre;In dicembre;In ottobre;c
+50;In quali paesi svernano maggiormente gli uccelli migratori in Europa?;Paesi nordici;Paesi centro-meridionali;Paesi nord-orientali;b
+51;Quale di queste specie di anatre frequenta normalmente acque poco profonde?;La moretta;La canapiglia;Il moriglione;b
+52;Che cosa s’intende per territorialità di una specie?;La difesa del territorio che essa mette in atto;Il territorio che essa frequenta saltuariamente;Il territorio che essa occupa in inverno;a
+53;Perché gli uccelli rapaci risentono maggiormente dell’effetto dell’inquinamento da diserbanti e anticrittogamici?;Perché si trovano al vertice delle catene alimentari quindi risentono del fenomeno di accumulo di tali veleni;Perché si alimentano in prevalenza di topi e ratti che vivono in luoghi inquinati;Perché predano solamente fauna che si alimenta di semi di graminacee;a
+54;Quale tra i seguenti Columbidi è di maggiori dimensioni:;Tortora;Colombella;Colombaccio;c
+55;Perché le femmine di molti uccelli hanno un piumaggio che si confonde con l’ambiente in cui vivono?;Per mimetizzarsi e sfuggire ai predatori;Per farsi riconoscere dai maschi della specie;Per non farsi riconoscere dai maschi di altre specie;a
+56;Volendo effettuare un’immissione di starne quale dei seguenti ambienti è il più idoneo?;Terreni collinari incolti e abbandonati;Foreste di pianura e pioppeti;Terreni collinari coltivati a cereali e pascoli;c
+57;Che cosa si intende per nicchia ecologica?;Il ruolo che l’animale svolge nel proprio ambiente;L’ambiente fisico in cui vive l’animale;La disponibilità alimentare che l’ambiente offre all’animale;b
+58;Quali specie di uccelli sono più utili per l’agricoltura?;Quelle onnivore;Quelle insettivore;Quelle granivore;b
+59;Quali di queste specie di uccelli è autoctona sul territorio italiano?;Il colino della Virginia;La coturnice orientale o chukar;La pernice rossa;c
+60;Quale dei seguenti uccelli frequenta normalmente una risaia?;Il beccaccino;La starna;Il tordo sassello;a
+61;Quante sono le specie di Tetraonidi che vivono sulle Alpi?;Quattro;Sei;Nove;a
+62;Il daino è:;Un cervide;Un bovide;Un suide;a
+63;Quale di queste specie di uccelli è maggiormente mimetica?;Il fringuello;La beccaccia;Il mestolone;b
+64;In quale periodo dell’anno il camoscio perde le corna?;In novembre/dicembre;In gennaio/febbraio;Mai;c
+65;Dove pongono il nido i Tetraonidi?;Sul terreno;Sopra i cespugli di rododendro;Sui rami di pini e abeti;a
+66;La cesena in Italia è più abbondante:;In estate;In inverno;In primavera;b
+67;Quale parte del corpo della lepre bianca è nera durante l’inverno?;Le zampe;Il naso;La punta delle orecchie;c
+68;Lo sparviero si può confondere in volo con la beccaccia?;Sì perché entrambi hanno il becco lungo;No perché la beccaccia è più grande;No perché la beccaccia ha volo più lento;c
+69;Nei rapaci notturni a vista il sesso si distingue:;Non è possibile alcuna distinzione;Per il diverso piumaggio;Per la mole diversa tra maschio e femmina;a
+70;I piccoli di cinghiale fino a 5-6 mesi sono caratterizzati da:;Mantello di colore rossastro;Mantello di colore bruno scuro;Mantello di colore giallo dorato a strisce nere parallele;c
+71;Qual è il solo Fasianide europeo migratore?;La pernice rossa;La starna;La quaglia;c
+72;In che periodo dell’anno il piumaggio dei giovani maschi di gallo forcello si distingue nettamente da quello della madre?;Mai;Tra giugno e luglio;Verso la fine di ottobre;c
+73;Come sono le corna della femmina di camoscio rispetto a quelle del maschio?;Più sottili diritte e parallele;Più uncinate e divergenti;Più corte;a
+74;Come si distingue in volo la femmina del gallo cedrone da quella del gallo forcello?;Dal diverso piumaggio;Non occorre distinguerle poiché frequentano ambienti molto differenti;La femmina del cedrone è più grossa;c
+75;La pernice bianca frequenta prevalentemente quali tipi di habitat?;I boschi di conifere;I pascoli alpini inframmezzati da boschi di faggi e abeti;Gli ambienti d’alta quota oltre il limite della vegetazione arborea;c
+76;Tortora e upupa sono specie migratrici nidificanti in Italia: si riconoscono facilmente in volo?;Sì perché la tortora ha il dorso bianco e nero;Sì perché la tortora tuba anche in volo;Sì perché l’upupa ha un caratteristico volo sfarfallante;c
+77;Quale delle seguenti specie è un roditore?;La marmotta;Il tasso;La faina;a
+78;Quale delle seguenti specie è un mustelide?;La donnola;La marmotta;La minilepre;a
+79;Quale di questi uccelli non è un migratore?;L’alzavola;La rondine;La starna;c
+80;Quale di questi uccelli è un rapace diurno?;Il gufo comune;L’allocco;Il falco pellegrino;c
+81;Quale di questi uccelli è un insettivoro?;Il francolino di monte;Il rondone;La marzaiola;b
+82;Quale di questi uccelli non è un rapace diurno?;La poiana;L’assiolo;Il falco grillaio;b
+83;Il muflone appartiene alla famiglia dei:;Suidi;Bovidi;Cervidi;b
+84;Quale delle seguenti specie sedentarie ha collare punteggiato e sgocciolato verso il petto?;La coturnice;La starna;La pernice rossa;c
+85;Quale principale funzione svolgono le zone umide nei riguardi dell’avifauna selvatica?;Favoriscono la sosta dei migratori acquatici;Favoriscono la nidificazione dei rapaci notturni;Favoriscono la nidificazione della fauna stanziale;a
+86;C’è correlazione tra ambiente e fauna selvatica?;Nessuna in particolare;Ci sono correlazioni solo in casi particolari;Sempre;c
+87;Un ambiente di pianura irrigua a monocoltura come può essere arricchito ai fini faunistici?;Impiantando siepi tra un appezzamento e l’altro;Ricavando pozze d’acqua per l’abbeverata;È ottimale non occorre intervenire;a
+88;Cosa significa cavicorno?;Corna ramificate;Corna internamente vuote;Corna internamente piene;b
+89;Cosa significa caccia di selezione?;Una battuta di caccia con cacciatori scelti;Una caccia diretta ad abbattere determinati capi solo dopo censimenti della popolazione oggetto di caccia;Una caccia diretta ad abbattere solo maschi o capi debilitati o malati;b
+90;Lo springer spaniel è un cane:;Da ferma;Da cerca e riporto;Da riporto;b
+91;Com’è da considerarsi la volpe?;Specie protetta da non abbattere mai;Specie dannosa da abbattere sempre;Specie cacciabile in un determinato periodo;c
+92;Quante sottospecie di lepri vivono in Lombardia?;Due;Tre;Cinque;a
+93;Quali mammiferi si cacciano in maniera classica con i cani da seguita?;Volpe e lepre;Volpe lepre e cinghiale;Cinghiale e capriolo;b
+94;Come si definisce una collezione di uccelli imbalsamati?;Ornitologica;Erpetologica;Entomologica;a
+95;Il kurzhaar o bracco tedesco è un cane:;Da cerca e riporto;Da ferma;Da tana;b
+96;I cani da ferma in linea di massima sono selezionati per cacciare quali specie di fauna selvatica?;L’avifauna stanziale;La lepre;La volpe e il cinghiale;a
+97;Quali delle seguenti specie sono cacciate in modo specifico con i cani da seguita?;Beccaccia e beccaccino;Quaglia e fagiano;Lepre e cinghiale;c
+98;Quali tra le seguenti razze canine sono più idonee a cacciare nelle paludi?;Lo spinone italiano e il setter gordon;Il pointer e il bracco italiano;Il setter inglese e il viszla;a
+99;Com’è l’andatura del pointer?;Un galoppo impetuoso;Un galoppo moderato e controllato;Un trotto allungato;a
+100;Com’è l’andatura del bracco italiano?;Un trotto;Un galoppo;Un misto di trotto e galoppo;a
+101;Che cos’è la filata?;L’attenzione del cane quando percepisce l’emanazione di un selvatico;Defilarsi del cane in allontanamento dal conduttore;Seguire un solco da un capo all’altro del terreno;a
+102;Che cos’è l’accostata?;Il cane che si accosta al cacciatore;Il cane che si accosta al terreno di caccia;Il cane che avvicina il selvatico immobile dopo averlo fermato;c
+103;Che cos’è la ferma?;L’irrigidimento del cane al cospetto del selvatico;Il fermare una lepre che fugge;Fermarsi al secco richiamo del padrone;a
+104;Che cos’è la ferma in bianco?;È una ferma a vuoto;È una ferma su selvatico a vista;Fermarsi in attesa del conduttore;a
+105;Che cos’è la ferma di consenso?;Rispetto categorico di un altro cane in ferma;Fermarsi al comando del cacciatore;Fermarsi per aspettare il cane compagno di caccia;a
+106;Che cos’è l’accostamento di un segugio?;Accostarsi al selvatico in fuga;La cerca a contatto col conduttore;Accostare un selvatico da pelo dalla pastura al covo seguendo la passata notturna;c
+107;Che cos’è la traccia?;L’impronta odorosa che un selvatico lascia sul terreno;Le vestigia notturne del selvatico;Il cammino percorso da un cane in cerca;a
+108;Che cos’è la canizza?;Coro ben orchestrato di voci di una muta che insegue;Coro di voci di segugi che accostano;Vociare di cani impazienti di essere sguinzagliati sulla traccia;a
+109;È difetto per un segugio non dare voce sulla pastura cacciando la lepre comune?;Sì;No;È un pregio;a
+110;Come uno springer spaniel segnala la vicinanza di un selvatico?;Irrigidendosi nella ferma;Agitando freneticamente la coda;Fermandosi ad attendere il conduttore;b
+111;Qual è l’ambiente tipico della starna?;L’alta montagna;Le zone ad agricoltura intensiva;Le zone ad agricoltura differenziata;c
+112;Quale delle seguenti razze canine è utilizzata tipicamente sulla pista di sangue degli ungulati feriti?;Petit bleu de gascogne;Segugio hannoveriano;Segugio italiano;b
+113;La lepre comune scava cunicoli e gallerie sotterranei?;Solo nel periodo invernale per maggior riparo;Mai;Tutto l’anno;b
+114;Di quali aree della Lombardia la pernice rossa è specie originaria?;Alte pianure brianzole;Colline moreniche del Garda;Appennino dell’Oltrepo pavese;c
+115;In un volatile cosa sono le remiganti?;Le penne delle ali;Le penne della coda;Le piume del corpo;a
+116;In un volatile cosa sono le timoniere?;Le penne delle ali;Le piume del corpo;Le penne della coda;c
+117;La forma del becco di beccaccia e beccaccino è tipica delle specie:;Che si alimentano di granaglie a terra;Che si alimentano di frutta sugli alberi;Che si alimentano di invertebrati nel suolo;c
+118;Quale tra i seguenti Ungulati è detto monogastrico?;Il camoscio;Il daino;Il cinghiale;c
+119;Cosa si intende per migrazione pre-nuziale?;La migrazione autunnale;La migrazione primaverile;La migrazione tardo-estiva;b
+120;Cosa si intende per migrazione post-nuziale?;La migrazione primaverile;La migrazione autunnale;Lo spostamento nei mesi invernali;b
+121;La marzaiola sverna prevalentemente:;Nell’Europa centrale;Nell’Europa meridionale;In Africa;c
+122;Dove nidifica prevalentemente il tordo sassello?;Europa centrale;Europa settentrionale;Nordafrica;b
+123;Quale delle seguenti anatre rientra nel gruppo delle anatre di superficie?;Moretta;Alzavola;Moriglione;b
+124;Quante sono le anatre tuffatrici cacciabili in Italia?;Due;Tre;Una;a
+125;Il colombaccio è un:;Columbiforme;Anseriforme;Passeriforme;a
+126;La gazza è un:;Anseriforme;Passeriforme;Caradriforme;b
+127;La folaga è un:;Anseriforme;Caradriforme;Gruiforme;c
+128;La volpe è un:;Suide;Canide;Mustelide;b
+129;In periodo autunnale il tordo bottaccio predilige alimentarsi di:;Semi e granaglie;Bacche spontanee e frutta;Invertebrati;b
+130;Quale delle seguenti specie appartiene alla Famiglia dei Rallidi?;Pavoncella;Porciglione;Frullino;b
+131;Quale delle seguenti specie appartiene alla Famiglia dei Corvidi?;Merlo;Ghiandaia;Gallinella d’acqua;b
+132;Il silvilago o minilepre è specie originaria del continente:;Asiatico;Americano;Europeo;b
+133;Cos’è il bramito?;Il richiamo emesso dal cervo maschio in epoca pre-riproduttiva per delimitare il proprio territorio;Il richiamo emesso dal muflone maschio per radunare le proprie femmine;Il lamento emesso dal cervo maschio in punto di morte;a
+134;I palchi dei Cervidi sono di tessuto:;Cheratinoso;Osseo;Cartilagineo;b
+135;Le corna dei Bovidi sono di tessuto:;Osseo;Cheratinoso;Cartilagineo;b
+136;Il coniglio selvatico è una specie che vive:;In colonie numerose;Individualmente;A coppie;a
+137;In quale periodo dell’anno è possibile trovare in tana i cuccioli di volpe?;Giugno/luglio;Settembre/ottobre;Marzo/aprile;c
+138;Che forma ha il becco negli uccelli prevalentemente granivori?;Lunga e appuntita;Conica;Piatta;b
+139;Quale delle seguenti specie ha volo più rapido?;Porciglione;Beccaccino;Allodola;b
+140;Quale delle seguenti specie acquatiche deve prendere la “rincorsa” sull’acqua prima di decollare?;Il germano reale;La canapiglia;La folaga;c
+141;Quale delle seguenti specie non è un Turdide?;Merlo;Cesena;Storno;c

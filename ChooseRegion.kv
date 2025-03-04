@@ -1,0 +1,56 @@
+<ChooseRegion>:
+    name: 'ChooseRegion'
+    canvas:
+        Color:
+            rgba: .95,.92,.85,1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    MDLabel:
+        text: "Seleziona una\nregione"
+        font_name: 'font/myriadpro-bold.otf'
+        font_size: self.width/12
+        size_hint: .95,.1
+        halign: 'center'
+        pos_hint: {'center_x':.5,'top':.92}
+        color: .99,.43,.23,1
+        bold: True
+
+
+<SelRegion>
+    id: ''
+    md_bg_color: .95,.92,.85,0
+    size_hint:0.8,0.15
+    orientation: 'horizontal'
+    color: .2,.3,.23,1
+    color_text: 1,1,1,1
+    elevation:0
+    image: ''
+    text: ''
+    index: 0
+    size_label: 0
+    pos_hint:
+    canvas.before:
+        Color:
+            rgba: self.color
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius: [(self.height/3.5,self.height/2), (self.height/3.5, self.height/2), (self.height/3.5, self.height/2), (self.height/3.5, self.height/2)]
+    on_press: self.change_bg(root.index)
+    on_release:
+        self.return_bg(root.index)
+    MDLabel:
+        text: root.text
+        bold: True
+        halign: 'center'
+        size_hint: 1,1
+        font_size: self.width/9
+        font_name: 'font/myriadpro-bold.otf'
+        color: root.color_text
+        pos_hint: {'x':.1, 'center_y':.5}
+
+
+
+

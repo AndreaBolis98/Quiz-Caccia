@@ -1,0 +1,22 @@
+1; Quale delle seguenti affermazioni sulle zecche è corretta?;Non trasmettono mai malattie all'uomo.;Possono trasmettere malattie anche all'uomo durante il pasto di sangue.;Trasmettono le malattie con il pungiglione.;B
+2; Per zoonosi si intende:;una malattia che interessa solo le specie selvatiche.;una malattia che si trasmette dall'animale all'uomo.; una malattia non trasmissibile.;B
+3; Che rapporto esiste tra virus, batteri, alcuni invertebrati e animali selvatici?; Parassitismo.; Predazione.; Non esistono interazioni.;A
+4; La tubercolosi bovina è una malattia che:;colpisce tutti i mammiferi compreso l'uomo.; colpisce solo il cinghiale.; colpisce solo i bovini.;A
+5; La trichinellosi si trasmette all'uomo:; per via respiratoria.;per consumo di carni crude o poco cotte.; per contatto con animali malati.;B
+6; La peste suina classica è una malattia:; solo dei suini.; dei suini e dei cinghiali.; dei suini, dei cinghiali e degli uomini.;B
+7; La trichinellosi si trasmette all'uomo:; per via respiratoria.; per contatto con animali malati.;per consumo di carne cruda o poco cotta.;C
+8; Per zoonosi si intende:;una malattia che interessa solo le specie selvatiche.;una malattia che si trasmette dall'animale all'uomo.; una malattia non trasmissibile.;B
+9; Che campioni devono essere raccolti e consegnati al laboratorio per l'esame per la ricerca di trichinella?; Organi genitali.; Muscolo striato.; Ossa.;B
+10;In quali situazioni ecologiche compaiono più facilmente le malattie?;Con alta densità di animali e debole resistenza individuale.;Con bassa densità animale e clima sfavorevole.;Con bassa densità animale e alto disturbo.;A
+11; La tubercolosi bovina è una malattia che:;colpisce tutti i mammiferi compreso l'uomo.; colpisce solo il cinghiale.; colpisce solo i bovini.;A
+12; Quale delle seguenti misurazioni biometriche di lunghezza non viene mai rilevata negli ungulati?; Lunghezza totale.; Lunghezza del garretto.; Lunghezza del collo.;C
+13; Nel trattamento delle spoglie, quale operazione deve essere eseguita tempestivamente dopo l'abbattimento?; La preparazione del trofeo.; Lo scuoiamento.; L'eviscerazione.;C
+14; Durante le fasi di eviscerazione bisogna:; incidere il cuore per permettere un dissanguamento completo.;evitare rotture dell'intestino per prevenire contaminazioni batteriche della carcassa.; togliere immediatamente la pelle.;B
+15; Il riscontro di anomalie agli organi interni durante l'eviscerazione:;non è importante perché gli organi interni sono sempre di poca importanza.; è normale nella fauna selvatica e quindi poco importante.; deve far sospettare la presenza di una malattia.;C
+16; E' consigliato l'utilizzo dell'acqua durante le operazioni di eviscerazione di una carcassa?; Mai.; Sempre.;Solo quando le carni risultano imbrattate da feci e non si riescono a pulire in altro modo.;C
+17; Di norma, cosa dobbiamo avere a disposizione durante l'eviscerazione di un capo?; Basta solo il coltello.;Guanti in lattice, coltello pulito, sacchi per contenere i visceri, provetta per raccogliere il sangue.; Nessuna delle precedenti.;B
+18; Durante le fasi di eviscerazione bisogna:; incidere il cuore per permettere un dissanguamento completo.;evitare rotture dell'intestino per prevenire contaminazioni batteriche della carcassa.; togliere immediatamente la pelle.;B
+19; Nel trattamento delle spoglie, quale operazione deve essere eseguita tempestivamente dopo l'abbattimento?; La preparazione del trofeo.; Lo scuoiamento.; L'eviscerazione.;C
+20; Che cosa si intende con il termine frollatura della carne?; La trasformazione del glicogeno in acido lattico.; La trasformazione del glicogeno in glucosio.; La decomposizione operata dai batteri.;A
+21; Quale esame è opportuno fare sempre sulla carne di cinghiale?; Per le tossicosi alimentari; Per l'accertamento di presenza di peste suina; Trichinoscopico.;C
+22; Ai sensi dei regolamenti CEE 852, 853 e 854 del 2004 il cacciatore:; diventa produttore primario ma non responsabile del prodotto cacciato.;diventa produttore primario e, come tale, responsabile del prodotto cacciato.; è obbligato a commercializzare la propria selvaggina.;B

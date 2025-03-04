@@ -1,0 +1,295 @@
+1;A chi deve essere inoltrata domanda per sostenere l’esame di abilitazione alla caccia?;Alla Questura;Alla Regione;Alle associazioni venatorie;b
+2;In caso di revoca della licenza di caccia cosa occorre fare per riottenerla?;Ripetere l’esame di abilitazione;Rivolgere domanda alla Regione;Rivolgere domanda al Prefetto;a
+3;Durante il primo anno di caccia cosa è tenuto a fare il cacciatore?;Deve farsi accompagnare dal tutore;Deve farsi accompagnare da un cacciatore che abbia la licenza da almeno tre anni;Deve farsi accompagnare da una guardia venatoria;b
+4;Che validità ha la licenza di caccia?;Tre anni;Sei anni;Otto anni;b
+5;Quali documenti deve portare con sé il cacciatore durante l’esercizio venatorio?;Solo la licenza di caccia;Licenza di caccia tesserino regionale e assicurazione;Solo il tesserino regionale;b
+6;A quale età minima è consentito esercitare la caccia?;21 anni;16 anni;18 anni;c
+7;Da quanti anni come minimo deve avere la licenza il cacciatore che accompagna chi è alla prima licenza?;2 anni;3 anni;5 anni;b
+8;Qual è la validità della tassa di concessione governativa per il porto di fucile uso caccia?;Una stagione venatoria;365 giorni dalla data del rilascio della licenza;6 anni dalla data del primo versamento;b
+9;Il cacciatore cosa deve annotare fra l’altro sul tesserino venatorio?;I capi abbattuti;L’ora di inizio e termine della caccia;La regione nella quale si esercita la caccia;a
+10;Il tesserino venatorio ha validità nazionale?;Sì;No vale solo nella regione di residenza;No vale solo nella provincia di residenza;a
+11;Chi rilascia il tesserino venatorio?;La Regione;La Prefettura;La Questura;a
+12;A fine stagione venatoria il tesserino venatorio:;Può essere distrutto;Deve essere conservato per la stagione successiva;Va riconsegnato alla Regione che lo ha rilasciato;c
+13;Come viene considerata dalla legge dello Stato la fauna selvatica?;Patrimonio indisponibile dello Stato;Proprietà del conduttore del fondo dove si trova;Cosa di nessuno;a
+14;Quale ente ha competenza amministrativa in materia di caccia?;Il Comune;La Regione;La Comunità montana;b
+15;I proventi derivanti dalle sanzioni amministrative in materia di caccia da chi vengono incamerati?;Dal Ministero delle Politiche Agricole;Dalla Regione;Dai Comuni;b
+16;Cosa si intende per controllo della fauna selvatica?;Effettuare censimenti e conteggi delle popolazioni selvatiche a fini statistici;Effettuare interventi di riduzione delle popolazioni selvatiche tramite catture e/o abbattimenti;Effettuare un’assidua vigilanza delle popolazioni selvatiche;b
+17;L’uccisione casuale di una lepre durante una falciatura è considerata esercizio di caccia?;No;Sì;Solo in periodo di caccia consentita;a
+18;A chi appartiene la fauna selvatica legittimamente abbattuta?;A colui che l’ha abbattuta;Al proprietario del cane;Al proprietario del fondo;a
+19;Quali dei seguenti animali è da considerarsi fauna selvatica?;Coniglio selvatico;Ratto;Arvicola;a
+20;Chi è proprietario della fauna selvatica rinvenuta morta?;Chi la rinviene;Il Comune sul cui territorio è stata rinvenuta;Lo Stato;c
+21;Chi emana il calendario venatorio integrativo per la zona faunistica delle Alpi?;Il CAC;La Regione;La Comunità montana;b
+22;Chi approva le disposizioni integrative al calendario venatorio regionale?;La Giunta regionale;Il Consiglio regionale;Il coordinamento degli ATC e dei CAC;a
+23;Chi rilascia il porto di fucile a uso caccia?;La Regione;La Prefettura;La Questura;c
+24;La fauna selvatica italiana è tutelata nell’interesse di chi?;Dei cacciatori;Degli agricoltori;Di tutti i cittadini;c
+25;A chi appartiene la fauna selvatica?;Allo Stato;Alla Regione;A nessuno;a
+26;Per superficie agro-silvo-pastorale ai fini della caccia programmata si deve intendere:;Ogni parte del territorio in cui può vivere la fauna selvatica;Il territorio utilizzato a scopo agricolo e forestale;Le zone adibite al pascolo del bestiame;a
+27;Per ambito territoriale di caccia s’intende:;Il territorio del comune di residenza del cacciatore;Il terreno in cui si esercita solitamente la caccia;La zona delimitata sul territorio cui si è ammessi a praticare la caccia programmata;c
+28;Per caccia programmata s’intende:;L’esercizio venatorio che ogni cacciatore programma all’inizio della stagione;La caccia esercitata insieme ad altri cacciatori;Il prelievo venatorio in un ambito o in un comprensorio;c
+29;Come viene considerata dalla legge la caccia da appostamento temporaneo rispetto all’opzione in via esclusiva?;Come la caccia da appostamento fisso;Come la caccia vagante;È un’opzione a se stante;b
+30;Tra le forme di caccia in via esclusiva si può scegliere:;Caccia da appostamento fisso;Caccia da appostamento temporaneo;Caccia di selezione agli ungulati;a
+31;La caccia programmata è estesa:;A tutto il territorio nazionale;Solo alla regione Lombardia;Solo alla zona Alpi;a
+32;A chi è consentito l’accesso nelle zone a caccia programmata?;Solo ai cacciatori ammessi;Solo ai cacciatori residenti nella regione;Solo ai cacciatori residenti nella zona;a
+33;Che cosa si intende per pianificazione territoriale in materia di caccia?;La caccia esercitata in pianura;Programmare un diversificato uso del territorio in relazione alla caccia;Individuare le sole zone a divieto di caccia;b
+34;Chi suddivide il territorio regionale in Ambiti territoriali e in Comprensori alpini di caccia?;Il Ministero delle Politiche agricole;La Regione;Il Ministero dell’Ambiente;b
+35;Che cosa sono i Comprensori alpini di caccia?;Zone alpine a caccia programmata;Istituti di caccia privati;Zone a caccia vietata;a
+36;Per piani di abbattimento si intende:;Il prelievo complessivo di capi di avifauna migratoria consentita;Il prelievo programmato delle specie di fauna stanziale in un ambito o in un comprensorio alpino;Gli interventi del servizio di vigilanza per il controllo dei predatori;b
+37;Per destinazione differenziata del territorio a fini venatori si intende:;La distinzione territoriale tra zona di pianura e zona Alpi;L’utilizzo del territorio ai fini della pianificazione faunistico-venatoria;La caccia di specializzazione;b
+38;Nei comitati di gestione degli ambiti territoriali e dei comprensori alpini di caccia sono presenti fra gli altri:;I rappresentanti delle organizzazioni agricole;I rappresentanti delle organizzazioni sindacali;I rappresentanti delle associazioni di volontariato sociale;a
+39;Quale delle seguenti specie è particolarmente protetta?;Il riccio;Il camoscio alpino;L’aquila reale;c
+40;Quale delle seguenti specie è particolarmente protetta?;Il fenicottero;L’oca selvatica;Il germano reale;a
+41;Quale delle seguenti specie è particolarmente protetta?;Il colombaccio;La starna;Il cigno reale;c
+42;Quale delle seguenti specie è particolarmente protetta?;La volpe;Il capriolo;La lontra;c
+43;Quale delle seguenti specie è vietato abbattere?;La quaglia;La starna;Il pettirosso;c
+44;Quale delle seguenti specie è vietato abbattere?;La pernice rossa;Il gallo cedrone;Il gallo forcello;b
+45;Quale delle seguenti specie è vietato abbattere?;Il riccio;La lepre;Il cinghiale;a
+46;Quale delle seguenti specie è vietato abbattere?;Il germano reale;La cesena;La cincia mora;c
+47;Quale delle seguenti specie è vietato abbattere?;La folaga;La balia nera;La beccaccia;b
+48;Quale delle seguenti specie è vietato abbattere?;Il gatto selvatico;Il coniglio selvatico;La lepre bianca;a
+49;Quale delle seguenti specie è particolarmente protetta?;L’avvoltoio grifone;Il gallo cedrone;Il gallo forcello;a
+50;Quale delle seguenti specie è particolarmente protetta?;Il camoscio alpino;Il lupo;Il daino;b
+51;Quale delle seguenti specie è particolarmente protetta?;La pittima reale;Il cervo;La volpoca;c
+52;Quale delle seguenti specie non è particolarmente protetta?;La cicogna;Il verdone;L’avvoltoio monaco;b
+53;Quale delle seguenti specie non è particolarmente protetta?;Il cinghiale;La martora;L’orso bruno;a
+54;Quale delle seguenti specie non è particolarmente protetta?;Il cigno reale;Il prispolone;Il lupo;b
+55;In quale periodo è cacciabile la coturnice sulle Alpi?;Dal 1° novembre all’8 dicembre;Dalla terza domenica di settembre al 31 dicembre;Dal 1° ottobre al 30 novembre;c
+56;Quale specie è cacciabile dal 1° ottobre al 31 dicembre o dal 1° novembre al 31 gennaio?;Il cinghiale;Il cervo;Il capriolo;a
+57;Per quale delle seguenti specie la caccia in Lombardia termina l’8 dicembre?;La starna;La folaga;Il codone;a
+58;Sino a che data si può cacciare la pernice rossa in Lombardia?;31-gen;31-dic;08-dic;c
+59;La donnola è cacciabile da quale data?;Dalla terza domenica di settembre;Dall’1 novembre;Mai;c
+60;La caccia alla moretta termina il:;31-gen;31-dic;30-nov;a
+61;La caccia al coniglio selvatico termina il:;30-nov;31-dic;31-gen;b
+62;La caccia alla cesena termina il:;31-dic;15-dic;31-gen;c
+63;Quando termina la caccia alla gallinella d’acqua?;31-gen;20-gen;31-dic;a
+64;La caccia alla pernice bianca termina il:;30-nov;31-dic;31-gen;a
+65;Si può cacciare la marmotta in Lombardia?;Solo nella zona faunistica delle Alpi;Sì;No;c
+66;Quali delle seguenti specie è cacciabile fino al 31 gennaio?;Il mestolone;Il fagiano di monte;La pispola;a
+67;Quali delle seguenti specie è cacciabile fino al 31 gennaio?;L’allodola;Il coniglio selvatico;Il germano reale;c
+68;La caccia alla tortora termina il:;30-nov;31-gen;31-dic;c
+69;Qual è il periodo di caccia dell’averla maggiore?;Mai è una specie non cacciabile;Dalla terza domenica di settembre al 31 dicembre;Dalla terza domenica di settembre al 31 gennaio;a
+70;La caccia al fagiano è consentita:;Dalla terza domenica di settembre al 31 gennaio;Dal 1° ottobre al 1° gennaio;Dalla terza domenica di settembre all’8 dicembre;a
+71;La caccia al beccaccino termina il:;31-dic;15-dic;31-gen;c
+72;Chi può esercitare la caccia in un fondo chiuso?;Il proprietario dei terreni;Gli agenti della vigilanza;Nessuno;c
+73;Da quale data è cacciabile la femmina del gallo forcello?;Mai;Dal 1° ottobre;Dalla terza domenica di settembre;a
+74;Da quale data si può cacciare il gallo forcello?;01-ott;Terza domenica di settembre;01-nov;a
+75;Per quale delle seguenti specie la caccia è consentita fino al 31 gennaio?;Il fischione;L’allodola;La quaglia;a
+76;Si può cacciare la faina?;Sì;Solo il maschio;Mai;c
+77;Si può cacciare la martora?;Sempre perché è un predatore;Mai;Dalla terza domenica di settembre al 31 dicembre;b
+78;Si può cacciare il tasso?;Solo il maschio;Dal 1° ottobre al 30 novembre;Mai;c
+79;Sino a che data si può cacciare la marzaiola?;31-dic;15-gen;31-gen;c
+80;Sino a che data si può cacciare la volpe?;31-gen;30-nov;31-dic;a
+81;Quale delle seguenti specie è vietato abbattere?;La volpe;La pernice rossa;La taccola;c
+82;Sino a che data si può cacciare l’allodola?;31-gen;31-dic;30-nov;b
+83;Quale specie è cacciabile dal 1° ottobre al 31 dicembre con facoltà di posticipare dal 1° novembre al 31 gennaio?;Il cinghiale;Il muflone;Il camoscio;a
+84;Il codirosso è cacciabile da quale data?;Dal 1° ottobre;Dalla terza domenica di settembre;Mai;c
+85;Il merlo acquaiolo è cacciabile da quale data?;Dal 1° ottobre;Dalla terza domenica di settembre;Mai;c
+86;Il rigogolo è cacciabile da quale data?;Dal 1° settembre;Dalla terza domenica di settembre;Mai;c
+87;Quale delle seguenti specie in Lombardia è cacciabile sino all’8 dicembre?;La moretta;La folaga;La lepre;c
+88;Quale delle seguenti specie è cacciabile sino al 31 gennaio?;L’alzavola;Il merlo;La quaglia;a
+89;Quale delle seguenti specie è cacciabile fino al 31 gennaio?;Il verdone;Il codone;Il merlo;b
+90;Quale delle seguenti specie è cacciabile fino al 31 dicembre?;Il tordo bottaccio;La cesena;Il merlo;c
+91;Quale delle seguenti specie è cacciabile fino al 31 gennaio?;La pispola;Il moriglione;La tortora;b
+92;Quale delle seguenti specie è cacciabile dalla terza domenica di settembre al 31 gennaio?;Il colino della Virginia;La marzaiola;Il merlo;b
+93;Quale delle seguenti specie è cacciabile dal 1° ottobre al 30 novembre?;La lepre bianca;Il cinghiale;La lepre bruna;a
+94;Quale delle seguenti specie in Lombardia è cacciabile dalla terza domenica di settembre all’8 dicembre?;La volpe;La starna;Il germano reale;b
+95;Quale delle seguenti specie è cacciabile dal 1 ottobre al 30 novembre?;Il cinghiale;Il fagiano;La coturnice;c
+96;Quale delle seguenti specie in Lombardia è cacciabile sino all’8 dicembre?;La folaga;La pernice rossa;La pavoncella;b
+97;Quale delle seguenti specie è cacciabile dalla terza domenica di settembre al 31 dicembre?;L’allodola;La canapiglia;Il fagiano;a
+98;Quale delle seguenti specie è cacciabile dalla terza domenica di settembre al 31 dicembre?;Il merlo;Il tordo bottaccio;Il frullino;a
+99;Si può cacciare il gallo cedrone?;Solo nella zona faunistica delle Alpi;Solo il maschio;È sempre vietato;c
+100;In quale periodo è consentita la caccia alla canapiglia?;Dalla terza domenica di settembre al 31 dicembre;Dalla terza domenica di settembre al 31 gennaio;Mai;b
+101;Quale delle seguenti specie è cacciabile fino al 31 gennaio?;La quaglia;La folaga;La starna;b
+102;Quale delle seguenti specie è cacciabile fino al 31 gennaio?;Il camoscio alpino;La gallinella d’acqua;La pernice rossa;b
+103;Quale delle seguenti specie non è cacciabile?;Il verdone;Il tordo bottaccio;La canapiglia;a
+104;Quale delle seguenti specie non è cacciabile da appostamento?;Il beccaccino;L’allodola;L’alzavola;a
+105;Quale delle seguenti specie è cacciabile nel numero massimo di 10 capi al giorno per cacciatore?;Il germano reale;La beccaccia;Il tordo sassello;a
+106;Quale delle seguenti specie è cacciabile?;Il cervo;Lo stambecco;Il lupo;a
+107;Si può cacciare il lucherino?;Mai;Dalla terza domenica di settembre al 31 dicembre;Dalla terza domenica di settembre al 31 gennaio;a
+108;Quale delle seguenti specie non è particolarmente protetta?;Il fringuello;L’aquila reale;Il picchio verde;a
+109;Quali di questi mammiferi si può abbattere?;Il camoscio appenninico;Il camoscio alpino;L’orso bruno;b
+110;Si può abbattere la femmina del gallo forcello?;Mai;Sì ma solo in novembre;Sì ma solo se non accompagnata dai pulcini;a
+111;Quale delle seguenti specie non è cacciabile?;La gallinella d’acqua;La peppola;Il moriglione;b
+112;Quale delle seguenti specie è cacciabile?;La pernice bianca;La pittima minore;Lo svasso maggiore;a
+113;Quale delle seguenti specie è cacciabile?;La folaga;La strolaga mezzana;Il piviere dorato;a
+114;Col terreno coperto di neve si può cacciare il camoscio in zona Alpi?;Sì nel periodo consentito;No;Sì ma solo se il terreno è parzialmente coperto di neve;a
+115;Si può cacciare su terreni allagati da piene di fiume?;No;Sì;Solo da appostamento;a
+116;In quale di queste zone si può esercitare la caccia?;In un fondo chiuso di proprietà;Nell’ATC prescelto;In oasi di protezione;b
+117;Nelle zone militari delimitate da tabelle si può cacciare?;Sì ma solo i militari;No;Sì ma solo da appostamento fisso;b
+118;In quale intervallo percentuale il territorio agro- silvo-pastorale regionale in zona Alpi è destinato a protezione della fauna selvatica?;Dal 10 al 20%;Dal 20 al 30%;Dal 30 al 40%;a
+119;In quale intervallo percentuale il territorio agro- silvo-pastorale regionale fuori zona Alpi è destinato a protezione della fauna selvatica?;Dal 10 al 20%;Dal 30 al 50%;Dal 20 al 30%;c
+120;A quale distanza minima occorre stare per poter sparare in direzione di una strada provinciale?;100 metri;150 metri;300 metri;b
+121;È consentito cacciare il beccaccino da appostamento?;No;Sì sempre;Sì ma solo se temporaneo;a
+122;È consentito cacciare all’aspetto la beccaccia?;Mai;Sì;Solo al limite del bosco;a
+123;È consentita la caccia su terreno totalmente coperto da neve?;No mai;Sì sempre;No salvo che in zona Alpi;c
+124;Su uno specchio d’acqua gelato quando si può cacciare?;Sempre;Solo se non è in tutto o nella maggior parte coperto da ghiaccio;Mai;b
+125;Quando si può cacciare la lepre comune in un vivaio?;Solo a scopo di addestramento del cane;In nessun caso;Quando si ha il consenso del proprietario;b
+126;A quale distanza minima da una superstrada si può sparare in direzione opposta a essa?;50 metri;100 metri;150 metri;a
+127;Quando si può esercitare la caccia a bordo di autoveicoli?;Solo quando sono fermi;Mai;Solo sulle strade poderali e interpoderali;b
+128;È consentito esercitare la caccia a 80 metri da una casa?;No la distanza minima consentita è 100 metri;No la distanza minima consentita è 150 metri;Sì purché si spari in direzione opposta;a
+129;È consentito sparare a bordo di un trattore?;Sì;Mai;Sì purché non sia in movimento;b
+130;A quale distanza minima è consentito sparare in direzione di case strade posti di lavoro?;100 metri;150 metri;300 metri;b
+131;A quale distanza minima si può sparare avendo alle spalle una strada comunale?;100 metri;50 metri;150 metri;b
+132;A che distanza minima dai confini di una zona di ripopolamento e cattura si può cacciare in forma vagante?;Non c’è distanza minima;50 metri;100 metri;a
+133;A che distanza minima da una zona di ripopolamento e cattura si può impiantare un appostamento fisso?;100 metri;200 metri;400 metri;c
+134;È sempre vietato esercitare la caccia:;Nelle zone adibite ad attività sportive;Su una strada poderale;Entro 1000 metri dalle funivie;a
+135;A quale distanza minima si può sparare avendo alle spalle una linea ferroviaria?;50 metri;100 metri;150 metri;a
+136;È consentito esercitare la caccia nei pressi di macchine operatrici agricole in funzione?;No mai;Sì purché a distanza minima di 100 metri;Sì purché si spari in direzione opposta;b
+137;In quale giorno della settimana oltre al venerdì l’esercizio venatorio è sempre vietato?;Il martedì;Il mercoledì;Il giovedì;a
+138;Per quanti giorni settimanali la legge regionale consente la caccia vagante alla fauna stanziale negli ambiti territoriali di caccia?;Tre giorni a scelta esclusi i giorni di silenzio venatorio;Due giorni fissi esclusi i giorni di silenzio venatorio;Tre giorni fissi esclusi i giorni di silenzio venatorio;a
+139;È consentita la caccia alla lepre comune un’ora dopo il tramonto?;Sì;No;Solo se autorizzati dalla Polizia provinciale;b
+140;È consentita la caccia da appostamento fisso agli acquatici da due ore prima del sorgere del sole?;No;Sì;Solo dalla terza domenica di settembre al 1° ottobre;a
+141;Di quante giornate di caccia per la legge lombarda si può usufruire al massimo durante la stagione venatoria?;75;45;55;c
+142;Quando una festività cade di martedì l’esercizio venatorio è consentito?;Sì;Dipende da regione a regione;No;c
+143;Possono le Regioni consentire la caccia da appostamento all’avifauna migratoria per più di tre giorni settimanali?;No mai;Sì sempre;Sì ma solo nel periodo compreso tra 1 ottobre e 30 novembre;c
+144;La caccia è consentita sino a che ora?;Sino al tramonto fatta eccezione per la caccia di selezione agli ungulati;Sino a un’ora dopo il tramonto;Sino al tramonto per tutte le forme di caccia;a
+145;Qual è l’orario giornaliero in cui è consentita la caccia?;Dall’alba al tramonto;Da un’ora prima del sorgere del sole al tramonto;Da un’ora prima dell’alba a un’ora dopo il tramonto;b
+146;Quando si può esercitare la caccia nelle giornate di martedì e venerdì?;Quando coincidono con giorni festivi;Mai;Dipende dal calendario venatorio regionale;b
+147;Nel parco di una villa si può cacciare?;Quando il parco è cintato e chi caccia ha il consenso del proprietario;Sempre indipendentemente da ogni autorizzazione;Mai;c
+148;Si può cacciare sparando da un natante in movimento?;Solo se a motore;No;Solo se a remi;b
+149;Nelle foreste demaniali l’esercizio venatorio:;È sempre vietato;È vietato durante le operazioni di rimboschimento;È vietato salvo in quelle che non presentino condizioni favorevoli a riproduzione e sosta della fauna;c
+150;Le trappole per la cattura di fauna selvatica:;Si possono solo detenere;Non si possono né vendere né detenere;Si possono solo vendere;b
+151;Le reti per uccellagione:;Si possono usare;Si possono solo detenere;Non si possono né vendere né detenere;c
+152;Si può cacciare con un fucile semiautomatico cal. 12 a cinque colpi munito di riduttore fisso che ne limita l’uso a tre?;Sì ma solo al di fuori della zona Alpi;No;Solo se autorizzati dalle competenti autorità;a
+153;È consentito l’uso del calibro 10?;No;Sì;Solo se si è appositamente autorizzati;a
+154;E’ permesso utilizzare a caccia una carabina ad aria compressa?;Sì;No;Solo da appostamento;b
+155;Chi può esercitare la caccia con la pistola?;Solo gli agenti venatori volontari;Nessuno;Solo la Polizia provinciale;b
+156;La caccia oltre che col fucile è consentita anche:;Col falco;Con la balestra;Con trappole a scatto;a
+157;È consentito usare bocconi avvelenati?;No;Sì;Solo agli agenti di vigilanza provinciali;a
+158;Quanti sono i colpi consentiti per un’arma da caccia a canna liscia da usare in zona Alpi?;Due;Cinque;Tre;a
+159;Si può cacciare con l’arco?;Sì;No;Solo se appositamente autorizzati dalla Regione;a
+160;Che cosa prevede la legge per l’uso a caccia di armi ad aria compressa?;Le vieta salvo quelle a canna rigata;Le consente;Le vieta;c
+161;Si può cacciare col vischio?;Mai;Sì;Solo in pochi casi fissati dalla legge;a
+162;A quanti colpi deve essere limitato il fucile a ripetizione semiautomatica fuori della zona Alpi?;A non più di quattro colpi;A non più di tre colpi;A non più di due colpi;b
+163;Si può cacciare con la balestra?;Sì;No;Solo se appositamente autorizzati dalla Regione;b
+164;È consentito a scopo venatorio l’uso di un’arma munita di silenziatore?;Sì sempre;Solo alla Polizia provinciale;No è sempre vietato;c
+165;Per esercitare la caccia con l’arco occorre:;La licenza di caccia;Una speciale autorizzazione;Il solo tesserino venatorio;a
+166;Dove è sempre vietato portare armi da fuoco cariche?;Nella zona Alpi quando il terreno è coperto di neve;Sulle strade poderali e interpoderali;A bordo di qualunque veicolo;c
+167;Per esercitare la caccia col falco occorre:;La licenza di caccia;Una speciale autorizzazione;Il solo tesserino venatorio;a
+168;Chi ha scelto come forma di caccia in via esclusiva quella da appostamento fisso può cacciare:;Solo nel proprio appostamento;In qualsiasi appostamento fisso col consenso del titolare purché socio di almeno un ATC o CAC in regione;Solo negli appostamenti rientranti nell’ATC o CAC di appartenenza.;b
+169;È consentita la caccia a rastrello?;Sì sempre;Sì massimo in tre persone;No mai;b
+170;Quando si possono prendere volatili dal nido?;Per allevarli come richiami vivi;Solo quando sono idonei al volo;Solo alle condizioni previste dalla legge;c
+171;Per allevare lepri occorre l’autorizzazione di chi?;Di nessuno;Dell’ATC competente;Della Regione;c
+172;Da quando è consentito l’allenamento e addestramento dei cani sul territorio a caccia programmata?;Nei trenta giorni antecedenti l’apertura della caccia;Dalla terza domenica di settembre;Dall’1 ottobre;a
+173;È sempre consentito l’addestramento dei cani da caccia?;Sì ma solo negli ATC;No solo in alcune zone e/o periodi;Sì ma solo nei quagliodromi;b
+174;Solitamente l’appostamento fisso è costruito con quale materiale?;Muratura o altra solida materia;Frasche e canne;Tela;a
+175;Quale dei seguenti carnieri è consentito in una giornata di caccia alla migratoria?;17 tordi bottacci 10 merli e 3 beccacce;12 germani 10 colombacci e 7 tordi sasselli;9 germani e 1 alzavola;c
+176;Da chi è rilasciata l’autorizzazione per la caccia da appostamento fisso?;Dal Comune competente per territorio;Dall’ATC di appartenenza;Dalla Regione;c
+177;Per poter impiantare un appostamento fisso occorre il consenso di chi?;Del proprietario del fondo;Del conduttore del fondo;Del proprietario o del conduttore del fondo;c
+178;In un appostamento fisso quante persone possono essere presenti al massimo per cacciare contemporaneamente?;Il titolare e altre cinque;Non più di quattro;Non c’è limite;c
+179;A quale distanza minima da un appostamento fisso in funzione si può esercitare la caccia vagante?;100 metri;200 metri;400 metri;a
+180;A quale distanza minima da un appostamento fisso può essere collocato un appostamento temporaneo?;200 metri;100 metri;400 metri;a
+181;A quale distanza minima da un fondo chiuso può essere impiantato un appostamento fisso?;Non c’è distanza minima;100 metri;400 metri;a
+182;È obbligatorio segnalare la cattura di uccelli inanellati?;No è facoltativo;È obbligatorio;È obbligatorio ma solo per quelli inanellati all’estero;b
+183;Ai richiami vivi di cattura consentiti appartiene:;La tortora;Il tordo sassello;La folaga;b
+184;Tra i richiami vivi vietati figura:;Il beccaccino;La pavoncella;Il tordo bottaccio;a
+185;Può un agricoltore recintare il proprio fondo?;No mai;Sì ai sensi di legge;Solo durante la stagione venatoria;b
+186;Durante la caccia da appostamento fisso è consentito l’uso:;Di stampi in plastica riproducenti specie cacciabili e non cacciabili;Della civetta viva;Di uccelli imbalsamati di specie cacciabili e non cacciabili;a
+187;Chiunque può esercitare la tassidermia?;Sì purché tecnicamente preparato;Nessuno è un’attività vietata;No solo chi appositamente autorizzato;c
+188;Ogni cacciatore che eserciti la caccia da appostamento fisso può utilizzare:;Un numero massimo di richiami vivi di cattura illimitato di cui non più di 8 per specie consentita;Un numero massimo di richiami vivi di allevamento non superiore a 30;Un numero massimo di richiami vivi di cattura non superiore a 40 di cui non più di 10 per specie consentita;c
+189;È vietato l’uso di richiami vivi che non siano identificabili:;Mediante anellino inamovibile;Mediante collarino;Mediante un contrassegno applicato sulla gabbietta;a
+190;La Regione può rilasciare autorizzazioni per la caccia da appostamento fisso:;A tutti coloro che ne facciano richiesta in tempo utile;Solo a chi abbia compiuto 60 anni di età;A tutti coloro che ne facciano richiesta e ne abbiano i requisiti di legge;c
+191;Chi istituisce le oasi di protezione e le zone di ripopolamento e cattura?;Il Comune competente per territorio;La Regione;L’ATC;b
+192;In una zona di ripopolamento e cattura chi può catturare la fauna stanziale?;I proprietari dei terreni;Nessuno;La Regione tramite il personale preposto;c
+193;Nelle zone di ripopolamento e cattura a chi è permessa la caccia?;Ai residenti nei comuni inclusi nella zona;Agli agenti della Polizia provinciale;A nessuno;c
+194;Nelle oasi di protezione si possono cacciare:;I Corvidi;Il cinghiale e la volpe;La caccia è sempre vietata a chiunque;c
+195;Che cosa sono le riserve naturali?;Aree naturali protette dove la caccia è sempre vietata;Aree a caccia riservata;Aree destinate alla tutela dell’agricoltura;a
+196;È consentito esercitare la caccia nei centri privati di riproduzione della fauna selvatica?;Solo a chi ha il permesso del proprietario;Sì;No a nessuno;c
+197;Cosa sono gli osservatori ornitologici?;Stazioni per lo studio delle migrazioni degli uccelli;Particolari appostamenti fissi di caccia;Luoghi di sosta idonei per gli uccelli migratori;a
+198;Per aziende agri-turistico venatorie si intende:;Zone di turismo agricolo e forestale;Zone destinate all’allevamento di fauna selvatica da immettere sui fondi agricoli;Zone di caccia private istituite per l’integrazione del reddito agricolo;c
+199;Che cos’è l’ISPRA?;È l’organo tecnico nazionale istituito fra le associazioni venatorie;È l’organo nazionale di consulenza tecnico-scientifico in materia di gestione faunistico-venatoria;È l’istituto nazionale per la gestione delle aree naturali protette;b
+200;Quale dei seguenti istituti ha competenze in materia di caccia?;L’Istituto territoriale per la fauna selvatica;L’Ente regionale per i servizi all’agricoltura e alle foreste;L’ISPRA;c
+201;Il Comitato tecnico faunistico-venatorio nazionale ha il compito:;Di approvare leggi in materia venatoria;Di definire gli ATC e i CAC;Di esprimere pareri inerenti la corretta applicazione della legislazione venatoria;c
+202;Il Ministero delle politiche agricole:;Deve aggiornare ogni quattro anni i massimali delle polizze assicurative;Può vietare la caccia a talune specie;Autorizza la cattura dei richiami vivi;a
+203;La tassa di concessione regionale per l’esercizio venatorio ha validità:;Annuale;Biennale;Dura quanto la stagione venatoria;a
+204;Il Ministero dei Trasporti:;Può vietare la caccia lungo le ferrovie;Autorizza l’abbattimento di specie selvatiche sulla rete autostradale;Controlla il livello delle popolazioni di uccelli negli aeroporti;c
+205;Il Ministero della Salute:;Può vietare la caccia in caso di epidemie;Autorizza le autorità sanitarie al controllo dei predatori;Stabilisce i requisiti psico-fisici per il rilascio del certificato medico per il porto di fucile a uso caccia;c
+206;Le Regioni dispongono:;Il divieto di caccia da appostamento con richiami vivi;Le modifiche alle sanzioni penali;Le norme per il soccorso della fauna selvatica in difficoltà;c
+207;Per direttive UE si intendono:;Le disposizioni emanate dagli Stati aderenti all’UE;Le disposizioni emanate da altri Stati nei confronti di quelli dell’UE;Le disposizioni emanate dall’Unione Europea;c
+208;Quale tra i seguenti compiti in materia di caccia spetta alla Giunta regionale?;Predisporre le disposizioni integrative al calendario venatorio;Organizzare le gare cinofile regionali;Modificare l’elenco delle specie particolarmente protette;a
+209;Qual è l’organo legislativo della Regione?;Il Consiglio regionale;La Giunta regionale;La consulta faunistico-venatoria regionale;a
+210;Che cosa fa il Consiglio regionale in materia venatoria?;Autorizza la caccia nei fondi chiusi;Approva le disposizioni integrative al calendario venatorio;Emana leggi;c
+211;Chi stabilisce i calendari e i luoghi delle prove cinofile in determinate aree a divieto di caccia?;I gruppi cinofili con l’ENCI;La Regione con l’ENCI;I gruppi cinofili;b
+212;Che cosa è la licenza di caccia?;È il documento sul quale vanno annotati le giornate di caccia e i capi abbattuti;È la polizza assicurativa;È il documento che autorizza il porto di fucile a uso caccia;c
+213;Cosa si intende per tesserino venatorio regionale?;Il documento sul quale il cacciatore deve segnare ogni giornata di caccia e i relativi capi abbattuti;Il regolamento annuale per la gestione del prelievo venatorio;Il documento sul quale il cacciatore deve segnare la regione dove si trova a caccia;a
+214;Quale ente può catturare lepri nelle zone di ripopolamento e cattura?;La Regione;Nessun ente;Il Comune;a
+215;Che cosa è un’associazione venatoria?;Un’organizzazione che redige le norme del calendario venatorio annuale;Un libero sodalizio di cacciatori;Un’organizzazione che emana i regolamenti venatori;b
+216;Che compiti hanno le associazioni venatorie?;Emanare leggi e regolamenti venatori;Predisporre l’annuale calendario venatorio;Rappresentare e organizzare i cacciatori;c
+217;Da chi sono riconosciute le associazioni venatorie?;Dal Comitato tecnico faunistico- venatorio nazionale;Dall’ISPRA;Dal Ministero delle politiche agricole;c
+218;Un’associazione venatoria può avere agenti di vigilanza venatoria?;Sì;No;Solo dopo apposita autorizzazione regionale;a
+219;Quali categorie di portatori d’interessi sono rappresentate nei comitati di gestione degli ATC e dei CAC?;Cacciatori e agricoltori;Cacciatori agricoltori e protezionisti;Cacciatori;b
+220;Che cos’è un fondo chiuso?;Un allevamento di fauna stanziale;Un terreno privato di caccia;Un appezzamento di terreno recintato ai sensi di legge;c
+221;Per esercitare la caccia è obbligatorio essere assicurati per responsabilità civile verso terzi?;No è facoltativo;Sì ma solo finché si è inesperti nel maneggio delle armi;Sì è obbligatorio;c
+222;La variazione dell’elenco delle specie cacciabili può essere disposta:;Dal Presidente della Repubblica;Dal Presidente della Giunta regionale;Dal Presidente del Consiglio dei Ministri;c
+223;L’art. 842 del codice civile consente:;L’accesso di tutti i cittadini ai fondi altrui;L’accesso ai fondi altrui solo dei cacciatori che non utilizzino cani;L’accesso dei cacciatori ai fondi altrui purché non si provochino danni alle colture;c
+224;Le associazioni venatorie riconosciute sono sottoposte alla vigilanza:;Della Presidenza del Consiglio dei ministri;Del Ministero delle politiche agricole;dell’ISPRA;b
+225;In quale di questi casi se recidivi vi è anche l’esclusione definitiva della licenza di caccia?;Caccia di martedì e di venerdì;Abbattimento e cattura di fauna selvatica in modo diverso da quello consentito;Esercizio della caccia in periodo di divieto generale;c
+226;In quale di questi casi è previsto l’arresto o l’ammenda?;Caccia sparando da una barca in movimento;Trasporto di armi da caccia scariche in centri abitati;Caccia alla posta alla beccaccia;a
+227;In quale di questi casi si applica l’arresto e l’ammenda?;Caccia in zona di ripopolamento e cattura;Trasporto di armi scariche non in custodia su autoveicoli;Commercio di allodole quando ne è consentita la caccia;a
+228;In quale di questi casi se recidivi scatta anche la sospensione per un anno della licenza?;Caccia senza annotare la giornata sul tesserino venatorio;Abbattimento fauna stanziale da appostamento fisso;Caccia in forma diversa da quella prescelta;c
+229;In quale di questi casi se recidivi vi è anche l’esclusione definitiva della licenza?;Abbattimento di una cicogna;Caccia senza assicurazione;Caccia a meno di cento metri da una casa;a
+230;In quale di questi casi se recidivi vi è anche la sospensione per un anno della licenza?;Caccia in azienda faunistico-venatoria senza permesso;Caccia col segugio agli ungulati in zona Alpi;Caccia all’aspetto alla beccaccia;a
+231;In quale di questi casi se recidivi vi è anche la sospensione della licenza?;Caccia in colture agricole specializzate;Caccia con civetta viva come richiamo;Caccia con richiamo a bocca;b
+232;Che cosa comporta la cattura ripetuta di volatili con mezzi diversi da quelli previsti dalla legge?;La revoca e l’esclusione definitiva della licenza;Un’ammenda e la sospensione della licenza;La sospensione della licenza;b
+233;Che cosa comporta cacciare senza aver pagato le tasse di concessione?;L’esclusione definitiva della licenza;La sospensione della licenza;Una sanzione amministrativa;c
+234;Che cosa comporta cacciare in recidiva senza assicurazione?;L’esclusione definitiva della licenza;La revoca della licenza per dieci anni;Una sanzione amministrativa e la sospensione della licenza per un anno;c
+235;Che cosa comporta l’abbattimento di un cigno reale?;L’arresto o un’ammenda e la sospensione della licenza;Una sanzione amministrativa;La revoca della licenza;a
+236;Che cosa comporta l’abbattimento di uno stambecco?;L’esclusione definitiva della licenza di caccia;L’arresto e l’ammenda;Nessuna conseguenza in quanto specie cacciabile;b
+237;Che cosa comporta l’abbattimento di una gru?;La revoca e l’esclusione definitiva della licenza;L’arresto o l’ammenda e la sospensione della licenza;Una sanzione amministrativa;b
+238;Che cosa comporta l’abbattimento di una cicogna?;L’esclusione definitiva della licenza;Una sanzione amministrativa;L’arresto o l’ammenda e la sospensione della licenza;c
+239;Che cosa comporta l’abbattimento di un gallo forcello al di fuori della zona faunistica delle Alpi?;La sospensione della licenza;Una sanzione amministrativa;La revoca della licenza;b
+240;Che cosa comporta l’abbattimento di un gallo cedrone al di fuori della zona faunistica delle Alpi?;Un’ammenda e la sospensione della licenza in recidiva;Una sanzione amministrativa;La revoca della licenza;a
+241;Che cosa comporta cacciare in un’azienda faunistico-venatoria senza permesso?;La sospensione della licenza;Una sanzione amministrativa e la sospensione della licenza in recidiva;La revoca della licenza;b
+242;Che cosa comporta cacciare in un’azienda agri- turistico venatoria senza permesso?;La sospensione della licenza;Una sanzione amministrativa;La revoca della licenza;b
+243;Che cosa comporta fatte salve le eccezioni di legge cacciare in un ATC senza essere iscritti?;La sospensione della licenza;Una sanzione amministrativa e la sospensione della licenza in recidiva;La revoca della licenza;b
+244;Che cosa comporta fatte salve le eccezioni di legge cacciare in un CAC senza essere iscritti?;La sospensione della licenza;Una sanzione amministrativa e la sospensione della licenza in recidiva;La revoca della licenza;b
+245;Che cosa comporta l’abbattimento di un cinghiale di età inferiore a 1 anno?;Nessuna sanzione;La revoca della licenza;Una sanzione amministrativa;a
+246;Che sanzione è prevista per chi non effettua sul tesserino venatorio le prescritte annotazioni?;Una sanzione amministrativa;La revoca della licenza;La sospensione della licenza;a
+247;Che sanzione è prevista per chi non recidivo caccia specie non consentite?;Un’ammenda;La revoca della licenza;La sospensione della licenza;a
+248;Che sanzione è prevista per chi abbatte fauna selvatica cacciabile oltre il numero consentito?;Una sanzione amministrativa;La revoca della licenza;La sospensione della licenza;a
+249;Che cosa comporta l’abbattimento di un airone bianco maggiore?;Una sanzione amministrativa;Un’ammenda e la sospensione della licenza in recidiva;La sospensione della licenza;b
+250;In quale di questi casi la licenza è revocata?;Per aver abbattuto un chiurlo maggiore;Per aver dimenticato di portare la licenza con sé;Per aver esercitato l’uccellagione;c
+251;Quale sanzione è prevista per chi porta o trasporta fucili non in custodia quando la caccia non è consentita?;Una sanzione amministrativa;La revoca della licenza;La sospensione della licenza per dieci anni;a
+252;Chi caccia in un’oasi di protezione è soggetto a quale sanzione?;A un’ammenda;All’arresto;All’arresto e al pagamento di un’ammenda;c
+253;Quale sanzione comporta l’abbattimento di una pispola?;Nessuna;Una sanzione penale;Una sanzione amministrativa;b
+254;In quale di questi casi se recidivi vi è la revoca della licenza?;Caccia in una riserva naturale;Caccia agli ungulati con terreno coperto di neve;Trasporto d’armi quando la caccia non è consentita;a
+255;In quale di questi casi vi è la revoca della licenza?;Esercizio dell’uccellagione;Superamento del limite giornaliero di fauna stanziale;Caccia senza accompagnatore;a
+256;In quale di questi casi se recidivi vi è la revoca della licenza?;Caccia in giardini pubblici;Caccia a rastrello in più di tre persone;Caccia da appostamento alla beccaccia;a
+257;In quale dei seguenti casi vi è anche la sospensione della licenza?;Caccia senza versamento delle tasse;Caccia da natante;Superamento del limite giornaliero di capi consentito;b
+258;In quale dei seguenti casi in recidiva vi è la revoca della licenza?;Caccia in zona di ripopolamento e cattura;Abbattimento fauna stanziale da appostamento fisso;Superamento delle giornate settimanali di caccia consentite;a
+259;In quale dei seguenti casi se recidivi vi è l’esclusione definitiva della licenza?;Caccia in periodo di divieto generale;Caccia senza assicurazione;Caccia a meno di cinquanta metri da una ferrovia;a
+260;In quale dei seguenti casi se recidivi vi è la revoca della licenza?;Trasporto di armi su autovettura di armi scariche ma non in custodia;Caccia senza versamento della tassa regionale;Caccia in una riserva naturale regionale;c
+261;In quale dei seguenti casi se recidivi vi è l’esclusione definitiva della licenza?;Caccia allo stambecco;Commercio di uccelli morti quali i tordi;Allevamento di lepri senza autorizzazione;a
+262;In quale dei seguenti casi se recidivi vi è la revoca della licenza?;Caccia in un parco nazionale;Allevamento di alaudidi senza autorizzazione;Uso di fauna morta non di allevamento per manifestazioni gastronomiche;a
+263;Che cosa comporta l’abbattimento di un airone guardabuoi?;Un’ammenda e la sospensione della licenza in recidiva;Una sanzione amministrativa;La revoca della licenza;a
+264;Quale sanzione è prevista per chi caccia con armi ad aria compressa?;Un’ammenda;La revoca della licenza;Una sanzione amministrativa;a
+265;Quale sanzione è prevista per chi caccia con l’uso di un registratore come richiamo acustico?;Un’ammenda e la confisca del registratore;Una sanzione amministrativa;La revoca in recidiva della licenza;a
+266;In quale di questi casi se recidivi vi è l’esclusione definitiva della licenza?;Caccia agli acquatici nel mese di marzo;Caccia da appostamento al beccaccino;Caccia da veicoli;a
+267;In quale di questi casi se recidivi vi è la revoca e il divieto di rilascio per dieci anni della licenza?;Caccia su terreno coperto di neve;Caccia da natante in movimento;Caccia in valli da pesca regolarmente tabellate;b
+268;In quale di questi casi vi è anche l’arresto?;Caccia nelle riserve naturali;Caccia senza assicurazione;Introduzione illegale di fauna selvatica dall’estero;a
+269;In quale di questi casi è previsto l’arresto e l’ammenda?;Caccia in giardini urbani;Caccia a meno di cento metri da una casa;Rimozione di legittime tabelle di divieto;a
+270;In quale di questi casi è previsto l’arresto o l’ammenda?;Caccia in orari non consentiti;Caccia da appostamento fisso senza autorizzazione;Caccia da veicoli;c
+271;In quale di questi casi può scattare anche l’arresto?;Caccia al fagiano nel mese di maggio;Caccia a rastrello in più di tre persone;Appostamento fisso abusivo;a
+272;Che cosa comporta l’introduzione illegale di fauna selvatica dall’estero?;Una sanzione amministrativa;La revoca della licenza;La sospensione della licenza;a
+273;Il coordinamento delle guardie venatorie volontarie spetta:;Alla Prefettura;Al corpo di Polizia provinciale;All’Arma dei carabinieri;b
+274;Chi rilascia il decreto di guardia venatoria volontaria?;La Regione;La Provincia;Il Prefetto;b
+275;Che qualifica hanno gli agenti di vigilanza ittico- venatoria dipendenti dalle Province?;Sono agenti volontari;Sono pubblici ufficiali;Sono agenti di polizia giudiziaria e di pubblica sicurezza;c
+276;Dove possono esercitare la caccia gli agenti della Polizia provinciale?;Nel territorio della propria provincia;Nel territorio del comune di residenza;Nel territorio di un’altra provincia;c
+277;È sequestrabile il cane?;Sì se produce effettivi danni alla fauna;Sì se danneggia i terreni coltivati;No mai;c
+278;Gli agenti della Polizia provinciale devono sequestrare l’arma quando il cacciatore:;Ha abbattuto un capriolo;Ha abbattuto un camoscio;Ha abbattuto uno stambecco;c
+279;Quando gli agenti della Polizia provinciale procedono al sequestro della fauna selvatica morta?;Non possono mai procedere a tale sequestro;Procedono sempre;Quando la stessa costituisce il prodotto della violazione o il corpo di reato;c
+280;La qualifica di guardia venatoria volontaria può essere concessa:;A tutti coloro che ne facciano richiesta;Solo a chi abbia superato apposito esame di idoneità;Solo a chi si dichiara disponibile a collaborare con la Polizia provinciale;b
+281;Gli agenti che esercitano funzioni di polizia giudiziaria possono procedere:;Al sequestro del cane;Al sequestro dei richiami vivi autorizzati;Al sequestro dei capi abbattuti in tutti i casi previsti dalla legge;c
+282;Gli agenti della Polizia provinciale possono procedere alla perquisizione dell’automobile di un cacciatore?;Mai;Sì nel caso di fondato sospetto o di flagranza del reato;Sì in caso di infrazioni punite con una sanzione amministrativa;b
+283;Le infrazioni possono essere sanate in via amministrativa pagando una somma pari a:;Doppio del minimo o terzo del massimo;Triplo del minimo;Metà del massimo;a
+284;Nei siti di Natura 2000 si può esercitare la caccia?;Sì solo sulla base del calendario venatorio regionale;No;Sì sulla base di limitazioni aggiuntive specifiche;c
+285;Chi ha introdotto le misure minime uniformi di conservazione nei siti di Natura 2000?;Il Ministro delle Politiche Agricole;Il Presidente del Consiglio;Il Ministro dell’Ambiente e della Tutela del Territorio e del Mare;c
+286;Nelle ZPS quale delle seguenti specie selvatiche non può mai essere cacciata?;La pernice rossa;La pernice bianca;La coturnice delle Alpi;b
+287;Cosa significa l’acronimo “ZPS”?;Zona di Passaggio Speciale;Zona di Protezione Speciale;Zona di Protezione della Selvaggina;b
+288;Nelle ZPS quale delle seguenti specie selvatiche non può mai essere cacciata?;Il moriglione;Il codone;La moretta;c
+289;Per quante giornate settimanali si può cacciare nelle ZPS nel mese di gennaio?;Tre;Due;Una;b
+290;Nelle ZPS è consentito cacciare gli ungulati in selezione?;Sì;No;Solo il cinghiale;a
+291;Il regime di protezione della fauna selvatica è più rigido in una ZPS o in una riserva naturale?;In una ZPS;È lo stesso;In una riserva naturale;c
+292;In Lombardia sono state istituite ZPS?;Sì solo in montagna;Sì ovunque vi siano ambienti ritenuti meritevoli di tale livello di tutela;Sì solo lungo i fiumi;b
+293;Nelle ZPS quale delle seguenti specie selvatiche non può mai essere cacciata?;Il beccaccino;Il combattente;Il frullino;b
+294;Nelle ZPS le giornate settimanali di caccia in gennaio sono fisse?;No;Sì e vengono fissate dalla Regione;Sì e vengono fissate dal Ministero dell’Ambiente;b
+295;Nelle ZPS caratterizzate da zone umide qual’è l’unica specie di anatide che può essere cacciata in data antecedente al 1° ottobre?;L’alzavola;La marzaiola;Il germano reale;c

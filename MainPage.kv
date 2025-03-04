@@ -1,0 +1,51 @@
+<MainPage>:
+    name: 'main'
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+            source: 'icone/sfondo.png'
+
+
+    MDLabel:
+        text: 'Benvenuto'
+        font_size: self.width/5.2
+        pos_hint: {"center_x":.5, "center_y":.85}
+        size_hint: .8,.1
+        ##underline: True
+        halign: 'center'
+        valign: 'top'
+        color: .99,.43,.23,1
+        bold: True
+
+
+    MDTextFieldRound:
+        id: user
+        hint_text: "Nome"
+        foreground_color: 1,1,1,1
+        hint_text_color: 1,1,1,1
+        cursor_color: 1,1,1,1
+        icon_right: "account"
+        size_hint: .6,.08
+        font_size: self.width/12
+        font_name: 'font/myriadpro-bold.otf'
+        pos_hint: {"center_x": .5, "top":.67}
+        halign: 'left'
+        bold: True
+        mode: "fill"
+        normal_color: .99,.43,.23,1
+        fill_color: 0, 0, 0, .4
+
+    MDCard
+        pos_hint: {"right":.95, "y":.00}
+        size_hint: .2,.1
+        md_bg_color: 1,1,1,0
+        elevation:0
+        on_release: root.press_forward()
+        Image:
+            source: 'icone/DX.png'
+            pos_hint: {"x":0, "center_y":.5}
+            size_hint: .95, .95
+            allow_stretch: True
+            keep_ratio: True

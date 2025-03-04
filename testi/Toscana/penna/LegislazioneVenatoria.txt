@@ -1,0 +1,138 @@
+1;Il tesserino venatorio regionale è indispensabile per l'esercizio della caccia su quale territorio?;Su tutto il territorio nazionale;Su tutto il territorio della Provincia;Su tutto il territorio della Regione;A
+2;Chi rilascia il tesserino regionale per l'esercizio della caccia?;L'Associazione venatoria di appartenenza;Il Comune di residenza;La Provincia di residenza;B
+3;Per andare a caccia è obbligatorio essere assicurati per la responsabilità civile verso terzi?;Sì;No, è facoltativo;Sì, solo per determinate forme di caccia;A
+4;Da chi è rilasciata l'autorizzazione per l'appostamento fisso?;Dal Presidente della Provincia;Dalla associazione venatoria di appartenenza;Dalla Regione;C
+5;Il cacciatore cosa deve annotare sul tesserino per l'esercizio della caccia?;I capi abbattuti, le giornate di caccia e l'A.T.C. (Ambito Territoriale di Caccia) in cui si trova a cacciare,etc.;L'ora di inizio e di termine della caccia;I capi abbattuti e il comune in cui si trova;A
+6;Da chi viene rilasciato il porto d'armi per uso caccia?;Dal Questore;Dal Sindaco;Dalla Provincia;A
+7;Gli appostamenti temporanei sono soggetti ad autorizzazione annuale da parte della Regione?;Sì, sono equiparati agli appostamenti fissi;No;Non sono consentiti;B
+8;L'autorizzazione rilasciata dalla Regione per la costituzione di un appostamento fisso deve essere confermata ogni anno?;No, non deve essere confermata;Si, entro il 28 febbraio previo pagamento della tassa di concessione regionale, e inviandola alla Regione;Si, entro il 30 giugno previo pagamento della tassa di concessione regionale;B
+9;Qual è l'ente che approva il calendario venatorio?;La Regione;Il Comune;L'Ambito Territoriale di Caccia (A.T.C.);A
+10;A che cosa serve il tesserino regionale per l'esercizio della caccia?;Per indicare le zone di caccia;Per segnare le giornate di caccia e le altre prescritte annotazioni;Per indicare l'orario della caccia;B
+11;Un cacciatore, che per un anno intenda non esercitare l'attività venatoria, è tenuto al pagamento della tassa di concessione regionale per quel periodo?;Sì, il pagamento dipende dal possesso della licenza;No;Deve pagare solo una quota;B
+12;Chi rilascia l'attestato di abilitazione all'esercizio venatorio?;Il Questore;La Regione;Il Prefetto;B
+13;Chi esercita la caccia in una Azienda faunistico- venatoria è obbligato a segnare la giornata sul tesserino regionale?;Sì;No;Sì, solo se uccide selvaggina stanziale;A
+14;Come può il cacciatore giustificare il trasporto della selvaggina stanziale uccisa in una Azienda agri- turistico-venatoria?;Segnandola sul tesserino regionale;Con il possesso dell'autorizzazione per cacciare nell'Azienda e del tesserino venatorio regionale;Con il possesso del permesso numerato sul quale sono annotati i capi abbattuti;C
+15;Quali documenti deve portare con sé il cacciatore durante la giornata di caccia?;Soltanto la licenza di porto di fucile per uso caccia;Soltanto il tesserino di caccia e i versamenti della tasse governative e regionale;La licenza, il tesserino, l'assicurazione ed i versamenti delle tasse governativa e regionale;C
+16;Come viene normalmente a conoscenza il cacciatore dei limiti stabiliti per l'esercizio venatorio ?;Attraverso la radio e la televisione;Attraverso appositi volantini predisposti dalle associazioni venatorie;Attraverso la pubblicazione del calendario venatorio da parte della Regione Toscana;C
+17;Nei 12 mesi successivi al rilascio della prima licenza il cacciatore può:;Esercitare la caccia solo da appostamento fisso o temporaneo;Esercitare la caccia solo alla selvaggina stanziale;Esercitare la caccia solo se accompagnato da un altro cacciatore in possesso di licenza da almeno 3 anni e che in tale periodo non abbia commesso violazioni;C
+18;Quando si può esercitare la caccia nelle giornate di martedì e venerdì?;Quando cadono in giornate festive;Mai;Sempre;B
+19;Quale è l'età minima, richiesta dalla legge, per esercitare la caccia?;16 anni;18 anni;21 anni;B
+20;Quale è la durata della licenza di porto di fucile per uso caccia?;Dieci anni;Due anni;Sei anni;C
+21;Per quanto tempo è valido il tesserino regionale per l'esercizio della caccia ?;Per una stagione venatoria;Per un anno solare;Per sei anni, come il porto d'armi;A
+22;Cosa è necessario per esercitare la caccia da un appostamento fisso?;Essere residenti nella provincia in cui è ubicato l'appostamento;L'apposita autorizzazione della Regione;Essere proprietario del terreno o del sito preparato.;B
+23;E' consentito cacciare avendo dimenticato a casa la documentazione necessaria?;Sì, purché si dimostri il giorno dopo di esserne in possesso;No, anche se si dimostra di esserne in possesso;Sì, se altri cacciatori garantiscono il possesso della licenza esibendo la loro licenza;B
+24;La denuncia di possesso di un'arma da caccia a chi deve essere inoltrata?;Alla Provincia;Alla Questura;Alla Prefettura;B
+25;La fauna selvatica a chi appartiene?;E' patrimonio inalienabile della Regione;E' patrimonio indisponibile dello Stato;E' patrimonio dell' A.T.C. (Ambito Territoriale di Caccia) in cui si trova;B
+26;La licenza di porto di fucile per uso di caccia abilita senza altra condizione a l'esercizio venatorio?;Sì;No, la validità della licenza è subordinata al pagamento annuale delle tasse previste, al possesso di assicurazione per la responsabilità civile verso terzi e infortuni ed al possesso del tesserino regionale;Sì, purché sia corredata dall'esibizione di versamenti in corso di validità;B
+27;Entro quanti giorni si deve esibire, agli organi di controllo, la licenza di porto di fucile per uso di caccia dimenticata a casa perchè la sanzione amministrativa applicata sia ridotta al minimo?;Tre giorni;Cinque giorni;Otto giorni;B
+28;Cosa è il calendario venatorio?;L'elenco delle giornate in cui è consentita la caccia;Il documento annuale che stabilisce i periodi di caccia per le varie specie;La disposizione regionale che indica le date di apertura e di chiusura della caccia, il numero di capi da abbattere e le altre norme da rispettare;C
+29;Quale è il massimale minimo di assicurazione venatoria per danni a terzi?;Euro 51.645;Euro 516.457;Euro 154.937;B
+30;Che cosa comporta cacciare senza la licenza di porto di fucile per uso caccia?;Una sanzione amministrativa;Una sanzione penale;La mancata concessione del porto d'armi per anni 3;B
+31;In un terreno rimboschito e tabellato chi può effettuare la caccia vagante?;Le guardie campestri;I cacciatori;Nessuno;C
+32;Quale è la durata della giornata venatoria?;Da un'ora prima dell'alba a un'ora dopo il tramonto;Da un'ora prima dell'alba a due ore dopo il tramonto;Da un'ora prima del sorgere del sole fino al tramonto;C
+33;E' consentito l'esercizio venatorio nelle Oasi di protezione della fauna?;Sì, ma solamente per i cacciatori di selezione;Sì, ma solamente per i proprietari dei terreni;No, mai;C
+34;Di norma la caccia su terreno coperto in tutto o nella maggior parte da neve;E' consentita;E' vietata;E' ammessa solo per le specie predatrici;B
+35;Da quale distanza dai confini di zone di protezione della fauna (Zone di ripopolamento, Oasi di protezione, Centri pubblici di produzione) è ammesso l'esercizio venatorio da appostamento temporaneo?;Da non meno di 400 metri;Da non meno di 50 metri;Da non meno di 100 metri;C
+36;In Toscana quanti capi di selvaggina stanziale può abbattere il cacciatore durante una giornata di caccia?;Due capi;Cinque capi;Quanti ne vuole;A
+37;Nelle Riserve naturali, è consentito l'esercizio venatorio?;Sì, ma solo con le limitazioni imposte dalla Regione;No;Sì;B
+38;Che cosa si intende per Zona di ripopolamento e cattura?;Una zona destinata al rifugio della fauna selvatica;Una zona destinata alla riproduzione naturale della selvaggina necessaria al ripopolamento di altri territori;Una zona delimitata per la cattura di volatili al fine di contenere i danni alle colture agricole.;B
+39;Per quali specie selvatiche, soprattutto, sono istituite le Zone di ripopolamento e cattura?;Per le specie migratorie;Per le specie stanziali;Per i Palmipedi e i Trampolieri;B
+40;Si può cacciare nelle zone militari ?;Sì, se autorizzati dall'autorità militare;No;Sì, nelle zone dove sono presenti specie selvatiche in sovrannumero che danneggiano le opere militari;B
+41;Quale obbligo ha il titolare di un appostamento fisso agli acquatici in laghi artificiali?;Deve essere realizzato mediante idonee arginature e sistemazioni idraulico-agrarie che consentano l'allagamento artificiale di un sito altrimenti asciutto;Deve togliere l'acqua dall'appostamento appena finita la stagione di caccia;Deve comunicare ogni anno alla Regione gli abbattimenti effettuati;A
+42;Nelle Aziende faunistico- venatorie, a chi è permessa la caccia?;Ai residenti nel Comune in cui si trova l'Azienda;Ai proprietari dei terreni inclusi nell'Azienda;Solo agli autorizzati;C
+43;Quanto deve essere alta la recinzione di un Fondo chiuso?;almeno 1,20 metri;almeno 1,50 metri;almeno 1,80 metri;A
+44;In Toscana per quali delle seguenti specie c'è il limite di abbattimento giornaliero di un capo?;Il beccaccino;La lepre;Il colombaccio;B
+45;A che distanza dai confini di una Zona di ripopolamento si può effettuare la caccia vagante?;Zero metri sparando nella direzione opposta;50 metri;100 metri;A
+46;Nei giardini l'attività venatoria è consentita?;No, a nessuno;Si, solo ai proprietari;Si solo a specie ed in periodi determinati;A
+47;Nel fondo chiuso chi può esercitare la caccia?;Il proprietario dei terreni;I cacciatori autorizzati dal proprietario del terreno;Nessuno;C
+48;Dovendo attraversare una Zona di ripopolamento e cattura, come si deve comportare il cacciatore riguardo al fucile?;Lo ripone nel fodero;Lo scarica;Lo scarica e lo ripone nel fodero, oppure lo smonta;C
+49;Può essere costruito un appostamento fisso sopra ad una imbarcazione o ad una zattera stabilmente ancorate?;Sì, solo nelle Aziende faunistico- venatorie;No, gli appostamenti fissi possono essere costruiti solo sulla terra ferma;Sì;C
+50;Il cacciatore che esercita l'attività venatoria da appostamento temporaneo, ha l'obbligo di asportare i bossoli delle munizioni all'abbandono della postazione?;Sì, ma soltanto se richiesto dal proprietario del terreno;Sì, sempre;No, non esiste alcun obbligo specifico del cacciatore;B
+51;Il cacciatore come può individuare con certezza i confini di una Zona di ripopolamento e cattura?;Dalla lettura di un comunicato stampa;Da informazione ricevute da altri cacciatori;Dalle tabelle delimitanti la zona e dall'atto amministrativo di istituzione;C
+52;E' consentito usare mezzi elettrici e luminosi nell'esercizio venatorio?;Si, solo per la lotta ai predatori;No, in nessun caso;Si, in casi ed a persone determinate;B
+53;E' consentito usare il vischio o altra sostanza di analogo effetto?;Si, solo a persone preventivamente autorizzate;Si, solo per la tutela delle colture;No, mai;C
+54;La civetta può essere usata nell'esercizio venatorio?;Si, per la caccia alle quaglie;No;Si, come zimbello per la caccia alle allodole;B
+55;E' consentita la cattura di uccelli migratori da utilizzare come richiami vivi?;No, mai;Si, sempre;Solo in impianti della cui autorizzazione siano titolari le Regioni;C
+56;In un A.T.C. (Ambito Territoriale di Caccia) chi può andare a caccia senza autorizzazione?;I componenti del comitato direttivo;Chi è iscritto ad una associazione venatoria;Nessuno;C
+57;Come deve essere tenuto il fucile per recarsi all'appostamento fisso o temporaneo di caccia nel periodo in cui è vietata la caccia vagante?;In sicura;Scarico;Scarico ed in custodia;C
+58;Quali obblighi ha il cacciatore dopo aver terminato la caccia da un appostamento temporaneo?;Nessun obbligo;Deve provvedere a rimuovere il capanno nonché a ripulire l'area di sosta dai residui dell'attività venatoria;Può lasciare il capanno dove è ma solo se intende cacciarvi il giorno successivo;B
+59;Si possono impiantare appostamenti di caccia sui territori indicati come valichi montani?;No, mai;Sì;Sì, ma solo nella zona Alpi;A
+60;E' sempre consentito l'addestramento dei cani da caccia sul territorio dell'A.T.C.;Sì, sempre;No, solo in determinati periodi;No, mai;B
+61;Che cosa è l'Istituto superiore per la protezione e la ricerca ambientale (I.S.P.R.A.) ?;E' l'organo tecnico consultivo in materia di caccia istituito fra le associazioni venatorie nazionali;E' l'organo scientifico e tecnico di ricerca e consulenza per lo Stato, le Regioni e le Province;E' un centro di allevamento che produce selvaggina di pregio;B
+62;A quale distanza da un ambito protetto (Oasi, Zona di ripopolamento, ecc.) è consentita la caccia vagante?;Non deve osservarsi alcuna distanza, purché l'azione di caccia si esaurisca fuori dalla zona;Ad una distanza di almeno 150 metri;Ad una distanza di almeno 100 metri;A
+63;In quale mese è consentita la posta alla beccaccia;Mai;Nel mese di ottobre;Nel mese di novembre;A
+64;Quale dei seguenti mezzi è consentito per la caccia?;Vischio;Balestra;Arco;C
+65;Chi abbatte selvaggina migratoria in una Azienda faunistico venatoria, è tenuto a segnarla sul tesserino regionale?;No;Sì;Sì, ma solo la Beccaccia;B
+66;Come è considerata la tordela?;Specie particolarmente protetta;Specie cacciabile;Specie non cacciabile;C
+67;Quale distanza deve esserci tra due appostamenti temporanei ?;40 metri;80 metri;150 metri;B
+68;Secondo la legge 157/1992 quale delle seguenti specie si caccia dalla terza domenica di settembre al 31 gennaio?;Beccaccia;Merlo;Cinghiale;A
+69;Secondo la legge 157/1992 quale delle seguenti specie si caccia dalla terza domenica di settembre al 31 gennaio?;Pernice rossa;Marzaiola;Passero;B
+70;Nelle aree contigue ai parchi individuati è permesso esercitare l'attività venatoria?;Sì, secondo piani e programmi di prelievo fissati dalla Regione d'intesa con l'Ente parco;No, l'attività venatoria è sempre vietata;Sì, con autorizzazione della Provincia;A
+71;E' possibile esercitare la caccia da appostamento con l'ausilio di richiamo acustico a funzionamento elettromagnetico?;No, mai;Sì, tali richiami sono ammessi dalla legge;Sì, purché il richiamo sia autorizzato dalla Provincia;A
+72;A quale distanza minima da pubblica via un cacciatore può vagare con fucile carico?;50 metri;100 metri;150 metri;A
+73;La caccia vicino a macchine operatrici agricole è:;sempre consentita purché sia avvisato l'operatore agricolo;vietata a meno di 50 metri da macchine agricole ferme;vietata a meno di 100 metri da macchine agricole in funzione;C
+74;Ai sensi della L. 157/92, su di un autoveicolo l'arma deve essere trasportata:;scarica;in custodia;scarica ed in custodia;C
+75;In Toscana gli appostamenti fissi per la caccia al colombaccio con richiami vivi quale distanza minima devono avere tra di loro?;Metri 400;Metri 200;Metri 700 riducibili fino a m. 350 dal Piano faunistico venatorio regionale;C
+76;Il cacciatore può depositare un capo di selvaggina stanziale, ad esempio in automobile, e dopo riprendere l'attività venatoria?;Sì;No;Sì, con apposita annotazione sul tesserino;C
+77;In quale caso è consentito l'abbandono dei rifiuti derivanti dall'attività venatoria?;Quando l'esercizio venatorio è praticato su terreni agricoli non coltivati;Quando l'esercizio venatorio è praticato su zone boscate;Non è mai consentito;C
+78;Quante persone possono cacciare a rastrello?;Non più di due;Non più di tre;Non più di quattro;B
+79;E' possibile addestrare i cani nelle Zone di ripopolamento e cattura?;No, mai;Sì, dopo le catture;Sì, col consenso della Provincia;A
+80;E' permesso l'uso del silenziatore a caccia?;Sempre;Solo nei pressi delle abitazioni, per non disturbare la quiete pubblica;No, mai;C
+81;A quale distanza minima si può sparare avendo alle spalle una strada comunale?;A non meno di 100 metri;A non meno di 150 metri;A non meno di 50 metri;C
+82;Quando si può esercitare la caccia a bordo di autoveicoli?;Quando l'autoveicolo è fermo;Mai;Solo se ci si trova su strade poderali;B
+83;Negli ambiti protetti è vietato arrecare disturbo alla fauna selvatica?;Sì, sempre;Solo nel periodo della riproduzione;Solo con mezzi a motore;A
+84;E' consentito esercitare la caccia a 50 metri da una casa colonica?;No, occorre stare almeno a 100 metri;Sì, purchè sia disabitata in quel momento;Sì, purché si spari in direzione opposta;A
+85;Vagare col fucile in spalla è ritenuto cacciare, dalla legge?;No;Sì, ma solo se si ha il colpo in canna;Sì, anche se il fucile è scarico e le cartucce sono riposte nell'apposita custodia;C
+86;E' possibile esercitare la caccia negli specchi d'acqua ove venga esercitata l'industria della pesca o piscicoltura?;Sì;No, in ogni caso;No, purché la zona sia tabellata;C
+87;Quali sono i mezzi di caccia consentiti?;Solo il fucile;Il fucile, l'arco ed il falco;Il fucile, le reti e la balestra;B
+88;Il cacciatore incerto sulla identificazione di un selvatico, come deve comportarsi?;Può sparare, se abbatte una specie protetta deve consegnarla entro 24 ore alla Regione;Deve astenersi dallo sparare;Può usare un qualsiasi richiamo acustico elettromagnetico per farlo avvicinare;B
+89;Nell'esercizio venatorio si possono usare i richiami vivi accecati?;Sì, solo la Civetta;No;Sì, nella caccia da appostamento fisso;B
+90;Fra i Mammiferi esistono specie che la legge 157/92 non disciplina quale fauna selvatica?;Sì, tutte le specie cacciabili;Sì, tutte le specie che arrecano danno all'agricoltura;Sì: le Talpe, i Ratti, i Topi propriamente detti e le Arvicole;C
+91;Chi viene in possesso di uova o piccoli nati, entro quante ore deve darne avviso all'autorità competente?;Quarantotto ore;entro la mezzanotte del giorno del ritrovamento;Ventiquattro ore;C
+92;L'abbattimento di selvaggina per caso fortuito o per forza maggiore costituisce atto di caccia?;Sì, sempre;No;Sì, quando la persona è un cacciatore;B
+93;La fauna selvatica abbattuta nel rispetto delle disposizioni di legge appartiene:;al cacciatore che l'ha cacciata;all'agricoltore sul cui terreno è stata abbattuta;alla Provincia, in quanto patrimonio indisponibile dello Stato;A
+94;A quale distanza minima è consentito sparare in direzione di case di civile abitazione con fucile a canna liscia?;A non meno di 50 metri;A non meno di 150 metri;A non meno di 300 metri;B
+95;Da quale distanza minima è permesso lo sparo con fucile a canna rigata verso un recinto di bestiame?;Da 100 metri;Da 150 metri;Da una distanza corrispondente una volta e mezzo la gittata massima dell'arma;C
+96;Possono essere usate le sostanze velenose per esercitare la caccia?;Sì, purché non siano dannose per l'agricoltura;No;Sì, purché non siano dannose per l'uomo;B
+97;Si può sparare da veicoli a motore?;Sì, la legge non lo vieta;No e la violazione è sanzionata penalmente;Sì, se ci si trova su una strada poderale o interpoderale;B
+98;In quale dei seguenti casi vi è l'arresto o l'ammenda?;Caccia in periodi non consentiti;Caccia senza versamento delle tasse regionali;Caccia in violazione degli orari consentiti;A
+99;Che sanzione è prevista per chi non esegue le prescritte annotazioni sul tesserino regionale?;Una sanzione amministrativa;La revoca della licenza;La sospensione della licenza;A
+100;L'operatore di una macchina agricola può sparare alla selvaggina nel corso dei lavori?;Sì, se non c'è nessuno nei dintorni;No, perché è sempre vietato cacciare sparando da veicoli;Sì, qualora sia proprietario dei terreni;B
+101;Quanti esemplari di richiami vivi può usare un singolo cacciatore durante l'esercizio venatorio da appostamento temporaneo?;trenta;Quindici;Quaranta;B
+102;Il cacciatore che abbatte un uccello inanellato cosa deve fare?;Deve darne notizia all'Istituto Nazionale per la fauna selvatica o all'Ufficio Caccia della Regione;Deve informare le associazioni ambientaliste;Deve consegnarlo all'A.T.C. competente per territorio;A
+103;E' consentita la caccia notturna alla Lepre?;Sempre;Mai;Solo se autorizzata dalla Regione;B
+104;Chi viene in possesso di uova o di piccoli nati, a quale autorità deve darne avviso?;Alle Associazioni venatorie;Alla Regione;Al Comune;B
+105;Che cosa comporta l'uccisione di una cicogna?;L'arresto o l'ammenda e la sospensione della licenza;Una sanzione amministrativa e la sospensione della licenza;Nulla in quanto è selvaggina cacciabile;A
+106;La tagliola è un mezzo di caccia consentito?;Sì, però può usarsi solo per la caccia ai predatori;Sì, è compresa fra i mezzi di caccia consentiti;No;C
+107;Che cosa si intende per esercizio di caccia?;Cacciare con il fucile.;L'abbattimento della selvaggina comunque effettuato.;Ogni atto diretto all'uccisione o alla cattura della selvaggina;C
+108;In Toscana quanti capi di selvaggina migratoria si può abbattere in una giornata di caccia?;10;20;25;B
+109;E' consentito cacciare negli stagni o paludi in tutto o in parte coperti di ghiaccio?;No, mai;Sì;Sì, solo al proprietario dello stagno;A
+110;La balestra è un mezzo di caccia consentito?;Sì, al pari dell'arco;No, il suo uso comporta una sanzione penale;Solo nelle Aziende faunistico venatorie;B
+111;Quale è la distanza minima da mantenere dai posti di lavoro durante l'esercizio venatorio?;150 metri;200 metri;100 metri;C
+112;Quale è la distanza minima da mantenere dalle vie ferroviarie durante l'esercizio venatorio?;100 metri;150 metri;50 metri;C
+113;Il cacciatore può rifiutarsi di mostrare il carniere ad un agente di vigilanza?;No, deve sempre mostrarlo;Può rifiutarsi se non intervengono i carabinieri;Può rifiutarsi se la fauna è chiusa dentro a una borsa;A
+114;Il cacciatore come viene a conoscenza del periodo consentito per l'addestramento e l'allenamento dei cani?;Tramite apposito manifesto pubblicato dalla Provincia;Dal calendario venatorio;Da apposito manifesto pubblicato dalle associazioni venatorie;B
+115;E' ammesso vendere a privati e detenere, da parte di questi, reti da uccellagione ?;Sì;No, è vietato a chiunque ad eccezione dei soli soggetti abilitati dall'ISPRA ed autorizzati;La vendita e la detenzione sono consentite essendo vietato solo l'uso;B
+116;Cosa si intende per uccellagione?;La cattura di uccelli a scopo di richiamo;La cattura di uccelli con reti a scopo scientifico;La cattura di uccelli con reti senza autorizzazione;C
+117;Che cosa possono chiedere ai cacciatori gli agenti preposti alla vigilanza?;Licenza di porto di fucile, tesserino, tasse di concessione, polizza assicurazione e fauna selvatica abbattuta;Licenza di porto di fucile tesserino e fauna selvatica abbattuta;Licenza di porto di fucile e fauna selvatica abbattuta;A
+118;E' consentito detenere trappole per la cattura di fauna selvatica?;No, è vietato;Sì, solo da parte di persone nominativamente autorizzate dalla Regione;Sì, poiché non esistono norme al riguardo;B
+119;Un agente con funzioni di polizia giudiziaria e di pubblica sicurezza può sequestrare il cane ad un cacciatore?;No, secondo le leggi sulla caccia;Sì, solo se produce danni alla selvaggina;Sì, solo se produce danni alle coltivazioni agricole;A
+120;Di quale delle seguenti specie di uccelli non è consentita la cattura e la cessione ai fini di richiamo vivo?;Pavoncella;Cesena;Starna;C
+121;Le sanzioni previste dalla legge in materia di caccia sono di natura:;Amministrativa;Amministrativa e penale;Penale;B
+122;Possono essere sequestrati i mezzi di trasporto?;Sì, se vengono utilizzati per compiere atti di caccia;No, in ogni caso;No, perché il mezzo di trasporto non ha niente a che fare con l'esercizio venatorio;A
+123;Quale è l'autorità competente a sospendere e revocare la licenza di porto di fucile per uso caccia?;Il Questore;Il Prefetto;La Provincia;A
+124;Quale delle seguenti specie di selvaggina è cacciabile dal 1° settembre al 10 marzo?;Nessuna;Codone;Tordo bottaccio;A
+125;In quale dei seguenti casi è prevista la sospensione della licenza?;Caccia in periodo di divieto generale;Mancata segnatura della giornata sul tesserino;Presa e detenzione di uova, nidi e piccoli;A
+126;Quale delle seguenti specie è particolarmente protetta?;Cervo;Camoscio d'Abruzzo;Capriolo;B
+127;Un cacciatore che abbatta un capo può procedere alla sua imbalsamazione?;Si, solo se lo fa personalmente;No, mai perchè l'imbalsamazione è sempre vietata;Si, ma solo se trattasi di specie cacciabili ed effettuato da tassidermisti autorizzati;C
+128;Nelle aree per l'allenamento e addestramento cani, a chi è consentito l'accesso?;A tutti coloro che risiedono nel Comune in cui ricade l'area;Ai soli soggetti autorizzati da chi gestisce l'area;Ai cacciatori iscritti all'Ambito Territoriale di Caccia in cui ricade l'area;B
+129;Che cosa comporta cacciare senza aver stipulato la polizza di assicurazione?;L'esclusione definitiva della licenza;La revoca della licenza per 10 anni;Una sanzione amministrativa e la sospensione della licenza se il cacciatore è recidivo;C
+130;Chi ha competenza ad emanare leggi in materia di caccia?;Il Comune;Lo Stato e le Regioni;La Provincia;B
+131;Se si utilizzano i fari abbaglianti di un automezzo per individuare e successivamente abbattere un capo di selvaggina, si commette infrazione?;No, perchè serve per individuarlo meglio;No;Sì, perché i fari sono un mezzo non consentito;C
+132;Come è considerato il Lupo dalla legge nazionale?;Animale nocivo;Specie protetta;Specie particolarmente protetta;C
+133;In quali di questi casi, se recidivi, vi è la sospensione della licenza in base alla legge 157/92?;Caccia in violazione degli orari consentiti;Mancata effettuazione delle prescritte annotazioni sul tesserino regionale;Caccia senza versamento della tassa concessione regionale;A
+134;In quale di questi casi, se recidivi, vi è l'esclusione definitiva della licenza di porto di fucile per uso di caccia in base alla legge 157/92?;Caccia il martedì o il venerdì;Caccia in Oasi di protezione;Caccia in periodo di divieto generale;C
+135;In Toscana quando deve essere presentata la domanda alla Regione per un nuovo appostamento fisso di caccia?;Dal 1 al 31 marzo;Dal 1 al 30 maggio;Durante tutto l'anno;A
+136;Rimuovere o danneggiare tabelle perimetrali di istituti faunistico-venatori comporta:;nulla se si ritengono illegittime;una sanzione amministrativa;la sospensione della licenza di porto di fucile per uso di caccia;B
+137;A quale distanza da un appostamento fisso per palmipedi e trampolieri si può costruire un appostamento temporaneo;A 200 metri;A 1000 metri;A 100 metri;A
+138;L'appostamento temporaneo per la caccia di selezione agli ungulati può essere lasciato in essere?;Sì, con l'autorizzazione della Regione;Sì, con il consenso del proprietario e del conduttore del fondo;No, deve essere sempre rimosso al termine della fruizione;B

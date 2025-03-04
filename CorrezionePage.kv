@@ -1,0 +1,97 @@
+<CorrezionePage>:
+    name: 'correzione'
+
+    canvas:
+        Color:
+            rgba: .95,.92,.85,1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+        Color:
+            rgba: .5,.52,.42,1
+        RoundedRectangle:
+            size : self.width,self.height/6.4
+            pos : 0,self.height-self.height/6.4
+            radius:0,0,0,0
+        Color:
+            rgba:.95,.92,.85,1
+        Triangle:
+            points: self.width/2-30,self.height-self.height/6.4,self.width/2,self.height-self.height/6.4+self.height/45,self.width/2+30,self.height-self.height/6.4
+
+    SmallIcon:
+        image:'icone/home.png'
+        size_hint_y:0.05
+        pos_hint:{'x':.04,'top':.98}
+        on_release:
+            app.root.current='choose'
+            app.root.transition.direction= 'right'
+
+    MDLabel:
+        id: count_down
+        text:'30:00'
+        font_size: self.width/16
+        font_name: 'font/myriadpro-bold.otf'
+        size_hint_y:0.14
+        color: .99,.43,.23,1
+        bold: True
+        halign: 'center'
+        pos_hint: {'x':0,'top':.985}
+        size_hint: 1,.05
+
+    SmallIcon:
+        image:'icone/flag.png'
+        size_hint_y:0.04
+        pos_hint:{'right':.96,'top':.98}
+        on_release:
+            app.root.current='punteggio'
+            app.root.transition.direction= 'right'
+
+    MDLabel:
+        text: root.domanda
+        pos_hint: {'center_x':.5,'top':0.80}
+        size_hint: .85,.22
+        font_size: self.width/15
+        font_name: 'font/myriadpro-bold.otf'
+        halign: 'center'
+        valign: 'middle'
+        color: .99,.43,.23,1
+        bold: True
+
+    risposteCard:
+        id: card_a
+        indice: 'a'
+        testo: root.a
+        md_bg_color: .2,.3,.23,1
+        pos_hint: {"center_x":.5, "center_y":.44}
+
+    risposteCard:
+        id: card_b
+        indice: 'b'
+        testo: root.b
+        md_bg_color: .2,.3,.23,1
+        pos_hint: {"center_x":.5, "center_y":.27}
+
+    risposteCard:
+        id: card_c
+        indice: 'c'
+        testo: root.c
+        md_bg_color: .2,.3,.23,1
+        pos_hint: {"center_x":.5, "center_y":.10}
+
+<risposteCard@MDCard>
+    id: ''
+    indice: ''
+    testo: ''
+    ##on_press: root.changebg()
+    ##on_touch_up: root.returnbg()
+    pos_hint:
+    size_hint:.85,.15
+    MDLabel:
+        text: root.testo
+        font_size: self.width/17
+        font_name: 'font/myriadpro-bold.otf'
+        pos_hint: {"center_x":.5, "center_y":.5}
+        color: (1, 1, 1, 1)
+        size_hint: .9,1
+        halign: "center"
+        bold: True

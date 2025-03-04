@@ -1,0 +1,40 @@
+1;Che cos’è l’emorragia?;Fuoriuscita di sangue in abbondante quantità da una ferita;Violente scariche diarroiche;Perdita di urina;a
+2;L’emorragia può essere:;Solo arteriosa;Solo venosa;Arteriosa e venosa;c
+3;L’emorragia arteriosa si distingue:;Perché è di breve durata;Perché il sangue è di colore rosso vivo e a getto pulsante;Perché il sangue è di colore scuro;b
+4;Quanti sono i tipi di emorragia?;Un solo tipo (esterna);Due tipi (esterna ed interna);Un solo tipo (interna);b
+5;Che cosa si deve fare in presenza di un’emorragia esterna?;Stendere l’infortunato e coprire le ferite;Stendere l’infortunato e farlo bere;Mettere un laccio emostatico;c
+6;Che cosa è più opportuno usare per bloccare una emorragia senza disporre di laccio emostatico?;Una cintura;Un maglione;Una calza di nylon;a
+7;Dove si deve mettere il laccio emostatico?;Direttamente sulle ferite;Deve essere messo alla radice dell’arto interessato;Nella parte più vicina al cuore;b
+8;Che cos’è la ferita?;Una puntura d’insetto;Una sudorazione abbondante;L’interruzione della continuità della cute;c
+9;Come si cura una ferita?;Occorre lavare abbondantemente con acqua e soluzioni alcaline;Aspettare che il sangue si arresti da solo;Praticare una puntura contro il dolore;a
+10;A che cosa è dovuta l’asfissia?;Al freddo intenso;Ad eccessiva attività sportiva;Ad insufficiente apporto di ossigeno ai tessuti;c
+11;Che cos’è l’arresto cardiaco?;L’arresto della motilità;L’arresto del cuore con arresto della circolazione e del respiro;La perdita temporanea di coscienza;b
+12;Quali sono le cause dell’arresto cardiaco?;Un eccessivo sforzo;Disturbi digestivi;Folgorazione infarto asfissia gravi disturbi di cuore;c
+13;Come si riconosce un arresto cardiaco?;Dalla perdita di coscienza pallore della cute labbra e unghie cianotiche;Da uno stato euforico;Dalla mancanza di lucidità e orientamento;a
+14;Cos’è l’infarto del miocardio?;Spostamento del cuore;Rottura di una parte del cuore causato dalla chiusura di una arteria coronarica che porta ossigeno al cuore;Un corpo estraneo che colpisce il cuore;b
+15;Come si riconosce un infarto cardiaco?;Da un forte dolore muscolare;Da un forte dolore di testa;Dal dolore al torace molto forte trasmesso anche allo sterno al braccio sinistro e/o allo stomaco;c
+16;Come ci si deve comportare in presenza di un infarto cardiaco?;Invitare il soggetto alla calma;Rassicurare il soggetto ed evitargli ogni minimo sforzo;Invitare il soggetto ad assumere piccole quantità di acqua fresca;b
+17;Quali sono i fattori di rischio di un infarto?;Grave depressione;Grave denutrizione;Fumo alimentazione ricca di grassi uso abbondante di sostanza alcooliche stress;c
+18;Che cosa si deve fare quando una persona sviene?;Mettere la persona seduta e svestirla;Mettere la persona distesa con le gambe in alto;Caricarla sulle spalle e trasportarla alla casa più vicina;b
+19;Che cos’è una frattura?;È la rottura di un osso;È il cosiddetto colpo della strega;È la mancanza di un osso;a
+20;Come si riconosce una frattura?;Dal dolore dalla deformità della parte colpita e da impotenza funzionale;Da un’eccessiva sudorazione e dal dolore;Dalla comparsa di febbre;a
+21;Come si aiuta un soggetto fratturato?;Deve essere aiutato a rialzarsi e riacquistare i movimenti;Si devono immobilizzare le fratture e trasportare la persona al più vicino ospedale;Bisogna aspettare che gli passi il dolore;b
+22;Dopo una distorsione che cosa bisogna fare?;Impacchi freddi e una fasciatura non stretta;Mettere il laccio emostatico;Fare compressione diretta e mettere fasciature strette;a
+23;Come si può capire se una caduta ha provocato la frattura della colonna vertebrale?;Dai dolori in tutte le parti del corpo;Dal formicolio alle braccia e/o alle gambe o dall’impossibilità a muovere braccia e gambe;Dalla comparsa improvvisa di febbre;b
+24;È consigliabile trasportare da soli un fratturato vertebrale?;Sì;No;Dipende da quale vertebra è fratturata;b
+25;Che cos’è un trauma cranico?;Un violento colpo al capo con lesione ossea del cranio;Uno stato di stress psicologico;Uno stato di euforia e di ebbrezza;a
+26;Come si fa a riconoscere se una persona ha subito un trauma cranico?;Dalla perdita di movimento delle braccia e delle gambe;Dalla perdita di coscienza cefalea vomito e vertigini;Dalla perdita di movimento della sola testa;b
+27;Che cosa occorre fare quando una persona presenta un trauma cranico?;Si deve mettere la persona sdraiata e aspettare che arrivino i soccorsi;Si deve mettere la persona sdraiata ruotata sul fianco e chiamare urgentemente soccorso;La si deve caricare a spalle in cerca di soccorso;b
+28;Come si manifesta il congelamento?;Da lesioni locali per l’esposizione a freddo intenso;Da lesioni locali conseguenti a forti variazioni di temperatura;Dal rossore del viso;a
+29;Che cos’è l’assideramento?;È la conseguenza di una mancata ossigenazione;È la conseguenza di una mancata alimentazione;È il prodotto di lesioni generali determinate da una esposizione totale a basse temperature;c
+30;Quali sono le parti più colpite da congelamento?;Le mani;I polmoni;Le estremità degli arti naso e orecchio;c
+31;Quali sono i sintomi di assideramento?;Apatia difficoltà del linguaggio del movimento pallore difficoltà respiratorie;Euforia;Lentezza nei movimenti ed euforia;a
+32;Che cos’è il colpo di calore?;È una lesione da contatto con un materiale troppo caldo;È il calore che si sviluppa dopo un’abbondante libagione;Eccessivo aumento della temperatura corporea conseguente a una lunga esposizione ad alta temperatura;c
+33;Quali sono i sintomi di un colpo di calore?;Cute calda e secca assenza di sudorazione aumento del battito cardiaco fastidio alla luce;Assenza di movimento e ansia;Stato di eccitazione;a
+34;Come si deve intervenire quando un soggetto presenta un colpo di calore?;Gli si deve togliere gli indumenti e lo si deve mettere in un luogo fresco facendogli bere solo acqua fresca;Lo si deve coprire con indumenti di lana;Lo si deve bagnare con acqua fresca;a
+35;Come si riconosce un morso di vipera?;Si riconosce da 1 solo piccolo foro;Si riconosce da 3 fori disposti a triangolo;Si riconosce da 2 piccoli fori distanti 1 cm uno dall’altro;c
+36;Nei casi di morsi di vipera è necessario:;Somministrare sempre siero antiofidico;Mettere il laccio emostatico a monte del morso;Effettuare un’incisione cutanea nella sede del morso;b
+37;Quali sono tra gli altri gli accorgimenti per evitare il morso di vipera?;Scegliere sentieri e luoghi frequentati calzare scarponi e calze pesanti battere il suolo con un bastone;Indossare scarpe da ginnastica e pantaloni leggeri;Camminare tranquillamente su sentieri frequentati senza fare eccessivo rumore;a
+38;Che cos’e lo shock anafilattico?;Uno shock derivante da un forte e improvviso spavento;Uno shock paralizzante derivante da un trauma;Una grave reazione allergica a rapida comparsa che può provocare il decesso;c
+39;Tra le principali cause di shock anafilattico vi sono:;Punture di ragni api e vespe;Inalazione di pollini;Scariche adrenaliniche derivanti da un forte trauma;a
+40;Cosa occorre fare con un soggetto colpito da shock anafilattico?;Porlo supino all’ombra con le gambe leggermente sollevate confortandolo e rassicurandolo sull’arrivo dei soccorsi frattanto allertati;Farlo sedere all’ombra e somministrargli acqua fresca;Fargli impacchi freschi alle parti arrossate e gonfie;a

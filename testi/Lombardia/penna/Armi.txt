@@ -1,0 +1,107 @@
+1;Si può lasciare il fucile da caccia in automobile chiusa e con l’antifurto inserito?;Sì ma solo se scarico;Solo nei giorni di caccia consentita;No mai perché reato di omessa custodia;c
+2;Come si presenta l’interno di una canna rigata?;Con rigature perpendicolari alla lunghezza della canna;Con rigature concentriche al vivo di volata;Con rilievi ad andamento elicoidale;c
+3;Quale di questi fucili ad anima liscia è consentito?;Fucile a cinque colpi;Fucile a quattro colpi;Fucile con serbatoio in grado di contenere non più di due cartucce;c
+4;Qual è la distanza media di tiro utile per un fucile a canna liscia con munizione spezzata?;35 metri;70 metri;90 metri;a
+5;Qual è la distanza di tiro eticamente accettabile per un fucile a canna rigata di medio calibro?;500 metri;200 metri;600 metri;b
+6;Dove sono alloggiati i congegni di scatto e di percussione in un sovrapposto o in una doppietta?;Nella bascula;Nella camera di scoppio;Nella culatta;a
+7;A cosa serve la strozzatura massima della canna?;Ad allargare la rosata dei pallini per tiri ravvicinati;Per il tiro a palla unica;A mantenere più compatta e unita la rosata di pallini;c
+8;Quale dei seguenti fucili è vietato per la caccia in Italia?;La carabina di calibro inferiore a 5 6 mm;Il sovrapposto cal. 20;Il monocanna cal. 410;a
+9;Hanno diametro minore i pallini n. 10 n. 5 o n. 00?;Quelli del n. 10;Quelli del n. 5;Quelli del n. 00;a
+10;Come si chiama la parte posteriore della canna?;Bascula;Carcassa;Culatta;c
+11;Qual è la funzione dell’innesco in una cartuccia?;Incendiare la polvere;Contenere i pallini;Contenere la polvere;a
+12;In periodo di divieto di caccia è possibile trasportare l’arma?;Sì purché muniti di specifica autorizzazione;Sì purché scarica e riposta in custodia;No;b
+13;Come si chiama la parte della canna di un fucile che contiene la cartuccia?;Anima;Volata;Camera di cartuccia;c
+14;Può essere lecitamente utilizzata un’arma da caccia appartenente a un altro cacciatore?;Sì purché sia un fucile con canna ad anima liscia;No;Sì purché a titolo di prestito o comodato d’uso;c
+15;Quale di questi componenti è a contatto dell’innesco?;Il piombo;La borra;La polvere;c
+16;Che cosa succede sparando con una canna parzialmente otturata?;Non si incendia la polvere;Non parte il colpo;Può scoppiare la canna;c
+17;Si può utilizzare munizione spezzata per la caccia agli ungulati?;Sì solo se a pallettoni;No;Solo su specie di taglia medio-piccola;b
+18;Per portare il proprio fucile nei paesi membri dell’UE è necessario:;Fare la licenza di caccia nello Stato estero di destinazione;Avere il permesso da parte della Regione di residenza;Avere ottenuto dalla Questura la Carta europea per arma da fuoco;c
+19;Nel fucile a canna rigata quali munizioni vengono impiegate?;Spezzate;A palla;Sia spezzate che a palla;b
+20;Cosa è opportuno fare per ottenere una rosata più ampia in un fucile ad anima liscia?;Usare canne cilindriche;Usare canne molto strozzate;Usare pallini di grande diametro;a
+21;A cosa corrisponde il calibro ad esempio 12 o 20 in un fucile con canna ad anima liscia?;Al diametro della canna espresso in mm;Al peso massimo in mg della carica di polvere utilizzabile in quel fucile;Al numero di palle sferiche di diametro pari a quello della canna ricavabili da una libbra di piombo;c
+22;Qual è la lunghezza di una cartuccia cal. 12 standard?;65 mm;70 mm;76 mm;b
+23;Qual è la lunghezza di una cartuccia cal. 12 magnum?;70 mm;76 mm;89 mm;b
+24;Perché un fucile a canna liscia cal. 16 viene indicato con tale numerazione?;Perché il diametro interno della canna misura 16 mm;Perché il diametro interno della canna misura 16 centesimi di pollice;Perché indica il numero di sfere di piombo di diametro uguale a quello della canna necessario a formare una libbra;c
+25;Per la caccia ai Turdidi quali delle seguenti cartucce sono consigliabili?;Quelle con pallini n. 3 e 4;Quelle con pallini n. 5 e 6;Quelle con pallini n. 9 e 10;c
+26;Cos’è la bindella del fucile?;La parte che consente di misurare la distanza dal selvatico;La cinghia per portare il fucile in spalla;Un pezzo saldato sopra la canna per facilitare la mira;c
+27;Cosa studia la balistica terminale?;Il moto del proiettile dentro la canna;Il moto del proiettile dentro il bersaglio colpito;Il moto del proiettile nello spazio esterno;b
+28;Quali pallini è opportuno utilizzare per la caccia alla lepre comune?;Pallini n. 4;Pallini n. 0;Pallini n. 10;a
+29;Quali pallini è opportuno utilizzare per la caccia al gallo forcello?;Pallini n. 2;Pallini n. 5;Pallini n. 10;b
+30;Dovendo attraversare per breve tratto una strada comunale in Lombardia come deve essere tenuto il fucile?;Carico ma in sicura;Scarico e nel fodero;Scarico;c
+31;I pallini in acciaio rispetto a quelli in piombo all’impatto si deformano:;Di meno;Di più;Nella stessa misura;a
+32;Quale distanza massima di tiro può ritenersi eticamente corretta con fucile a canna rigata munito di ottica di puntamento?;1000 metri;600 metri;300 metri;c
+33;In quale caccia può essere utile impiegare le cartucce dispersanti?;Nella caccia agli acquatici in botte;Nella caccia alla beccaccia nel bosco;Nella caccia alla lepre in zone aperte;b
+34;In una carabina cal. 243 il calibro è espresso in:;Millimetri;Millesimi di pollice;Libbre;b
+35;Quale dei seguenti calibri di fucile a canna liscia è consentito per la caccia?;Cal. 4;Cal. 8;Cal. 12;c
+36;Quale di questi fucili ad anima liscia è di uso consentito in zona Alpi?;Semiautomatico a tre colpi;Semiautomatico a cinque colpi;Semiautomatico limitato a due colpi;c
+37;In quante parti si smonta un fucile ad anima liscia?;In due;In tre;In quattro;b
+38;Quale dei seguenti fucili è vietato per la caccia in Italia?;La carabina cal. 22;Il sovrapposto cal. 16;Il monocanna cal. 24;a
+39;Come viene detto un proiettile a palla ricoperto parzialmente di rame?;Camiciato;A punta soffice;Blindato;b
+40;Una carabina basculante a due canne di cui una rigata e una liscia come viene detta?;Drilling;Automatica;Billing;c
+41;Che carica di pallini contiene generalmente una cartuccia supermagnum cal. 12?;46 gr;Fino a 54 gr;Più di 60 gr;c
+42;Qual è la funzione del collarino in un bossolo?;Puramente estetica;Tenere insieme parte metallica e non metallica della cartuccia;Agganciare l’estrattore;c
+43;Quante cartucce a munizione spezzata si possono detenere senza obbligo di denuncia?;Massimo 1.000;Massimo 1.500;Massimo 2.000;a
+44;Quale delle seguenti armi è idonea per la caccia di selezione al camoscio?;Carabina semiautomatica;Carabina bolt-action;Semiautomatico a canna liscia;b
+45;Quante cartucce da caccia a palla si possono detenere senza obbligo di denuncia?;Massimo 50;Massimo 100;Anche una sola va denunciata;c
+46;Prima di superare un fosso cosa deve fare il cacciatore?;Mettere il fucile in sicura;Smontare il fucile;Non necessita alcuna precauzione;a
+47;Fino a quanti metri con fucile cal. 12 e cartuccia idonea si può abbattere un fagiano?;100/150 metri;80/100 metri;30/40 metri;c
+48;Quale dei seguenti fucili ad anima liscia è consentito per la caccia?;Cal. 8;Cal. 10;Cal. 16;c
+49;In una carabina cal. 240 Weatherby il calibro è espresso in:;Millimetri;Millesimi di pollice;Centesimi di pollice;b
+50;In una carabina cal. 300 Winchester il calibro è espresso in:;Centesimi di pollice;Millimetri;Millesimi di pollice;c
+51;Cosa blocca la sicura in un fucile ad anima liscia?;Il grilletto;Il percussore;La chiave di apertura dell’arma;a
+52;Quali dei seguenti pallini hanno diametro minore?;Pallini n. 11;Pallini n. 9;Pallini n. 10;a
+53;Per quale delle seguenti armi è consentito l’utilizzo venatorio?;Carabina ad aria compressa cal. 4 5 mm;Fucile ad anima liscia cal. 36;Carabina cal. 22;b
+54;Quando il vento può avere un effetto significativo sulla traiettoria di un tiro a palla?;Quando soffia nella stessa direzione della traiettoria;Quando soffia trasversalmente alla traiettoria;Quando soffia in direzione opposta alla traiettoria;b
+55;Che pallini sono più indicati per cacciare anatre di media taglia come mestolone e fischione?;Del n. 5;Del n. 8;Del n. 10;a
+56;Quale delle seguenti armi è a canna rigata?;Un sovrapposto cal. 12;Un semiautomatico cal. 20;Una carabina cal. 30.06;c
+57;Come si chiama la parte anteriore della canna?;Bascula;Volata;Culatta;b
+58;Qual è il calibro massimo consentito per la caccia nelle armi ad anima liscia?;Cal. 12;Cal. 20;Cal. 36;a
+59;Per quale ungulato è consentita la caccia con munizione a palla unica per canna ad anima liscia?;Il capriolo;Il cinghiale;Il muflone;b
+60;Quanto è lunga generalmente la canna in un fucile da caccia ad anima liscia?;90 cm;70 cm;50 cm;b
+61;Quando è da considerarsi in posizione di sicurezza un fucile Hammerless?;Quando i cani sono abbassati;Quando i cani sono alzati;Quando l’apposita levetta è in posizione di sicurezza;c
+62;Quale dei seguenti calibri è più idoneo per la caccia ai Turdidi da appostamento fisso?;Il cal. 10;Il cal. 28;Il cal. 12;b
+63;Per la caccia alla stanziale quale di questi calibri di fucile è preferibile?;Il cal. 24;Il cal. 12;Il cal. 410;b
+64;Quale dei seguenti tipi d’arma è a canna rigata?;Il semiautomatico;Il sovrapposto;L’express a canne giustapposte;c
+65;La denuncia di un’arma da caccia a chi deve essere presentata?;Alla Questura o ai Carabinieri;Alla Polizia provinciale;Alla Regione;a
+66;Quali pallini sono consigliabili per la caccia all’allodola?;Del n. 10 o 11;Del n. 6 o 7;Del n. 4 o 5;a
+67;Qual è la carica standard di pallini di una cartuccia cal. 20?;36 gr;32 gr;24 gr;c
+68;Quali pallini sono consigliabili per la caccia alla beccaccia?;Del n. 3 o 4;Del n. 9 o 10;Del n. 5 o 6;b
+69;Quali pallini sono consigliabili per la caccia alla starna?;Del n. 3 o 4;Del n. 9 o 10;Del n. 6 o 7;c
+70;Quali pallini sono consigliabili per la caccia al merlo?;Del n. 10 o 11;Del n. 7 o 8;Del n. 5 o 6;a
+71;Quali pallini sono consigliabili per la caccia alla quaglia?;Del n. 7 o 8;Del n. 10 o 11;Del n. 4 o 5;b
+72;Quali pallini sono consigliabili per la caccia all’alzavola?;Del n. 8 o 9;Del n. 3 o 4;Del n. 6 o 7;c
+73;Quando è consigliabile utilizzare cartucce caricate con dosi minime di polvere e piombo?;A inizio stagione venatoria;In pieno inverno;Sempre;a
+74;Che cos’è il raccordo tronco-conico nella canna del fucile?;La parte che unisce la camera di scoppio all’anima della canna;La parte che unisce il vivo di volata con l’anima della canna;La parte che unisce la volata con la bascula;a
+75;Fino a che distanza è normalmente possibile abbattere una lepre comune con pallini n. 3?;40 metri;80 metri;100 metri;a
+76;Fino che distanza è normalmente possibile abbattere un tordo bottaccio con pallini n. 10?;60 metri;75 metri;35 metri;c
+77;Fino che distanza è normalmente possibile abbattere un fagiano con pallini n. 6?;90 metri;60 metri;30 metri;c
+78;Come può essere la chiusura del bossolo di una cartuccia a munizione spezzata?;Stellare;Piramidale;Esagonale;a
+79;Di quanti grammi è all’incirca la dose normale di piombo nel cal. 12?;20 gr;25 gr;32 gr;c
+80;Che cos’è il borraggio in una cartuccia?;L’elemento interposto tra polvere e piombo;La parte di bossolo a chiusura della cartuccia;Il fondello interno del bossolo;a
+81;Quale delle seguenti strozzature in un fucile a canna liscia è maggiore?;Due stelle;Tre stelle;Una stella;c
+82;Durante l’esercizio venatorio è consentito portare con sé utensili da punta o da taglio?;No perché la licenza di caccia abilita solo al porto d’armi da fuoco;Sì se sono utensili atti alle esigenze venatorie;E’ consentito a chi sia titolare di licenza di caccia da almeno 10 anni;b
+83;Quanti colpi ha un fucile semiautomatico ad anima liscia?;Uno;Due;Più di due;c
+84;Con quale delle seguenti armi è consentita la caccia?;Fucile cal. 22;Carabina ad aria compressa;Doppietta cal. 20;c
+85;In quale forma di caccia si può utilizzare con profitto una carabina semiautomatica?;Caccia al capriolo da altana;Caccia al cinghiale in braccata;Caccia al cervo al bramito;b
+86;Quale di questi calibri è più potente?;Il cal. 28;Il cal. 12;Il cal. 36;b
+87;Che cosa s’intende per munizione spezzata?;La cartuccia caricata a pallini;La cartuccia caricata a palla con frattura predisposta a schegge;La cartuccia tagliata a metà senza piombo per tiro a salve;a
+88;Come sono denominate le munizioni a palla per canna rigata non contenenti piombo?;Camiciate;Monolitiche;Rinforzate;b
+89;Quali munizioni spezzate sono sempre vietate per la caccia nella zona Alpi?;Quelle con pallini di diametro superiore a 4 mm;Quelle con pallini di diametro inferiore a 4 mm;Quelle con pallini di numerazione inferiore al 7;a
+90;È consentito usare per la caccia una carabina cal. 22?;Sì senza limitazioni;Mai;Sì ma solo per la caccia alla volpe;b
+91;Cos’è l’asta in un fucile?;Una parte dell’impugnatura;Una parte della bascula;Una parte delle canne;a
+92;Dov’è la sicura in un fucile ad anima liscia a cani esterni?;Sopra la croce;Di fianco al grilletto;Sono i cani abbassati;c
+93;Che pallini sono consigliabili per la caccia alla cesena?;Del n. 9 o 10;Del n. 6 o 7;Del n. 4 o 5;a
+94;In una doppietta o un sovrapposto l’estrattore manuale sarà in:;Un pezzo unico;Due pezzi;Senza il collarino;a
+95;In una doppietta o un sovrapposto l’estrattore automatico sarà in:;Un pezzo unico;Due pezzi;Senza il collarino;b
+96;Terminata la giornata di caccia perché è consigliabile usare i salvapercussori per scaricare l’arma?;Per evitare di rompere i percussori;È solo una consuetudine;Per sbloccare la sicura;a
+97;Nei fucili dotati di monogrillo meccanico se non è partito il primo colpo può partire il secondo?;Sì;No perché la massa non aggancia il cane;No perché si aziona la sicura;b
+98;In un sovrapposto con due grilletti premendo il primo grilletto quale canna spara?;Inferiore;Superiore;Entrambe;a
+99;In una doppietta o sovrapposto che funzione ha la croce?;Arma le batterie;Modifica la strozzatura;Piega il calcio;a
+100;Per quale motivo si consiglia di non lasciare le batterie dell’arma cariche per un lungo periodo?;Per evitare l’indebolimento della molla;Per non bloccare l’azione della sicura;Per non compromettere le chiusure;a
+101;Le cartucce a palla denominate “monolitiche” che lunghezza hanno a parità di peso rispetto a quelle in piombo?;Sono più lunghe;Sono più corte;Sono di pari lunghezza;a
+102;In un sovrapposto con strozzatura 2 stelle/1 stella come si possono allargare le rosate senza manomettere le canne?;Usando cartucce dispersanti;Usando cartucce con borra contenitore;Usando cartucce con capsule rigate;a
+103;Quale adempimento occorre se si detiene anche per breve periodo l’arma in un luogo diverso da quello di denuncia?;Avvisare l’autorità di P.S.;Non occorre fare nulla;Avvisare la Prefettura;a
+104;Il “calibro nominale” a quali tipi di armi si riferisce?;È una definizione inesistente;Armi con canna ad anima rigata;Armi con canna ad anima liscia;b
+105;Il “calibro reale” a quali tipi di armi si riferisce?;È una definizione inesistente;Armi con canna ad anima rigata;Armi con canna ad anima liscia;c
+106;Nella caccia invernale agli acquatici da appostamento fisso è opportuno utilizzare:;Strozzature accentuate e cartucce con borra contenitore;Strozzature ridotte e cartucce con borra in feltro;Non vi sono particolari prescrizioni;a
+107;Nelle caccie collettive al cinghiale cosa è opportuno indossare?;Gilet o cappello o fascia ad alta visibilità per motivi di sicurezza;Indumenti molto mimetici per non essere avvistati dal selvatico;Indumenti pesanti perché sono caccie invernali;a

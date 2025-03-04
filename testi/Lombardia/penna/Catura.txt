@@ -1,0 +1,163 @@
+1;Perché alcune specie di fauna selvatica si dicono insettivore?;Perché si cibano anche di insetti;Perché si cibano prevalentemente di insetti;Perché hanno le ali come gli insetti;b
+2;Perché nella zona delle Alpi i periodi di caccia sono più limitati?;Perché nevica molto;Perché la tipica avifauna alpina cova in anticipo;Perché la fauna stanziale alpina va maggiormente tutelata;c
+3;Che cos’è l’ecologia?;La scienza che tratta il comportamento degli animali;La scienza che studia le relazioni tra gli esseri viventi e l’ambiente in cui vivono;La scienza che studia il fenomeno delle migrazioni;b
+4;La meccanizzazione agricola giova o nuoce alla fauna selvatica?;Giova;Nuoce;È indifferente;b
+5;Che cos’è l’etologia?;La scienza che studia il comportamento degli animali;La scienza che studia l’etica in relazione agli animali;La scienza che studia il fenomeno delle migrazioni;a
+6;La fauna selvatica può vivere indifferentemente in qualsiasi ambiente?;Sì;No ciascuna specie o gruppo di specie necessita di un suo ambiente particolare;Non ha alcuna importanza perché si adatta ovunque;b
+7;Quali siepi sono più utili all’avifauna selvatica?;Quelle rade e ben potate;Quelle non potate e ricche di bacche;Quelle fitte e impenetrabili;b
+8;Se stai fumando in auto cosa ne fai del mozzicone accesso?;Lo getti dal finestrino;Lo spegni nel posacenere;Lo spegni nel posacenere e lo getti dal finestrino;b
+9;La risaia è una coltivazione in atto?;Sì dalla semina al raccolto;Mai;Solo poco prima del raccolto;a
+10;La marcita è una coltivazione in atto?;Sempre;Mai;Solo in parte;a
+11;Il vivaio è una coltivazione in atto?;Sempre;No mai;Solo fino a un anno dall’impianto;a
+12;Quando il vigneto è in attualità di coltivazione?;Durante la potatura;Durante l’aratura;Fino a maturazione e raccolta dell’uva;c
+13;Cos’è un vivaio?;Una coltura specializzata;Un bosco artificiale;Una coltura annuale;a
+14;Che cosa è una palude?;Una coltura biennale;Un prato allagato artificialmente;Una zona umida;c
+15;Cosa produce la marcita?;Erba;Frumento;Avena;a
+16;È auspicabile un rapporto di collaborazione tra caccia e agricoltura?;No;Sì;Ha poca importanza;b
+17;In quale periodo si raccoglie normalmente il riso?;Luglio/agosto;Settembre/ottobre;Novembre/dicembre;b
+18;In che periodo normalmente si raccolgono le uve nere?;Luglio/agosto;Settembre/ottobre;Novembre/dicembre;b
+19;In quale mese si inizia normalmente la raccolta delle olive?;Settembre;Novembre;Marzo;b
+20;Quale delle seguenti pratiche agronomiche può essere utile per la fauna selvatica?;Il mantenimento in campo delle stoppie di cereali;Il diserbo meccanico;La potatura delle siepi;a
+21;Quale dei seguenti sistemi può essere adottato per limitare i danni causati dalle macchine agricole alla fauna selvatica?;Usare macchine di grandi dimensioni;Montare sulla macchina sistemi di allontanamento della fauna;Iniziare i lavori dai bordi dei campi;b
+22;In un fondo chiuso chi può catturare la fauna stanziale?;L’ATC;Le associazioni venatorie;La Regione;c
+23;Quando è possibile cacciare in un vivaio?;Con il consenso del proprietario;Solo per addestrare il cane;Mai;c
+24;Se si trova un nido cosa è corretto fare?;Allontanarsi per non disturbare;Raccoglierlo per esaminarlo;Raccoglierlo per nasconderlo altrove;a
+25;Se nei mesi estivi si trova un cucciolo di capriolo cosa è corretto fare?;Non toccarlo e allontanarsi subito;Esaminarlo per verificare che stia bene;Raccoglierlo per portarlo in un luogo nascosto;a
+26;Se un fagiano alzato dal cane si posa in un prato dove l’agricoltore sta tagliando l’erba come ci si comporta?;Si richiama il cane andando oltre;Si incita il cane a cercare il fagiano;Si entra nel prato insieme al cane;a
+27;Chi indennizza i danni che il cacciatore può arrecare all’agricoltura?;La Provincia;La Regione;Il cacciatore stesso;c
+28;Chi indennizza agli agricoltori i danni arrecati dalla fauna selvatica nei territori a caccia programmata?;La Regione e in parte i comitati di gestione di ATC e CAC;Il Comune;I comitati di gestione di ATC e CAC;a
+29;Chi indennizza agli agricoltori i danni arrecati dalla fauna selvatica nelle oasi di protezione e nelle zone di ripopolamento e cattura?;I comitati di gestione di ATC e CAC;La Regione;Il Comune;b
+30;Come si chiama l’effetto provocato nei corsi e specchi d’acqua dai fertilizzanti provenienti da agricoltura e scarichi domestici?;Fermentazione;Eutrofizzazione;Sedimentazione;b
+31;Cosa s’intende per frutti pendenti?;I frutti pressoché maturi;I frutti caduti dagli alberi;Piante da frutto sovraccariche;a
+32;Una foresta di abete bianco e abete rosso è detta:;Foresta di aghifoglie;Foresta di latifoglie;Macchia mediterranea;a
+33;La realizzazione di una pista da sci in montagna cosa comporta per la tipica fauna alpina?;Facilita lo spostamento tra i boschi;Introduce nuove fonti di disturbo;Nessuna conseguenza;b
+34;Qual è il maggiore impatto della rete viaria sulla fauna selvatica?;Frammenta il territorio e introduce barriere fisiche ai suoi spostamenti;La fa allontanare per l’inquinamento acustico;La fa allontanare per l’inquinamento luminoso nelle ore notturne;a
+35;Che cosa riguarda l’inquinamento idrico?;L’acqua;L’aria;L’acqua e l’aria;a
+36;L’inquinamento atmosferico è più avvertito:;Quando spirano forti venti da nord;Quando ci sono nebbia e calma di vento;Quando piove in maniera moderata o forte;b
+37;Gli alberi morti e secchi sono utili o inutili nel bosco?;Sono inutili perché non producono più ossigeno;Sono inutili e pericolosi in quanto esca per incendi;Possono essere utili per l’alimentazione di certe specie di uccelli come i picchi;c
+38;Dopo quanti anni dall’impianto di solito si tagliano i pioppeti?;4 anni;6 anni;10 anni;c
+39;Quale delle seguenti specie di avifauna fa più danni ai frutteti?;Lo storno;Il picchio verde;Il pettirosso;a
+40;Quali sostanze di sintesi si usano per eliminare le erbe infestanti?;Diserbanti;Anticrittogamici;Insetticidi;a
+41;Che cos’è lo smog?;È una sostanza di laboratorio;È una fitta nebbia naturale;È una conseguenza dell’inquinamento atmosferico;c
+42;Quale delle seguenti essenze arboree non è originaria del nostro paese?;Olmo;Acero campestre;Robinia;c
+43;Che cosa si intende per marcita?;Un prato naturale;Un medicaio;Un prato irrigato artificialmente;c
+44;Che rapporto esiste fra la fauna selvatica e l’ambiente?;Nessun rapporto particolare;Un rapporto casuale;Un rapporto stretto e diretto;c
+45;Le piante verdi respirano?;Sempre;Solo di notte;Mai;b
+46;Quale delle seguenti specie di uccelli è più dannosa per le colture cerealicole?;La cesena;Il codibugnolo;La cornacchia grigia;c
+47;Cosa sono i cereali autunno-vernini?;Cereali che vengono seminati in autunno;Cereali che vengono raccolti in autunno;Cereali che vengono raccolti in inverno;a
+48;Nel caso in cui andando a caccia si avvisti un incendio boschivo cosa occorre fare?;Telefonare immediatamente al numero di emergenza dei vigili del fuoco;Cercare di spegnere le fiamme;Allontanarsi per non correre rischi inutili;a
+49;Quale dei seguenti terreni può meglio ospitare il beccaccino?;Stoppia di soia;Stoppia di riso;Campo arato;b
+50;Quali delle seguenti colture sono più idonee alla presenza della starna?;Cereali autunno-vernini;Riso;Pascoli alpini;a
+51;La liquidazione dei danni arrecati alle colture agricole dalla fauna selvatica in un’oasi di protezione da chi viene di norma effettuata?;Dai comitati di gestione degli ATC;Dalla Regione;Dalle associazioni venatorie;b
+52;Quali delle seguenti colture sono più idonee alla presenza della lepre comune?;Erbai e medicai;Cereali autunno-vernini;Soia e mais;a
+53;Quando un prato stabile viene considerato coltura in atto?;Sempre;Mai;Solo all’epoca della fienagione;a
+54;Qual è stata in passato la causa principale della degradazione di boschi e foreste?;Il pascolo eccessivo;Il vento;Il fuoco;a
+55;Quali sono gli agenti preposti alla sorveglianza del patrimonio boschivo?;Le guardie zoofile;Il nucleo forestale dell’Arma dei Carabinieri;Le guardie ecologiche volontarie;b
+56;Le mele in quale mese normalmente si raccolgono?;Giugno;Ottobre;Dicembre;b
+57;Gli incendi boschivi cosa comportano nei riguardi della fauna selvatica?;Ne favoriscono l’aumento;Ne provocano la scomparsa;Non hanno alcun impatto;b
+58;In un bacino idrografico una ricca vegetazione che cosa assicura?;Regola l’assorbimento dell’acqua piovana;Facilita le piene di fiumi e torrenti;Causa siccità assorbendo tutta l’acqua piovana;a
+59;Quale delle seguenti specie arreca sovente danno all’agricoltura?;Beccaccia;Allodola;Piccione torraiolo;c
+60;In quale mese di semina normalmente il frumento?;Agosto;Ottobre;Dicembre;b
+61;In quale tra le seguenti province è più facile trovare le ultime marcite?;Como;Varese;Lodi;c
+62;Quale conseguenza tra le altre ha comportato lo spopolamento delle montagne?;L’aumento delle superfici forestali;L’incremento della coturnice;Il calo delle popolazioni di ungulati;a
+63;Se cacciando si arrecano danni alle colture agricole come occorre comportarsi?;Allontanarsi prima di essere individuati;Risarcire i danni al proprietario del fondo;Rivolgersi alla propria associazione venatoria che provvederà al risarcimento;b
+64;Se accade di imbattersi in un rettile come si deve agire?;Lasciarlo stare;Eliminarlo;Catturarlo vivo;a
+65;Su quale delle seguenti colture può causare danni il germano reale?;Il mais;La soia;Il riso;c
+66;Quando un prato di erba medica si considera in attualità di coltivazione?;Subito dopo lo sfalcio;Quando l’erba è alta pochi centimetri;Quando l’erba è pronta per lo sfalcio;c
+67;Quale delle seguenti specie arreca sovente danno ai seminativi?;Volpe;Nutria;Faina;b
+68;Si può cacciare in un terreno coltivato a mais da seme?;No;Sì solo finché è verde;Sì;a
+69;Chi paga i danni arrecati dalla fauna selvatica alle colture in un’oasi di protezione?;La Regione;L’ATC o il CAC;Lo Stato;a
+70;Chi paga i danni arrecati dalla fauna selvatica alle colture in un’area a parco naturale?;L’ATC o il CAC;L’ente gestore dell’area protetta;La Regione;b
+71;Qual è lo scopo principale per cui si costituiscono le oasi di protezione?;Per proteggere un territorio dall’urbanizzazione;Per sfruttare in maniera pianificata le risorse forestali;Per salvaguardare la fauna selvatica e favorirne sosta e riproduzione;c
+72;Cosa è il riso crodo?;Un’infestante del riso;Una pregiata varietà di riso piemontese;Una pregiata varietà di riso della Lomellina;a
+73;Quale delle seguenti azioni si può definire come distruzione di un ecosistema?;L’inquinamento di un lago;Il danneggiamento di una coltura in atto;Il danneggiamento di un vigneto;a
+74;Se un beccaccino si posa in una marcita cosa si deve fare?;Si incita il cane a entrare in marcita a cercarlo;Si entra in marcita insieme al cane;Si chiama il cane al piede e ci si allontana;c
+75;La conservazione dell’ambiente di chi è interesse?;Dei cacciatori;Degli ambientalisti;Di tutti;c
+76;Quale tra i seguenti tipi di coltura è preferita come pastura dal fagiano?;Il trifoglio;La barbabietola;Il mais;c
+77;Quali specie di uccelli danneggiano maggiormente le semine di cereali?;Quelle predatrici;Quelle granivore;Quelle insettivore;b
+78;È consentito cacciare negli oliveti?;No mai;Solo dopo il raccolto;Sempre;b
+79;Quale delle seguenti specie può dirsi utile all’agricoltura?;Lo storno;Il coniglio selvatico;La pispola;c
+80;Quali di queste sostanze sono più dannose per la fauna selvatica?;I concimi organici;I diserbanti;I rifiuti solidi urbani;b
+81;Nei frutteti quando si può cacciare?;Sempre;Solo dopo il raccolto;Mai;b
+82;L’agricoltore che subisce danni dalla fauna selvatica cosa deve fare?;Eliminare gli animali che provocano il danno;Avvelenare il campo danneggiato;Fare domanda di indennizzo danni all’ente competente;c
+83;Qual è la scienza che studia le relazioni tra gli esseri viventi e l’ambiente?;L’etologia;La biologia;L’ecologia;c
+84;Qual è la scienza che studia il comportamento degli animali?;L’etologia;L’ecologia;La biologia;a
+85;Si può cacciare in una stoppia di mais?;Sì sempre;No;Sì ma solo se trinciata;a
+86;In che mesi si raccoglie il frumento?;Giugno/luglio;Ottobre/novembre;Novembre/dicembre;a
+87;Da quale specie di avifauna è danneggiata la produzione di ciliegie?;Dallo storno;Dal tordo bottaccio;Dal fringuello;a
+88;Un cacciatore col cane attraversando un vigneto con uva matura cosa deve fare?;Cacciare normalmente;Scaricare il fucile e tenere il cane al guinzaglio;Fermarsi nel vigneto attendendo che il cane faccia il proprio lavoro;b
+89;Come è bene che siano tra loro gli agricoltori e i cacciatori?;Alleati;Indifferenti;Avversari;a
+90;Quale delle seguenti specie di uccelli è più utile all’agricoltura?;La rondine;Il merlo;La passera mattugia;a
+91;In quale stagione si falcia l’erba nelle marcite?;Solo in estate;Solo in autunno;Tutto l’anno;c
+92;Nei frutteti e nei vigneti in attualità di coltivazione quale forma di caccia è consentita?;All’aspetto;Vagante;Nessuna;c
+93;Il mais tardivo in quale di questi mesi si raccoglie?;Agosto;Ottobre;Novembre;b
+94;Il mais da foraggio in quale mese solitamente si semina?;Maggio;Luglio;Settembre;a
+95;Il mais tardivo in quale mese solitamente si semina?;Aprile;Febbraio;Gennaio;a
+96;Il riso di solito in quale periodo si semina?;Febbraio/marzo;Aprile/maggio;Luglio/agosto;b
+97;Esiste la coltura del riso detta “in asciutta”?;Sì;No;Solo nelle vicinanze del Po;a
+98;L’orzo è una coltura:;Cerealicola;Erbacea;Oleaginosa;a
+99;Quali piante in genere si possono utilizzare per costruire un appostamento temporaneo?;Essenze arbustive di pregio;Residui di potature;Rami di piante da frutto;b
+100;L’ortaglia quando è in attualità di coltivazione?;Sempre;Mai;Solo dopo l’irrigazione;a
+101;Cos’è la riserva naturale regionale?;Un’area naturale protetta sempre a divieto di caccia;Una zona dove caccia solo il concessionario della riserva;Una zona di ripopolamento faunistico;a
+102;Un parco naturale per quali esigenze può nascere?;Per tutelare determinati interessi sia pubblici che privati;Per richiamare turisti e visitatori;Per la difesa e conservazione della natura;c
+103;Che cos’è un incolto?;Una coltivazione in atto;Un terreno non coltivato;Un vivaio poco curato;b
+104;Quando l’uva è matura si può entrare a caccia in un vigneto?;No perché c’è un frutto pendente;Sì;Sì solo per la caccia all’aspetto;a
+105;Le colture cerealicole quando sono in attualità di coltivazione?;Al momento della semina;Al momento del raccolto;Dal momento della semina al raccolto;c
+106;Quale dei seguenti ungulati può essere più dannoso per il rinnovamento forestale?;Il camoscio;Il muflone;Il capriolo;c
+107;Come si chiamano i residui in campo del mais dopo il raccolto?;Steli;Stocchi;Fusti;b
+108;Quando di norma si raccoglie la soia?;Luglio/agosto;Settembre/ottobre;Dicembre;b
+109;Da quali delle seguenti specie sono molto ricercati i semi maturi del girasole?;Da tortora e colombaccio;Da fagiano e starna;Da storno e merlo;a
+110;Quale di queste colture è un prato artificiale?;Una marcita;Un pascolo;Un prato stabile;a
+111;Quanti sfalci d’erba si possono fare all’anno in una marcita?;Fino a otto;Due;Tre;a
+112;Quante volte l’anno si taglia in genere l’erba in un prato alpino?;Mai;Una volta;Tre volte;b
+113;La paglia è tra i residui del raccolto per quale delle seguenti colture?;Il riso;Il ravizzone;La soia;a
+114;Il medicaio che tipo di prato è?;Un prato naturale;Un prato artificiale;Una brughiera;b
+115;Un campo di loietto che tipo di prato è?;Un prato naturale;Un prato artificiale;Una brughiera;b
+116;Quando si falcia l’erba medica?;Quando le piantine sono secche;Quando le piantine sono in fioritura;Quando le piantine sono appena spuntate;b
+117;Quale delle seguenti essenze arboree è alloctona e quindi se ne potrebbero usare rami per costruire un capanno?;Quercia farnia;Acero campestre;Robinia;c
+118;Quale coltivazione è tipica e molto diffusa nelle aree collinari dell’Oltrepo pavese?;Vigna;Alberi da frutto;Cereali;a
+119;Quali acque si usano in genere per una risaia?;Acque salmastre;Acque dolci;Non fa differenza;b
+120;Quale specie di avifauna può essere proficuamente cacciata in un medicaio da seme?;Quaglia;Starna;Nessuna specie;c
+121;Quando riconosci un medicaio da seme?;Quando l’erba è appena spuntata;Quando l’erba è in piena fioritura;Quando il fiore è secco;c
+122;Le risaie sono solitamente presenti in quali territori?;Alta pianura asciutta;Pedecollinari;Bassa pianura irrigua;c
+123;Si può cacciare in un terreno di recente rimboschimento?;No mai;Sì sempre;Solo col consenso del proprietario del fondo;a
+124;Un bosco di ontani è tipico di:;Bassa e media collina;Pianura irrigua con corsi d’acqua;Pianura asciutta;b
+125;La bruciatura delle stoppie per la fauna selvatica è:;Dannosa;Vantaggiosa;Indifferente;a
+126;Da chi vengono indennizzati i danni da cinghiale in una azienda faunistico-venatoria?;Dalla Provincia competente;Dall’ATC o dal CAC;Dal concessionario dell’azienda;c
+127;Se si danneggia una pianta da reddito con una fucilata chi paga i danni?;La Regione;Il Sindaco competente;Chi ha sparato;c
+128;Perché sono importanti i miglioramenti ambientali fatti dagli ATC e dai CAC?;Per incrementare i redditi delle aziende agricole;Per incrementare la biodiversità del territorio a caccia programmata;Per incrementare la biodiversità dei parchi e riserve naturali;b
+129;Quale dei seguenti interventi di miglioramento ambientale è utile soprattutto per la stagione invernale?;Il mantenimento in campo di colture a perdere;La creazione di punti di abbeverata;Il taglio di arbusti infestanti;a
+130;Quali delle seguenti essenze arbustive è tipica delle zone alpine e produce bacche molto ricercate dagli uccelli?;Sanguinello;Sambuco;Sorbo degli uccellatori;c
+131;Quali delle seguenti colture è più favorevole alla presenza dell’allodola?;Mais;Soia;Prato stabile;c
+132;L’indennizzo in azienda agri-turistico venatoria dei danni causati dalla fauna selvatica alle colture agricole fa carico:;Alla Regione;All’ATC;Al concessionario dell’azienda;c
+133;Un terreno a risaia è in attualità di coltivazione quando la coltura è:;In sommersione;Dalla semina al raccolto;In asciutta;b
+134;Cosa s’intende per recupero ambientale mirato a una determinata specie selvatica?;La ricostituzione di un ambiente della massima vocazionalità per quella determinata specie;La costruzione di un recinto per immettervi esemplari di una determinata specie;La bonifica di una zona umida per immettervi specie terricole;a
+135;L’esercizio venatorio è vietato nei fondi chiusi da rete metallica di altezza:;Superiore a 200 cm;Superiore a 150 cm;Non inferiore a 120 cm;c
+136;In un fondo in attualità di coltivazione chi può esercitare la caccia?;Solo il proprietario del fondo;Nessuno;Solo le guardie venatorie volontarie;b
+137;Cosa si deve fare dei bossoli sparati?;Vanno raccolti e portati via;Si possono abbandonare sul terreno;Devono essere sotterrati;a
+138;Quale tra i seguenti tipi di colture subisce danni da una specie di avifauna frugivora?;Una coltura di riso;Una coltura di orzo;Un vigneto;c
+139;In quale dei seguenti ambienti è lecito esercitare la caccia?;Vigneto con frutto pendente;Stoppia di mais;Coltivazione di soia;b
+140;Chi ha il dovere di conservare l’ambiente?;I naturalisti e gli ambientalisti;I cacciatori e gli agricoltori;Tutti i cittadini;c
+141;I cani da caccia possono entrare in un appezzamento coltivato a riso prima del raccolto?;No;Sì;Solo per recuperare un selvatico abbattuto;a
+142;Il pioppeto è un bosco naturale?;Sì;No;Solo nelle golene dei fiumi;b
+143;Cosa s’intende per vocazionalità faunistica di un determinato territorio?;L’idoneità di una realtà territoriale per determinate specie selvatiche;La preferenza di determinate specie a riprodursi in un dato territorio;Il rapporto tra maschi e femmine di una data specie in un determinato territorio;a
+144;Quale delle seguenti specie di mammiferi può provocare gravi squilibri agli ecosistemi umidi?;Riccio;Coniglio selvatico;Nutria;c
+145;Quali specie selvatiche di solito causano maggiori squilibri nei nostri ecosistemi?;Le specie autoctone;Le specie alloctone;Le specie indigene;b
+146;Che cosa s’intende per vivaio arboreo?;Un allevamento estensivo di piante;Un allevamento di avifauna arboricola;Una monocoltura intensiva di piante;c
+147;Quale delle seguenti specie di uccelli può dirsi utile all’agricoltura?;Il germano reale;Il fagiano;Il picchio rosso maggiore;c
+148;Cos’è l’ornitologia?;La scienza che studia gli uccelli;La scienza che studia i mammiferi;La scienza che studia uccelli e mammiferi;a
+149;Il coniglio selvatico può arrecare danno alle colture agricole?;No mai;Sì di frequente;Di rado;b
+150;Un parco nazionale per quali esigenze può nascere?;Per tutelare interessi privati sulle proprietà dei terreni;Per la difesa e conservazione della natura;Per garantire la difesa delle produzioni agricole tipiche;b
+151;L’esercizio venatorio è vietato nei fondi recintati dove si pratica il pascolo del bestiame:;Sempre;Mai;Solo quando vi è la presenza del bestiame;a
+152;Quale delle seguenti specie selvatiche viene definita problematica a causa dei danni che arreca all’agricoltura?;La lepre bruna europea;Il cinghiale;Il muflone;b
+153;Le zone di ripopolamento e cattura a cosa sono destinate?;A tutelare l’agricoltura;Alla riproduzione naturale e successiva cattura di fauna stanziale;Al rifugio e alla riproduzione della fauna selvatica in generale;b
+154;La legge regionale lombarda prevede che l’attività venatoria sia consentita purché:;Non arrechi danno alle produzioni agricole;Non arrechi disturbo alla cittadinanza;Non vada oltre il 31 gennaio di ogni anno;a
+155;Quale tipo di coltura è preferita come pastura dal colombaccio?;La soia;La barbabietola da zucchero;Il mais;c
+156;Cosa si intende per “catena alimentare”?;L’insieme dei rapporti tra gli organismi di un ecosistema;L’abbondanza di alimenti nell’ambiente;La lotta per la sopravvivenza tra predatori e prede;a
+157;Come si definiscono gli organismi alla base di ogni catena alimentare?;Produttori;Consumatori;Decompositori;a
+158;Come si manifesta principalmente in molte specie di uccelli il dimorfismo sessuale?;Nelle diverse colorazioni del piumaggio;Nelle diverse abitudini di vita;Nelle diverse velocità del volo;a
+159;In una catena alimentare quali animali carnivori sono definiti “superpredatori”?;Quelli che si cibano di grandi erbivori;Quelli che si cibano di altri carnivori;Quelli che si cibano sia di erbivori che di altri carnivori;c
+160;Perché i rapaci rispetto ad altri uccelli risentono maggiormente dell’effetto dell’inquinamento da diserbanti e insetticidi?;Perché hanno un’alimentazione costituita in prevalenza da giovani nidiacei;Perché trovandosi al vertice della catena alimentare risentono del fenomeno di accumulo di tali veleni;Perché predano solo avifauna che si nutre di graminacee coltivate;b
+161;Nei rapaci diurni dell’ordine Falconiformi il maschio è:;Più grande della femmina;Più piccolo della femmina;Più colorato della femmina;b
+162;In una catena alimentare la lepre comune è:;Un consumatore;Un produttore;Un decompositore;a
+163;In una catena alimentare quale tra i seguenti carnivori è un “superpredatore”?;La volpe;La martora;Il lupo;c

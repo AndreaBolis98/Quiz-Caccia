@@ -1,0 +1,241 @@
+#: import Factory kivy.factory.Factory
+
+<DomandePage>:
+    name: 'domande'
+
+    canvas:
+        Color:
+            rgba: .95,.92,.85,1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+        Color:
+            rgba: .5,.52,.42,1
+        RoundedRectangle:
+            size : self.width,self.height/6.4
+            pos : 0,self.height-self.height/6.4
+            radius:0,0,0,0
+        Color:
+            rgba:.95,.92,.85,1
+        Triangle:
+            points: self.width/2-30,self.height-self.height/6.4,self.width/2,self.height-self.height/6.4+self.height/45,self.width/2+30,self.height-self.height/6.4
+
+    MDLabel:
+        id: count_down
+        text:'30:00'
+        font_size: self.width/16
+        font_name: 'font/myriadpro-bold.otf'
+        size_hint_y:0.14
+        color: 1, 1, 1, 1
+        bold: True
+        halign: 'center'
+        pos_hint: {'x':0,'top':.985}
+        size_hint: 1,.05
+
+    SmallIcon:
+        image:'icone/home.png'
+        size_hint_y:0.05
+        pos_hint:{'x':.01,'top':.98}
+        on_release: Factory.PopUpHome().open()
+
+    SmallIcon:
+        image:'icone/flag.png'
+        size_hint_y:0.04
+        pos_hint:{'right':.98,'top':.98}
+        on_release: Factory.PopUpFlag().open()
+
+    MDLabel:
+        text: root.domanda
+        pos_hint: {'center_x':.5,'top':0.80}
+        size_hint: .85,.22
+        font_size: self.width/15
+        font_name: 'font/myriadpro-bold.otf'
+        halign: 'center'
+        valign: 'middle'
+        color: .99,.43,.23,1
+        bold: True
+
+    DomandeCard:
+        id: card_a
+        indice: 'a'
+        testo: root.a
+        md_bg_color: .05,.31,.23,1
+        pos_hint: {"center_x":.5, "center_y":.44}
+        on_release: root.press_risposta('a')
+
+    DomandeCard:
+        id: card_b
+        indice: 'b'
+        testo: root.b
+        md_bg_color: .05,.31,.23,1
+        pos_hint: {"center_x":.5, "center_y":.27}
+        on_release: root.press_risposta('b')
+
+    DomandeCard:
+        id: card_c
+        indice: 'c'
+        testo: root.c
+        md_bg_color: .05,.31,.23,1
+        pos_hint: {"center_x":.5, "center_y":.10}
+        on_release: root.press_risposta('c')
+
+
+
+<PopUpHome@Popup>
+    auto_dimiss:False
+    size_hint:.8,.3
+    pos_hint: {'center_x':0.5,'center_y':0.5}
+    title: 'Attenzione'
+    title_color:.95,.92,.85,1
+    title_font:'font/myriadpro-bold.otf'
+    title_size: self.width/12
+    FloatLayout:
+        size:root.width,root.height
+        MDLabel:
+            size_hint: .9,.6
+            pos_hint:{'center_x':.5, 'top':1}
+            text: "I risultati di questo quiz non verranno salvati. Vuoi procedere?"
+            font_name: 'font/myriadpro-bold.otf'
+            font_size: self.width/13
+            color: .95,.92,.85,1
+        Button:
+            background_color: 1, 0, 0, 0
+            size_hint: .3,.4
+            pos_hint:{'right':1, 'top':.4}
+            text: 'OK'
+            font_name: 'font/myriadpro-bold.otf'
+            font_size: self.width/4
+            bold: True
+            color:.99,.43,.23,1
+            on_release:
+                root.dismiss()
+                app.root.current='choose'
+                app.root.transition.direction= 'right'
+        Button:
+            background_color: 1, 0, 0, 0
+            size_hint: .3,.4
+            pos_hint:{'right':.7, 'top':.4}
+            text: 'ANNULLA'
+            font_name: 'font/myriadpro-bold.otf'
+            font_size: self.width/4
+            bold: True
+            color:.99,.43,.23,1
+            on_release:
+                root.dismiss()
+
+
+<PopUpFlag>
+    auto_dimiss:False
+    size_hint:.8,.3
+    pos_hint: {'center_x':0.5,'center_y':0.5}
+    title: 'Attenzione'
+    title_color:.95,.92,.85,1
+    title_font:'font/myriadpro-bold.otf'
+    title_size: self.width/12
+    FloatLayout:
+        size:root.width,root.height
+        MDLabel:
+            id: popup_label
+            size_hint: .9,.6
+            pos_hint:{'center_x':.5, 'top':1}
+            font_name: 'font/myriadpro-bold.otf'
+            font_size: self.width/13
+            color: .95,.92,.85,1
+        Button:
+            background_color: 1, 0, 0, 0
+            size_hint: .3,.4
+            pos_hint:{'right':1, 'top':.4}
+            text: 'OK'
+            font_name: 'font/myriadpro-bold.otf'
+            font_size: self.width/4
+            bold: True
+            color:.99,.43,.23,1
+            on_release:
+                root.dismiss()
+                root.flag_state()
+                app.root.current='punteggio'
+                app.root.transition.direction= 'left'
+        Button:
+            background_color: 1, 0, 0, 0
+            size_hint: .3,.4
+            pos_hint:{'right':.7, 'top':.4}
+            text: 'ANNULLA'
+            font_name: 'font/myriadpro-bold.otf'
+            font_size: self.width/4
+            bold: True
+            color:.99,.43,.23,1
+            on_release:
+                root.dismiss()
+
+
+<DomandeCard>
+    id: ''
+    indice: ''
+    testo: ''
+    on_press: root.changebg()
+    on_touch_up: root.returnbg()
+    pos_hint:
+    size_hint:.85,.15
+    MDLabel:
+        text: root.testo
+        font_size: self.width/19
+        font_name: 'font/myriadpro-bold.otf'
+        pos_hint: {"center_x":.5, "center_y":.5}
+        color: (1, 1, 1, 1)
+        size_hint: .9,1
+        halign: "center"
+        bold: True
+
+
+
+<NumericScrollView>
+    md_bg_color: .100, .26, .129, 0
+    size_hint_x: None
+    width: self.height
+    canvas.before:
+        ##Color:
+        ##    rgba:.100, .26, .129, 1
+        ##Ellipse:
+        ##    pos:(self.x), (self.y)
+        ##    size:self.height,self.height
+        Color:
+            rgba:self.color
+        Ellipse:
+            ##pos:self.x+(self.height-self.height/1.2)/2,self.y+(self.height-self.height/1.2)/2
+            ##size:self.height/1.2,self.height/1.2
+            pos:(self.x), (self.y)
+            size:self.height,self.height
+    elevation:0
+    text: ''
+    color:1,1,1,1
+    MDLabel:
+        pos: self.pos
+        halign: 'center'
+        valign: 'middle'
+        font_size: self.height/2
+        bold: True
+        text: root.text
+
+<Tmp>
+    md_bg_color: .100, .26, .129, 0
+    elevation:0
+    size_hint_x: None
+    #width:250
+
+
+
+<MyScrollview>:
+    do_scroll_x: True
+    do_scroll_y: False
+    pos_hint:{'center_x':.5,'y':.865}
+    size_hint: 1,.06
+    ##scroll_distance: 100
+    always_overscroll:False
+    bar_color:0,0,0,0
+    GridLayout:
+        id: numeric_list
+        size_hint: None,1
+        rows: 1
+        ##spacing: "6dp"
+        width: self.minimum_width
+        call_force_default:True

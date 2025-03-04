@@ -1,0 +1,267 @@
+<AreaPersonalePage>:
+    name: 'personale'
+    canvas:
+        Color:
+            rgba: .5,.52,.42,1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+        Color:
+            rgba: .95,.92,.85,1
+        RoundedRectangle:
+            size : self.width,self.height-self.height/3.2
+            pos : 0,0
+            radius: [(self.height/10, self.height/40), (self.height/10, self.height/40),0 , 0]
+            #radius:[0,0,0,0]
+
+    SmallIcon:
+        image:'icone/home.png'
+        size_hint_y:0.05
+        pos_hint:{'x':.02,'top':.97}
+        on_release:
+            app.root.current='choose'
+            app.root.transition.direction= 'down'
+
+    SmallIcon:
+        image:'icone/localization.png'
+        size_hint_y:0.05
+        pos_hint:{'right':.98,'top':.97}
+        on_release:
+            app.root.current='ChooseRegion'
+            app.root.transition.direction= 'left'
+
+    Image:
+        source: 'icone/cacciatore.png'
+        size_hint:.6,.17
+        pos_hint:{'center_x':.5,'top':1}
+        allow_stretch: True
+        keep_ratio: True
+
+    MDTextFieldRound:
+        id: modifyname
+        hint_text: root.nome
+        foreground_color: .5,.52,.42,1
+        hint_text_color: .5,.52,.42,1
+        cursor_color: .5,.52,.42,1
+        icon_right: "pencil"
+        size_hint: .6,.05
+        font_size: self.width/12
+        font_name: 'font/myriadpro-bold.otf'
+        pos_hint: {"center_x": .5, "top":.84}
+        halign: 'center'
+        bold: True
+        mode: "fill"
+        normal_color: .95,.92,.85,1
+        color_active: .95,.92,.85,1
+
+    SelTypeCardPersonale:
+        id: cinghiale
+        image:'icone/cinghiale.png'
+        text:'CINGHIALE'
+        index:1
+        pos_hint: {'center_x':root.pos_cinghiale,'top':.78}
+        color: .99,.43,.23,1
+        size_hint:.45,.08
+        on_release: root.animate_it(1,self.index)
+
+    SelTypeCardPersonale:
+        id: penna
+        image:'icone/penna.png'
+        text:'VAGANTE E APPOSTAMENTO\nFISSO'
+        index:2
+        pos_hint: {'center_x':root.pos_penna,'top':.78}
+        color: .2,.3,.23,1
+        size_hint:.45,.08
+        on_release: root.animate_it(2,self.index)
+
+
+
+
+    BoxLayout:
+        cols:1
+        pos_hint:{'center_x':.5,'y':.05}
+        size_hint:.8, .60
+
+        ScrollView:
+            do_scroll_x: False
+            bar_color:0,0,0,0
+            BoxLayout:
+                spacing: "12dp"
+                id: choose_error_list
+                orientation: 'vertical'
+                size_hint:1,None
+                height: self.minimum_height
+
+                AreaPersonaleCard:
+                    height:root.height/6
+                    id:score
+
+
+                MDLabel:
+                    text: '  Visualizza i tuoi ultimi errori'
+                    font_name: 'font/myriadpro-bold.otf'
+                    color: .99,.43,.23,1
+                    size_hint:1,None
+                    height:self.width/10
+                    font_size: self.width/15
+                GridLayout:
+                    cols:2
+                    spacing: "6dp"
+                    padding: "6dp"
+                    size_hint:1,None
+                    height: self.minimum_height
+                    id:grid_error
+
+                Widget:
+                    height:200
+
+
+
+
+
+
+
+<SelTypeCardPersonale@MDCard>
+    id: ''
+    md_bg_color: .95,.92,.85,0
+    size_hint:0.8,0.15
+    orientation: 'horizontal'
+    elevation:0
+    color:0,0,0,0
+    image: ''
+    text: ''
+    index: 0
+    pos_hint:
+    canvas.before:
+        Color:
+            rgba: self.color
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius: [(self.height/3.5,self.height/2), (self.height/3.5, self.height/2), (self.height/3.5, self.height/2), (self.height/3.5, self.height/2)]
+
+    MDFloatLayout:
+        id: box
+        orientation: "horizontal"
+        ##padding: 0,0, '24dp',0
+        Image:
+            source: root.image
+            allow_stretch: True
+            keep_ratio: True
+            size_hint:.45,1
+            pos_hint: {'center_x':.15, 'center_y':.5}
+        MDLabel:
+            text: root.text
+            bold: True
+            halign: 'left'
+            size_hint: .70,1
+            font_size: self.width/9
+            font_name: 'font/myriadpro-bold.otf'
+            color: (1,1,1,1)
+            pos_hint: {'right':1, 'center_y':.5}
+
+<Statistiche@MDCard>
+    md_bg_color: .95,.92,.85,0
+    elevation:0
+    canvas.before:
+        Color:
+            rgba: .05,.31,.23,0
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            #radius: [(self.height/3.5,self.height/2), (self.height/3.5, self.height/2), (self.height/3.5, self.height/2), (self.height/3.5, self.height/2)]
+
+
+<AreaPersonaleCard@MDCard>
+    md_bg_color: .95,.92,.85,0
+    pos_hint:{'center_x': .5, 'center_y': .5}
+    size_hint:1, None
+    elevation:0
+    n_quiz:''
+    perc_passati:''
+    canvas.before:
+        Color:
+            rgba:.2,.3,.23,1
+        RoundedRectangle:
+            size : self.size
+            pos : self.pos
+            radius: [(self.height/2, self.height/6),(self.height/2, self.height/6),(self.height/2, self.height/6) ,(self.height/2, self.height/6)]
+    FloatLayout:
+        Image:
+            source: 'icone/stella.png'
+            allow_stretch: True
+            keep_ratio: True
+            halign: 'center'
+            size_hint_x:.4
+            pos_hint: {'center_x':.13, 'center_y':.5}
+        MDLabel:
+            halign: 'left'
+            text: root.n_quiz
+            font_size: self.width/3
+            font_name: 'font/myriadpro-bold.otf'
+            size_hint: .3,.4
+            pos_hint: {'x':.23, 'y':.5}
+            color: .95,.92,.85,1
+
+        MDLabel:
+            halign: 'left'
+            text:'Quiz\nsvolti'
+            font_size: self.width/4
+            font_name: 'font/myriadpro-regular.ttf'
+            size_hint: .3,.4
+            pos_hint: {'x':.23, 'y':.1}
+            color: .95,.92,.85,1
+
+        Image:
+            source: 'icone/coppa.png'
+            allow_stretch: True
+            keep_ratio: True
+            halign: 'center'
+            size_hint_x:.5
+            pos_hint: {'center_x':.58, 'center_y':.5}
+        MDLabel:
+            halign: 'left'
+            text: root.perc_passati
+            font_size: self.width/3
+            font_name: 'font/myriadpro-bold.otf'
+            size_hint: .3,.4
+            pos_hint: {'x':.70, 'y':.5}
+            color: .95,.92,.85,1
+            bold: False
+        MDLabel:
+            halign: 'left'
+            text:'Quiz\nsuperati'
+            font_size: self.width/5
+            font_name: 'font/myriadpro-regular.ttf'
+            size_hint: .3,.4
+            pos_hint: {'x':.70, 'y':.1}
+            color: .95,.92,.85,1
+
+<TypeErrorCard>:
+    md_bg_color: .2,.3,.23,1
+    elevation:0
+    radius: [50,50,50,50]
+    pos_hint:{'center_x': .5, 'center_y': .5}
+    size_hint:.8, None
+    height:self.width/2
+    orientation: 'vertical'
+    image: ''
+    text: ''
+    index: 0
+    FloatLayout
+        ##Image:
+        ##    source: root.image
+        ##    allow_stretch: True
+        ##    keep_ratio: True
+        ##    size_hint:.3,1
+        ##    pos_hint: {'x':.7, 'center_y':0.5}
+        MDLabel:
+            halign: 'center'
+            valign: 'top'
+            text:root.text
+            font_size: self.width/8
+            font_name: 'font/myriadpro-bold.otf'
+            size_hint:1,1
+            pos_hint: {'x':.0, 'center_y':0.5}
+            color: (1, 1, 1, 1)
+            bold: True

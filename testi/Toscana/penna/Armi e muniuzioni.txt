@@ -1,0 +1,95 @@
+1;In un fucile monogrillo, dove è inserito l’invertitore e a cosa serve?;E’ nella croce dell’asta, e serve a invertire l’ordine di ricarica delle canne;E’ inserito nella chiave di chiusura, e ne inverte il funzionamento;E’ inserito nella leva della sicura o sul monogrillo, e permette di scegliere la canna con la quale sparare per prima;C
+2;Nelle armi rigate, dove è punzonato il calibro?;Sul cilindro;Sulla canna;Sull'otturatore;B
+3;Sono legali le armi da caccia prive dei punzoni del B.N.P. (Banco Nazionale di Prova)?;Sì, purché di marche note;Sì;No;C
+4;Come si determina il calibro di una canna liscia?;Misurandola in millimetri;Con un numero che esprime quante sfere, del diametro corrispondente all'anima della canna, sono ottenibili da una libbra di piombo;Misurandola in centesimi di pollice, secondo il sistema U.K.;B
+5;Quali dei seguenti calibri ha una minore dimensione di rosata?;Calibro 20;Calibro 12;Calibro 32;C
+6;Come è anche comunemente chiamato il fucile a canna liscia a due canne giustapposte?;Sovrapposto;Doppietta;Bicanna;B
+7;Con quali dei seguenti pallini il fucile calibro 12 permette una maggiore gittata?;N. 7;N. 11;N. 2;C
+8;"L’interno di una canna da fucile del tipo ""liscia"" si suddivide fondamentalmente in...";Camera di scoppio, raccordo, anima, bindella;Camera di scoppio, raccordo, anima, sottomano;Camera di scoppio, raccordo, anima, strozzatura;C
+9;"Come funziona il ricaricamento in un fucile calibro 12 semiautomatico del tipo a ""canna fissa""?";Allo sparo il fucile si ricarica spontaneamente;Allo sparo canna e otturatore arretrano nell’asta e espellono il bossolo, che provoca automaticamente la ricarica;Per sottrazione di gas o per funzionamento inerziale;C
+10;Quando si pulisce e lubrifica un'arma, affinché sia sempre efficiente?;Una volta all'anno;Una volta al mese;Ogni qualvolta la si è usata;C
+11;"Una doppietta a cani esterni, in quali condizioni è in ""sicura""?";Con la sicura inserita;Con i cani abbassati (in riposo);Mai;B
+12;A cosa servono gli strozzatori intercambiabili?;A variare il calibro delle canne;A variare la densità della rosata;Ad aumentare la gittata;B
+13;Si può puntare un'arma in direzione delle persone?;Mai;Solo se è certamente scarica;Solo se è in sicura;A
+14;Durante una pausa di caccia, come deve essere depositata l'arma?;In sicura;Scarica, con otturatore ovvero canne aperte;Carica, ma in disparte;B
+15;Secondo la legge 157/92, quanti colpi può al massimo contenere il caricatore di un fucile semiautomatico a canna liscia?;Due;Tre;Cinque;A
+16;In quale parte della cartuccia è scritto il calibro?;Sul fondello;Sulla chiusura;Sul bossolo;A
+17;"Dove si misura la ""strozzatura"" in un fucile da caccia?";Nella camera di scoppio;Nella parte terminale della canna (volata);A metà canna;B
+18;In un fucile a cani interni, qual è l'elemento che armai percussori ?;La chiave di apertura dell'arma;L'astina;La bindella;B
+19;Come si chiama la parte del fucile posteriore alla canna?;Mirino;Bindella;Culatta;C
+20;La denuncia di un'arma a chi deve essere inoltrata?;Alla Questura, al Commissariato Polizia di Stato o, se mancanti, alla locale Stazione dei Carabinieri;All'Ufficio provinciale competente;All' Ufficio regionale competente;A
+21;Come si chiama la parte anteriore della canna?;Bascula;Volata;Bindella;B
+22;E' consentito al cacciatore il porto del coltello durante l’esercizio venatorio?;No;Sì;Sì, ma solo nel caso di circostanze di tempo e luogo che lo giustifichino;B
+23;Che funzione ha il grilletto in un fucile da caccia?;Premendolo si agisce sulla molla che percuote la capsula della cartuccia;Premendolo si agisce sulla leva di arresto del cane-percussore.;Premendolo si agisce sulla croce del cane che percuote la capsula della cartuccia;B
+24;"Che cosa è il ""drilling""?";Fucile a due canne lisce ed una rigata;Fucile con una canna liscia ed una rigata;Fucile basculante con una sola canna rigata;A
+25;Quante cartucce a munizione spezzata è consentito detenere senza denuncia, ai sensi dell’art.26 della legge 18/04/75, n.110?;Non più di 100 cartucce;Non più di 500 cartucce;Non più di 1000 cartucce;C
+26;Un fucile, prima di essere messo in vendita, deve superare una prova ufficiale di collaudo?;Sì, sul banco di prova di una grande industria nazionale di armi;Sì, presso un istituto pubblico denominato Banco Nazionale di Prova;No, se è già stato collaudato su un banco di prova di un armiere nazionale;B
+27;Chi rinvenga armi o parti di esse, munizioni ed esplosivi, come deve comportarsi?;Deve manipolarle con cautela e consegnarle al Commissariato di Polizia o Stazione di Carabinieri più vicina;Deve adeguatamente contrassegnare il posto di ritrovamento;Deve avvisare immediatamente il Commissariato di Pubblica Sicurezza o la Stazione di Carabinieri più vicina;C
+28;E' consentito, al titolare di licenza di caccia, trasportare un’arma a caccia chiusa?;Sì;Solo per giustificato motivo;No;B
+29;In quali circostanze il cacciatore deve consentire il controllo di armi e munizioni, a funzionari ed agenti di Pubblica Sicurezza?;Nel luogo di detenzione;In qualunque momento;In campagna;B
+30;"Cosa significa: fucile di calibro ""12 Magnum""?";Si tratta di un fucile calibro 12, caricabile con cartucce lunghe fino a 70 mm e con più pallini del normale;Si tratta di un fucile calibro 12, con camera di scoppio da 76 mm;Si tratta di un fucile calibro 12, caricabile con cartucce lunghe da 60 a 72 mm, indifferentemente;B
+31;"Cosa si intende per ""calibro 5,6 x 40""?";Si tratta di un calibro misurato in decimi e millesimi di pollice;Si tratta di un calibro definito dal diametro della palla e dalla lunghezza del bossolo a vuoto, in millimetri;Uno standard di calibro, definito dal peso della polvere e dal peso della palla in grammi;B
+32;Si può usare durante l’esercizio venatorio un fucile semiautomatico con caricatore, contenente non più di due cartucce?;Sì;No;Sì, purché si abbia l'autorizzazione della Provincia;A
+33;Quando viene considerato scarico un fucile?;Quando è sprovvisto di cartucce, sia in canna, sia nel serbatoio;Quando è carico, ma in sicura;Quando ha cartucce solo nel serbatoio;A
+34;Secondo la L.157/92, è consentito l'uso di un fucile a tre canne (drilling), durante l'esercizio venatorio?;No, ma in alcune regioni è tollerato;Sì;Sì, ma solo per la caccia in montagna;B
+35;Quale dei seguenti fucili ad anima liscia è consentito per la caccia?;Calibro 4;Calibro 10;Calibro 16;C
+36;Quale dei seguenti fucili con canna ad anima liscia è consentito utilizzare a caccia?;Semiautomatico con sette colpi;Semiautomatico con non più di cinque colpi;Semiautomatico con non più di due colpi nel serbatoio;C
+37;In quante categorie si dividono i fucili da caccia, in relazione al tipo di canna?;Due: a canna liscia e a canna rigata;Tre: a canna liscia, a canna rigata e a canne miste;Cinque: a canna liscia, a canna rigata, a canne miste, a canne a recupero di gas e a canna monoblock;B
+38;E' consentita la caccia con la carabina a canna rigata?;Sì, ma solo per gli Ungulati di grande taglia;No, tutte le carabine sono vietate;Sì, se di calibro non inferiore a 5,6 mm con bossolo a vuoto di altezza non inferiore a 40 mm;C
+39;Quali sono le lunghezze normali delle cartucce calibro 12?;Da 35 mm a 40 mm;Da 45 mm a 50 mm;Da 65 mm a 70 mm;C
+40;Quanto può essere lunga la canna in un fucile da caccia ad anima liscia?;Da 56 a 93 cm;Da 45 a oltre 80 cm;Da 49 a meno di 71 cm;B
+41;Una canna contrassegnata con 1 stella, rispetto a una canna contrassegnata con 4 stelle è:;più strozzata;meno strozzata;fabbricata con un acciaio di miglior qualità;A
+42;Dove sono alloggiati i congegni di percussione e di scatto in un sovrapposto o in una doppietta?;Nella bascula;Nella canna e nell’asta;Nel calcio;A
+43;A che cosa serve la capsula (o innesco) in una cartuccia?;A proteggere il piombo;A proteggere la polvere;Ad accendere la polvere;C
+44;E' consentito portare armi cariche sugli automezzi?;No, in nessun caso;Sì, nella caccia agli Ungulati;Sì, nelle fasi di spostamento;A
+45;Come può legalmente avvenire il passaggio di proprietà di un’arma da caccia?;Segnalando la cessione alla autorità presso la quale l’arma è denunciata, indicando generalità, indirizzo ed estremi del porto d'arma o del nulla-osta delQuestore per l’acquirente;Accertandosi di persona che l’acquirente abbia il porto d'arma;Registrando un atto di vendita in tre copie, per acquirente, venditore e Questura;A
+46;Come si chiama la parte della canna di un fucile che contiene la cartuccia?;Strozzatura;Serbatoio o bocca;Camera di scoppio;C
+47;Cosa si fa di una cartuccia inesplosa, perché gonfia di umidità?;La si abbandona sul terreno;La si conserva e poi la si scarica;La si conserva per asciugarla;B
+48;Si può usare, a caccia, un fucile ad avancarica?;No;Soltanto in certi casi;Sì, purché di calibro consentito;C
+49;Quale è la lunghezza minima della camera di scoppio, nei fucili calibro 12?;65 mm;70 mm;76 mm;A
+50;La prova delle armi presso il Banco Nazionale di Prova è obbligatoria?;Sì, sempre;Sì, per le armi a canna rigata;Sì, per le armi ad anima liscia;A
+51;Quali adempimenti sono imposti dalla legge al detentore di cartucce a palla?;Denunciarle all'autorità di Pubblica Sicurezza;Custodirle in apposito contenitore metallico;Custodirle in luogo chiuso a chiave;A
+52;A che cosa serve la strozzatura delle canne?;Ad aumentare la portata;A concentrare la rosata;A diminuire il rinculo;B
+53;Come è l’andamento delle rigature, all’interno della canna di una carabina?;A spirale;Elicoidale;Retto;B
+54;Che cosa occorre per l'acquisto di cartucce a palla?;Il porto d'armi o il nulla osta della Questura;L'età di 25 anni;L'età di 18 anni;A
+55;Quale fenomeno si può verificare con l'uso di cartucce aventi il bossolo più corto della camera di scoppio, nel fucile ad anima liscia?;Maggior dispersione della rosata;Maggior rinculo;Scoppio della canna;A
+56;Quale fenomeno si può verificare con l’uso di cartucce con bossolo più lungo della camera di scoppio, nel fucile a canna liscia?;Maggior dispersione della rosata;Minor rinculo;Scoppio della canna;C
+57;Per recarsi all'estero per una battuta di caccia esportando le proprie armi, a chi si rivolge specifica istanza?;Alla Questura;Al Comando Carabinieri;Al Servizio caccia della Regione;A
+58;Come deve comportarsi un cacciatore all'avvicinarsi degli organi di controllo?;Attendere scaricando l'arma;Tenere l’arma carica, perpendicolare verso il suolo;Volgere l'arma carica verso l’alto;A
+59;Le armi ad aria compressa sono considerate armi consentite per l’esercizio venatorio?;Sì, ma solo in certi periodi o regioni;Sì, ma solo per certe specie di selvaggina;No, e la violazione è sanzionata penalmente;C
+60;Per la caccia alle allodole e merli, quali cartucce è opportuno usare?;Quelle con pallini di piombo n. 00 oppure n. 1;Quelle con pallini di piombo n. 3, 4 o 5;Quelle con pallini n. 10, 11 o 12;C
+61;Quale dei seguenti calibri ad anima liscia è ammesso per l’esercizio venatorio?;Calibro 10;Calibro 4;Calibro 20;C
+62;Prima di superare un fossato a sponde alte e ripide, cosa deve fare il cacciatore prudente?;Mettere il fucile in sicura e tenerlo ben saldo in mano;Tenere rivolta verso l’alto l’arma, se carica;Scaricare il fucile e portarlo in spalla, per avere le mani libere;C
+63;Cacciando la Lepre, quale numero di pallini è meglio usare?;N. 5;N. 10;N. 12;A
+64;Quali pallini hanno diametro maggiore?;Pallini n. 8;Pallini n. 2;Pallini n. 0;C
+65;Quali pallini hanno diametro minore?;Pallini n. 11;Pallini n. 9;Pallini n. 3;A
+66;Qual' è il calibro massimo consentito per le armi da caccia a canna liscia in Italia?;Calibro 12;Calibro 36;Calibro 8;A
+67;Sparando verso i terreni sassosi, come si comportano solitamente i pallini?;Possono conficcarsi nel terreno;Si schiacciano contro i sassi senza pericolo;Possono rimbalzare pericolosamente;C
+68;In caso di sparo con munizione spezzata, in direzione di strade carrozzabili, case ecc.., a quale norma di comportamento ci si deve attenere?;Rispettare una distanza di almeno 100 m, e tenere comunque conto della effettiva gittata;Rispettare una distanza di almeno 150 m, e tenere comunque conto della effettiva gittata;Rispettare una distanza minima di 1500 m, e tenere comunque conto della effettiva gittata;B
+69;Che cosa è il borraggio della cartuccia?;L'elemento interposto tra polvere epiombo;La parte di bossolo che serve per chiudere la cartuccia;Il fondello interno del bossolo;A
+70;"E' consentito dalla legge l'uso venatorio di armi del calibro ""8 x 57JS""?";Sì;No;Soltanto all'estero;A
+71;E' consentito dalle leggi vigenti l'uso del fucile a canne sovrapposte rigate?;No;Sì;Sì, ma con alcune limitazioni;B
+72;"Come devono essere gli ""scatti"" in un fucile da caccia?";Sensibilissimi;Molto rigidi;Mai troppo sensibili;C
+73;Quale delle seguenti è una funzione della bascula di un fucile?;Contenere il baricentro dell’arma;Contenere le cartucce e garantire la sicurezza dell’arma;Assicurare la perfetta tenuta delle chiusure, nonché ospitare i congegni di percussione, scatto e sicurezza;C
+74;L'asta è detta anche...;bascula;culatta;sottomano;C
+75;"La funzione dell’asta nel fucile ""sovrapposto"" consiste nel permettere...";l’armamento dei cani;la tenuta del congegno di sicurezza;l’alloggio della bascula;A
+76;Come si misura la strozzatura di una canna di un fucile da caccia, e come è espressa?;In decimi di strozzatura, espressi con punzonature di asterischi, stelle o palline sulle canne;In millimetri quadri di strozzatura, esprimendola con lettere maiuscole;In centimetri di strozzatura, esprimendola con numeri romani;A
+77;Cosa si intende per arma?;Ogni arnese che serva alla difesa o alla offesa della persona;Ogni arnese capace di tagliare o espellere proiettili;Ogni arnese capace di espellere proiettili o con un filo di taglio di più di 12 cm;A
+78;Il peso di una palla unica per calibro 12 è circa di:;65-70 grammi;10-15 grammi;25-40 grammi;C
+79;Come sono in genere definiti i fucili a due canne rigate?;Billing;Express;Drilling;B
+80;Come è chiamato un fucile a una canna liscia e una rigata?;express;Drilling;Billing;C
+81;La cartuccia per fucile a canna liscia è composta da...;fondello, innesco, borraggio, bossolo pallini;fondello, innesco, polvere, borraggio, pallini;fondello, innesco, polvere, borraggio, bossolo, pallini;C
+82;La cartuccia per fucile a canna rigata è composta da...;bossolo metallico, innesco, polvere,palla;bossolo metallico, polvere, palla;fondello, innesco, bossolo metallico, polvere, palla;A
+83;La distanza di sicurezza, sparando con una carabina a canna rigata, si calcola conoscendo:;la gittata stabilita per quella canna, che rimane fissa per ogni tipo di munizione utilizzabile;il diametro della canna e moltiplicandolo per 100;le tabelle di gittata della carabina per le varie munizioni utilizzabili;C
+84;La distanza di sicurezza, sparando con una carabina a canna rigata che abbia una gittata di 2000 metri, è:;5000 metri;4000 metri;3000 metri;C
+85;La distanza di sicurezza, sparando con una carabina a canna rigata che abbia una gittata di 3000 metri, è:;4500 metri;4000 metri;3500 metri;A
+86;La distanza di sicurezza, sparando con una carabina a canna rigata, si calcola solamente conoscendone:;la gittata;il calibro;la lunghezza della canna;A
+87;La distanza di sicurezza, sparando con un fucile da caccia, si calcola sempre conoscendo:;il calibro;la gittata;la lunghezza della canna;B
+88;In una cartuccia calibro 12 a munizione spezzata, la percussione...;...sull'innesco incendia la polvere e causa l'esplosione;...sulla polvere incendia l'innesco e causa l'esplosione;...sul cane agisce sull’otturatore e causa l’esplosione;A
+89;In una cartuccia a munizione spezzata, come deve essere la borra?;Rigida e ben calibrata;Rigida e diametro leggermente inferiore alla canna;Elastica e ben calibrata;C
+90;In una cartuccia calibro 12 a munizione spezzata, a contatto con l'innesco ci deve essere:;la borra;il cartoncino;la polvere;C
+91;"In una cartuccia calibro ""12 Magnum"", la carica di piombo utilizzata è di...";46-53 grammi;70-75 grammi;32-34 grammi;A
+92;"Una cartuccia calibro ""12 Magnum"", sparata in un fucile calibro 12 normale, può provocare:";nessun effetto particolare se non un forte contraccolpo;pericolo di scoppio del fucile;uno sparo dal rumore particolarmente forte;B
+93;Come si misura il calibro di una canna rigata?;Misurando il diametro tra i solchi della rigatura;Facendo la media fra i diametri dei vuoti e dei solchi della rigatura;Misurando il diametro fra i pieni della rigatura;C
+94;"Dopo aver cacciato in una ""macchia"" con passaggi difficili, è opportuno...";controllare le canne del fucile;lubrificare l'arma;fare prove di tiro;A
+95;Quando si sosta o si deve saltare un fosso, è necessario...;portare l'arma appoggiata alla spalla;scaricare l'arma;abbassare l'arma;B

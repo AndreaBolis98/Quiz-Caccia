@@ -1,0 +1,48 @@
+1; Che cosa e' l'IUA?; L'Incremento Unita' Animale.; L'Incremento Utile Annuo.; L'Indice di Unita' Ambientale.;B
+2; Il piano di monitoraggio sanitario della fauna selvatica in Regione Lombardia ha come obiettivo:; la salvaguardia della salute umana attraverso il monitoraggio della fauna.; identificare solo le cause di morte degli animali selvatici.; imporre un inutile lavoro ai cacciatori.;A
+3; Cos'e' la catena alimentare?; Il flusso di energia tra le reti trofiche.; L'insieme delle componenti inorganiche.; L'insieme di produttori, consumatori e decompositori.;C
+4; Cos'e' la natalita'?; E' il numero di piccoli che ogni femmina in eta' produttiva produce.; E' il numero di animali che sopravvive all'inverno.; E' il numero di femmine presenti nella popolazione che devono partorire.;A
+5; Cos'e' la densita'?; Il numero di individui al netto della mortalita' invernale.; Il numero massimo di individui contati su una zona campione.; Il numero medio di individui per unita' di superficie.;C
+6; In quali situazioni ecologiche compaiono piu' facilmente le malattie?; Con alta densita' di animali e debole resistenza individuale.; Con bassa densita' animale e clima sfavorevole.; Con bassa densita' animale e alto disturbo.;A
+7; Qual e' l'obiettivo della gestione venatoria della fauna?; Considerare la fauna come risorsa naturale rinnovabile, da gestire con parsimonia.; Considerare la fauna come risorsa sfruttabile all'infinito.; Considerare la fauna come risorsa non rinnovabile e quindi da gestire con parsimonia.;A
+8; Utilizzando una stima qualitativa quali informazioni voglio ottenere?; Voglio conoscere il sesso e l'eta' degli individui che censisco.; Voglio conoscere l'eta' e la dislocazione della popolazione.; Voglio sapere quanti animali censisco.;A
+9; Il censimento da punti di vantaggio si applica:; quando vi sono pochi spazi aperti.; quando vi e' un alto indice di boscosita'.; quando vi e' un basso indice di boscosita'.;C
+10; Che cosa si intende per gestione integrata?; Una gestione che privilegia gli aspetti conservazionistici.; Una gestione che tenga conto sia degli aspetti conservazionistici, sia di quelli venatori.; Una gestione che considera esclusivamente gli aspetti venatori.;B
+11; Che cosa si intende per struttura di popolazione?; Il rapporto fra numero di capi e superficie occupata.; L'incremento annuale complessivo.; La composizione di una popolazione suddivisa per sessi e classi di eta'.;C
+12; Sottordine di ungulati dotati di stomaco complesso (poligastrici) composto da quattro camere. Trattasi di:; ruminanti.; suiformi.; plantigradi.;A
+13; Cosa sono i fattori limitanti?; Qualsiasi elemento che interferisca sul ciclo biologico di un organismo.; Qualsiasi elemento che agisca sull'ambiente.; Qualsiasi elemento che favorisca una specie.;A
+14; Cos'e' la capacita' portante?; Il numero minimo di individui di un ambiente.; Il numero massimo di individui che un ambiente sostiene.; Il numero massimo di individui che possono vivere in una stagione.;B
+15; Cos'e' la densita' agro-forestale?; E' il numero di piante per unita' di superficie.; E' il valore di densita' oltre il quale si verificano danni importanti alle colture agro-forestali.; E' la densita' ottimale di piante per unita' di superficie.;B
+16; Cosa e' un censimento per la caccia di selezione agli ungulati?; Il conteggio degli individui di cui occorre distinguere specie, sesso e classe d'eta'.; Il conteggio degli individui che in branco o soli occupano un'area specifica.; Il conteggio degli individui presenti nelle zone aperte a pascolo.;A
+17; Che cos'e' l'IKA?; Indice puntiforme di abbondanza.; Indice chilometrico di abbondanza.; Indice di calcolo ambientale.;B
+18; Il numero di operatori per il censimento in battuta dipende da:; dimensione dell'area da censire.; numero degli animali che si pensa ci siano in una determinata area.; numero di giornate necessarie per censire.;A
+19; Quando si applica il metodo di censimento con fonte luminosa?; Quando si ha un numero aperto di zone con buona viabilita'.; Quando si ha scarsita' di strade percorribili.; Quando le strade sono all'interno di zone boscate non censibili con altri metodi.;A
+20; Cosa si intende per nicchia ecologica di un organismo?; Il luogo fisico dove vive l'organismo.; Il ruolo svolto dall'organismo all'interno della popolazione.; La posizione di una specie all'interno dell'ecosistema.;C
+21; Il censimento delle impronte si applica principalmente al cinghiale perché:; e' una specie di cui sono facilmente determinabili le impronte.; e' una specie di abitudini solitarie.; e' una specie poligama.;A
+22; Le femmine adulte, fuori dal periodo degli amori:; vivono isolate.; vivono in branchi misti con maschi adulti.; vivono in gruppi con altre femmine e porchetti.;C
+23; In una popolazione di cinghiali puri, quand’e' il periodo degli amori?; Luglio/agosto.; Febbraio/aprile.; Ottobre/gennaio.;C
+24; Quanto dura il periodo di gravidanza delle femmine di cinghiale?; 9 mesi.; 6 mesi.; 4 mesi.;C
+25; Fino a che eta' i porchetti hanno il mantello striato?; 1 anno.; 4 mesi.; circa 2 anni.;B
+26; L'estensione e la profondita' delle grufolate (scavi), tipici segni di presenza del cinghiale, sono influenzate da:; struttura della popolazione.; umidita' del terreno e tipo di cibo reperibile.; presenza di femmine gravide.;B
+27; In una popolazione ben strutturata di cinghiali puri, quale e' di norma l’incremento utile annuo?; 55%.; 10%.; 100-200%.;C
+28; In una popolazione pura di cinghiali, in quale mese solitamente avviene il periodo dei parti?; Febbraio/marzo.; Luglio.; Ottobre.;A2
+29; Le femmine pure di cinghiale, di norma, nell’arco dell’anno partoriscono:; 1 volta.; 2 volte.; 3 volte.;A
+30; I cinghiali denominati “bestie rosse” o “rossi” hanno la seguente eta':; 1-2 anni.; 2 mesi.; 6-12 mesi.;C
+31; Il primo molare di un cinghiale presenta segni di usura. Siamo di fronte ad un animale di quanti anni?; Tre/quattro anni.; Due/tre anni.; Oltre i cinque anni.;A
+32; Quanti sono i denti del cinghiale adulto?; 44.; 40.; 32.;A
+33; Come si determina l'eta' nel cinghiale abbattuto?; Attraverso la lunghezza delle coti.; Attraverso la lunghezza delle coti e delle difese.; Attraverso la formula dentaria e la dimensione dei canini.;C
+34; Ai fini della dieta come si considera il cinghiale?; Monogastrico – onnivoro.; Monogastrico – erbivoro.; Poligastrico – erbivoro.;A
+35; Quale delle seguenti affermazioni, riferite al cinghiale, e' corretta?; Le necessita' vitali sono: acqua, nutrimento e copertura vegetale.; Le necessita' vitali sono: copertura e aree assolate.; Le necessita' vitali sono: nutrimento e presenza di attivita' agricole.;A
+36; Quale delle seguenti affermazioni, riferite al cinghiale, e' corretta?; La testa e' piuttosto piccola ed occupa circa un quinto della lunghezza del corpo.; La testa e' piccola ed occupa circa un sesto della lunghezza del corpo.; La testa e' grande ed occupa circa un terzo della lunghezza del corpo.;C
+37; In una popolazione di cinghiali quale classe sociale ha la testa triangolare stretta alla base ed acuta, scarsa differenza tra quarti anteriori e quarti posteriori?; I maschi in generale.; I maschi subadulti.; Le femmine in generale.;C
+38; Il cinghiale ci si reca abitualmente, la sua funzione principale e' quella di inglobare nel fango i parassiti per poi eliminarli: di cosa si tratta?; Della grufolata.; Dell'insoglio.; Del bolo alimentare.;B
+39; In che periodo i maschi solitari si riuniscono ai branchi familiari e scacciano i maschi giovani?; Il periodo delle cure parentali.; Il periodo delle nascite.; Il periodo degli accoppiamenti.;C
+40; Quale range altitudinale comprende la distribuzione del cinghiale?; Dal livello del mare a ben oltre l'orizzonte alpino (al di sopra della vegetazione arborea).; Da circa 500 metri di altitudine al limite delle formazioni boschive.; Dal livello del mare al limite delle formazioni boschive.;C
+41; Come si chiamano i canini della mandibola?; Picozzi.; Coti.; Difese.;C
+42; Cosa si intende per densita' agro-forestale?; Densita' minima per l'applicazione di un piano di controllo del cinghiale.; Massima densita' superata la quale si verificano danni importanti alle colture agro-forestali.;Massima densita' superata la quale compaiono segni di decadimento fisico all'interno della popolazione.;B
+43; Cosa consentono di verificare i censimenti?; La struttura, la densita' e la distribuzione delle popolazioni.; La disponibilita' alimentare per le popolazioni presenti.; La pressione venatoria su quel territorio.;A
+44; Cosa si intende per habitat?; Il luogo fisico dove vive l'organismo.; Il ruolo svolto dall'organismo all'interno della popolazione.; La funzione che svolge l'organismo all'interno della popolazione.;A
+45; Cosa si intende per densita' biotica?; Massima densita' raggiungibile da una popolazione attraverso meccanismi di autoregolazione; Massima densita' superata la quale si verificano danni intollerabili alle colture agro forestali.; Densita' minima per l'applicazione di un piano di controllo del cinghiale.;A
+46; Cosa si deve conoscere per programmare un piano di abbattimento?; La mortalita' ecologica della popolazione.; Solo la consistenza numerica totale (numero degli effettivi).; Consistenza, sex ratio, struttura e incremento utile annuo IUA.;C
+47; Quale fra i seguenti metodi di difesa diretta delle colture nei confronti del cinghiale, e' risultato essere il piu' efficace?; Barriere di tipo fisico (recinzioni elettrificate).; Barriere ottiche (sagome umane).; Repellenti acustici.;A
+48; In che periodo i maschi solitari si riuniscono ai branchi familiari e scacciano i maschi giovani?; Il periodo delle cure parentali.; Il periodo delle nascite.; Il periodo degli accoppiamenti.;C

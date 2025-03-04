@@ -1,0 +1,50 @@
+1;Una ferita ha più possibilità di infezione tetanica quando:;è causata da arma da fuoco;è contaminata da acqua;è contaminata da terra;C
+2;In caso di ferita a rischio di contaminazione tetanica, cosa si deve fare per prestare il primo soccorso?;Detergere la ferita;Iniettare il siero antitetanico;Tamponare la ferita;A
+3;Il dolore più tipico dell'infarto cardiaco è:;al centro del torace ed al braccio sinistro;a sinistra sul cuore;tra le scapole;A
+4;In caso di emorragia arteriosa, la compressione emostatica va effettuata:;a monte della ferita con qualsiasi materiale;direttamente sulla ferita;a valle della ferita;B
+5;In caso di epistassi (fuoriuscita di sangue al naso) è consigliabile...;rovesciare indietro la testa;tappare il naso con cotone idrofilo;tenere le dita premute sulle cartilagini del naso, con la testa leggermente chinata in avanti;C
+6;In caso di frattura all'avambraccio, dobbiamo immobilizzare:;il polso;il gomito;dal polso e al gomito;C
+7;Se dopo un grave trauma cranico abbiamo emorragia dall'orecchio o dal naso, dobbiamo:;tamponare;pulire e disinfettare;lasciare fuoriuscire il sangue;C
+8;In caso di puntura di insetto, la complicanza immediata più grave è:;la reazione allergica;l'infezione;l'emorragia;A
+9;Quali sono i segni e i sintomi di una frattura?;Dolore, arrossamento, impotenza funzionale, comparsa di versamento sieroso;Dolore, impotenza funzionale, deformità, tumefazione;Impotenza funzionale, pelle umida, perdita di sensibilità;B
+10;In caso di perdita di coscienza su un soggetto, non traumatizzato, in presenza di respirazione efficace, dobbiamo:;metterlo seduto e accudirlo;sdraiarlo a testa in alto e controllare le pupille;metterlo nella posizione di sicurezza;C
+11;Per una corretta respirazione artificiale, la testa deve essere:;inclinata all'indietro;con il mento che tocca il torace;di lato;A
+12;Nell' arresto cardiaco, come si fa ad evitare che la caduta della lingua all' indietro ostruisca le vie aeree?;si iperstenie la testa del soggetto;si flette la testa del soggetto;si mette il soggetto seduto;A
+13;Nel caso del classico svenimento (lipotimia), poniamo il soggetto:;seduto;sdraiato a gambe aperte;sdraiato a gambe sollevate;C
+14;In caso di sospetta frattura della colonna vertebrale, il trasporto sarà effettuato:;interessandosi di immobilizzare gli arti;spostando il ferito in maniera accorta;dal personale sanitario attivato dalla chiamata di emergenza;C
+15;In caso di lussazione dobbiamo:;ridurla al più presto;immobilizzare l'arto;fasciarlo strettamente;B
+16;Nella medicazione di una ferita, la garza deve essere fissata con cerotto:;a croce;su tutto il contorno;a monte e a valle;B
+17;Se una ferita è causata da una scheggia di vario tipo ed è ancora conficcata, dobbiamo:;estrarla al più presto;medicare, fasciare, lasciandola dov'è e ospedalizzare al più presto;estrarla e tamponare;B
+18;In caso di ferita profonda alla coscia, con emorragia arteriosa, è giusto:;comprimer fortemente la coscia sul punto della ferita;comprimere al lato della ferita;posizionare esclusivamente il laccio emostatico;A
+19;Il trasporto in auto di un infortunato deve essere effettuato:;sempre e stando seduto immobile;comunque, ma velocemente;solo se l'infortunio è lieve;C
+20;Il colpo di calore si verifica:;per esposizioni prolungate al sole;per la permanenza in ambienti caldi, umidi e poco ventilati;per contatto prolungato con sorgenti di calore;B
+21;Cosa non dobbiamo fare nel colpo di calore?;Ventilare;Fare impacchi gelati;Far bere, poco alla volta, acqua con un pizzico di sale;B
+22;L'assideramento vero e proprio inizia quando la temperatura corporea scende al disotto di;35°C;32° C;20°C;B
+23;Per prevenire il congelamento si deve:;portare indumenti caldi e sovrapposti;stare immobili;portare indumenti con lacci stretti;A
+24;In caso di ustione di secondo grado in presenza di bolle, dobbiamo:;forarle e fare uscire il liquido;non toccarle;tagliarle e asportarle;B
+25;In caso di ustione di I° e II° è necessario innanzitutto:;raffreddare l'ustione con acqua corrente;applicare cerotti e garze per coprire l'ustione;asportare le vesciche dopo averle perforate;A
+26;In caso di principio di congelamento delle dita di un piede, bisogna:;immergere in acqua tiepida ( 37°C );immergerle in acqua fredda;mettere la parte davanti ad una fonte diretta di calore;A
+27;Dove si effettua il massaggio cardiaco;sulle coste;sulla parte sinistra del torace;sulla metà inferiore dello sterno;C
+28;La respirazione artificiale deve essere praticata;solo se si eseguono anche le compressioni toraciche esterne;in tutti i casi di respiro assente o insufficiente;solo se sono disponibili la maschera tascabile o il pallone auto espansibile;B
+29;Qual' è il sintomo caratteristico di un possibile arresto cardio circolatorio?;dolore al petto;colorito roseo;lentezza nei movimenti;A
+30;Come si distingue una emorragia arteriosa esterna da una venosa?;Il colore del sangue è più rosso nella venosa;Nell'arteriosa la velocità di uscita del sangue è maggiore e ritmica;Il colore del sangue è più scuro nell'arteriosa;B
+31;La sete intensa può essere sintomo di:;colpo di sole;colpo di calore;assideramento;B
+32;Nel colpo di calore la cute è:;arrossata, asciutta e calda;pallida, sudorante e fredda;arrossata, sudorante e fredda;A
+33;In caso di morso di vipera si deve:;correre al mezzo di trasporto;bere alcolici per attenuare il dolore del morso;stare calmi e cercare di mantenere la respirazione regolare;C
+34;Che sintomi dà il morso di vipera?;Svenimento dopo 15 minuti;Immediato intenso dolore locale;Delirio dopo 1 ora;B
+35;Come si interviene in caso di punture da insetti con pungiglione?;Si lascia in sede il pungiglione, e si preme fortemente;Si cerca di estrarre delicatamente il pungiglione, si disinfetta, e si mette una pomata antistaminica;Si lava bene, si disinfetta, si fa un piccolo taglio nella zona, e si mette pomata antistaminica;B
+36;Cosa è più consigliabile fare, in caso di morso di Vipera?;Succhiare il sangue dalla ferita;Tenere calma la persona ed immobilizzare l'arto colpito, poi ospedalizzare il prima possibile;Incidere con un taglio che unisca i due fori di ingresso;B
+37;In caso di morso di vipera su cane:;il cane smette l'azione di caccia;il cane non mostra sintomi particolari;il cane latra e corre in tondo;A
+38;In caso di incidente grave:;si controlla l'infortunato, da debita distanza, fino all' arrivo dei soccorsi;quando si è avvertito il 118 si può lasciare il luogo dell'incidente;si presta il primo soccorso, si avverte il 118 e si vigila sull' infortunato fino all' arrivo dei soccorsi;C
+39;Come si suddividono le ustioni, a seconda della loro profondità?;dal I° al III° dove il I° è il meno grave;dal I° al III° dove il I° è il più grave;dal I° al V° dove il V° è il più grave;A
+40;Come si riconosce la vipera?;dalla testa triangolare e dalla pupilla verticale;dalla testa oblinga;dalla coda lunga e fusiforme;A
+41;Il termine shock in medicina d'urgenza indica che:;una persona ha difficoltà motorie e sensoriali;una persona ha provato una forte emozione;una persona presenta una situazione di difficile equilibrio emodinamico per cui è a rischio di aggravamento;C
+42;Come è opportuno rimuovere una zecca?;si afferra con una pinzetta, il più possibile a livello della cute del soggetto, mediante torsione e si estrazione senza strapparla né schiacciarla;cospargendo la zecca con olio in modo che soffochi;con insetticida;A
+43;Un soggetto in arresto cardio circolatorio presenta;assenza di polso carotideo;assenza di respirazione;stato confusionale;A
+44;La gravità di una ustione dipende;dalla profondità, dalle lesioni associate;dalla profondità, dall'estensione, da eventuali lesioni associate;dalla profondità, dall' età del soggetto;B
+45;Qual è la corretta sequenza dei controlli da effettuare nei confronti di un soggetto caduto a terra a seguito di trauma o malore?;controllo di respirazione, coscienza e circolazione;controllo di coscienza, respirazione e circolazione;controllo di circolazione, coscienza e respirazione;B
+46;Che cosa si intende per primo soccorso?;l'immediata disinfezione e la somministrazione di terapie farmacologiche generiche;l'aiuto immediato che chiunque può prestare a chi è colto da un malore o è vittima di un qualsiasi incidente;le cure prestate dal personale sanitario all' arrivo dell' ambulanza;B
+47;In caso di shock il polso è:;debole e accellerato;ampio e accelerato;debole e lento;A
+48;A quale conseguenza può portare una prolungata esposizione al sole?;alla possibilità di ustionarsi gravemente;alla possibilità di subire un colpo di sole;alla possibilità di subire un colpo di calore;B
+49;Con quale sequenza devono alternarsi compressioni cardiache e ventilazione nella rianimazione cardio- polmonare in un soggetto adulto?;30 compressioni - 2 ventilazioni;5 compressioni - 1 ventilazione;15 compressioni - 2 ventilazioni;A
+50;Il soggetto in arresto cardiaco è da considerarsi:;morto;incosciente;incosciente, senza respiro e senza polso;C

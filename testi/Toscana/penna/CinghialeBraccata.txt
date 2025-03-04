@@ -1,0 +1,24 @@
+1;Quale tipo di munizione può essere usata per la caccia al cinghiale?;Spezzata;Intera;Possono essere usate entrambe le munizioni;B
+2;Durante la caccia la cinghiale a quale distanza minima è consentito sparare in direzione di una strada comunale?;a 150 metri;a 1.000 metri;Una volta e mezzo la gittata dell'arma;C
+3;Per mantenere in equilibrio la popolazione del cinghiale al fine di ridurre i danni si dovrebbe:;Abbattere il 50% degli adulti e l’80% delle classi di giovani;Abbattere solo gli adulti per l’80%.;Abbattere solo i giovani in modo da avere tutti gli anni molti cinghiali per la caccia.;A
+4;Fino a quale età il giovane cinghiale mantiene le caratteristiche strisce longitudinali chiare ebrune?;Fino a un anno;Fino a circa quattro mesi;Fino a nove mesi;B
+5;Durante una battuta di caccia al cinghiale i battitori ed i bracchieri quale tipo di munizione possono portare?;Cartucce cariche a salve;Cartucce caricate con munizione spezzata;Nessun tipo di munizione;A
+6;Quali sono i problemi connessi con l’ibridazione del cinghiale con il maiale?;Perdita del patrimonio genetico del cinghiale selvatico;Fenomeni di rachitismo nei cinghiali;Imbastardimento della specie domestica;A
+7;Secondo la Legge 157/1992 in quale periodo è consentita la caccia al cinghiale?;Dalla terza domenica di settembre al 31 gennaio;Dalla terza domenica di settembre al 31 dicembre;Dal 1 novembre al 31 gennaio o dal 1 di ottobre al 31 dicembre;C
+8;Quant'è l'angolo di tiro anteriore e posteriore, nella caccia al cinghiale in battuta, per il cacciatore alla posta?;180°;90°;360°;B
+9;I pascoli risultano danneggiati dai cinghiali perché?;Mangiano l’erba;Distruggono le erbe rimuovendo il terreno per ricercare radici e altro;Calpestano e sporcano le erbe;B
+10;Da che cosa è rappresentato il trofeo del cinghiale?;Dai denti incisivi;Dalle difese e dalle coti;Dalla mandibola;B
+11;In quale periodo è consentito l’uso della munizione spezzata per la caccia al cinghiale?;Dal 1 novembre al 31 dicembre.;Dal 1 gennaio al 31 gennaio.;In nessun periodo dell’anno.;C
+12;Nelle Zone di Ripopolamento e Cattura (Z.R.C.) i cinghiali vengono abbattuti per:;Evitare danni alle altre specie selvatiche;Incrementare la presenza del cinghiale nelle zone limitrofe;Evitare il bracconaggio.;A
+13;Quando il cinghiale supera la capacità portante di un ecosistema si ha:;Compromissione dell’equilibrio ecologico della zona;Forte diminuzione della specie;Più possibilità di caccia;A
+14;Durante la battuta al cinghiale il cacciatore alla posta può portare cartucce caricate con munizionespezzata?;No;Si;Si, per sparare alla volpe;A
+15;"Quand'è che il fucile può essere caricato da un cacciatore ""alla posta"" durante la battuta alcinghiale?";"Dopo l'assegnazione del posto ""di posta"" e dopo l'inizio della cacciata";Appena scende dal mezzo di trasporto;Appena entra nel bosco;A
+16;Come si definisce la classe di età nel cinghiale?;Dalla sequenza dell’eruzione dei denti e dalla loro usura;Dal peso corporeo;Dalla lunghezza delle zanne;A
+17;Quale è il metodo più pratico per determinare l’età in un giovane cinghiale?;Valutare l’usura dei molari;Determinare il peso secco del cristallino;Valutare l’eruzione e la sostituzione dei singoli denti;C
+18;Il proprietario di un fondo chiuso può autorizzare la caccia al suo interno?;No;Si;Solo al cinghiale;A
+19;Quale è il fattore principale che condiziona il ciclo riproduttivo nel cinghiale?;Il numero di femmine che un maschio riesce a trovare;La migliore disponibilità di rifugio nella macchia;La maggiore offerta di cibo nell’ambiente;C
+20;La muta del pelo nel cinghiale:;Non avviene mai nel corso dell’anno;Inizia dagli arti e si estende alle parti superiori del tronco;Inizia dalle parti superiori del tronco e si estende agli arti;B
+21;Qual è l'ambiente naturale del Cinghiale?;Pianure a coltura intensiva;Basse colline coltivate;Foreste con fitto sottobosco e con vicinanza di campi e radure;C
+22;Che tipo di canna ad anima liscia è consigliata per la caccia al Cinghiale?;Canna lunga e strozzata;Canna lunga e mediamente strozzata;Canna corta e cilindrica;C
+23;L'incremento del numero dei cinghiali sul territorio viene favorito da:;Un inverno particolarmente rigido;Una produzione costante e diffusa di ghiande e castagne;Una estensione di colture erbacee irrigue;B
+24;Il cinghiale è un animale onnivoro perché:;E' un ruminante;Mangia ogni genere di alimento;E' poligastrico;B
